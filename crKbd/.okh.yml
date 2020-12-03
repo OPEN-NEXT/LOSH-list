@@ -1,18 +1,17 @@
+okh-version: 2.0
 name: crKbd, Corne, Helidox
 image: https://user-images.githubusercontent.com/736191/49698496-0c3c0c80-fc08-11e8-87bc-4fd2aa7f3f78.jpg
-owner: Kosuke Adachi - foostan@github
+licensor: Kosuke Adachi <foostan@github.com>
 version: v2.1
 status: prototype
 language:
-  - EN
-  - JP
-function: The Corne, 40% split mechanical USB general purpose keyboard. Two halves with 3x6 column staggered keys and 3 thumb keys. It has full RGB backlighting, and is fully programmable using the pupolar Open Source QMK firmware. The basic design principles are, to have a minimal, ergonomically arranged set of keys that are all reachable by moving at a finger by at most a distance of one key in diagonal.
-function-category: ergonomic split keyboard
-license: MIT
+  - en_US
+  - jp_JP
+function: The Corne is a 40% split mechanical USB general purpose keyboard. It is made up of two halves with 3x6 column staggered keys and 3 thumb keys. It has full RGB backlighting, and is fully programmable using the popular Open Source QMK firmware. The basic design principles are, to have a minimal, ergonomically arranged set of keys that are all reachable by moving a finger by at most a distance of one key in diagonal.
+patent-class: G06C 7/02
+spdx-license: MIT
 readme: https://github.com/foostan/crkbd/blob/master/README.md
-certificate:
-repo: https://github.com/foostan/crkbd/
-standard:
+repository: https://github.com/foostan/crkbd/
 functional-metadata:
   - 2 * (Arduino) Pro Micro microcontrollers
   - QMK Firmware
@@ -25,16 +24,9 @@ functional-metadata:
   - 2 halves * (3 rows * 6 columns + 3 thumb_keys) = 42 keys total
   - 1 (optional) OLED screen per half
   - TRRS (4 pole 3.5mm audio cable) connection between the two halves
-TsDC: TsDC-ASM-PCB
-source-3d:
-source-2d: https://raw.githubusercontent.com/foostan/crkbd/master/corne-cherry/pcb/corne-cherry.kicad_pcb
-source+:
-  user manual
-    https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md
-source+:
-  user manual (JP)
-    https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_jp.md
-export-3d:
-export-2d:
-export+:
-sBoM: https://github.com/OPEN-NEXT/OSHI/blob/master/sample_data/crKbd/sBoM.csv
+tsdc-id: TsDC-ASM-PCB
+source:
+  - PCB: https://raw.githubusercontent.com/foostan/crkbd/master/corne-cherry/pcb/corne-cherry.kicad_pcb
+  - user-manual: https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md
+  - user-manual-JP: https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_jp.md
+simplified-bom: https://github.com/OPEN-NEXT/OSHI/blob/master/sample_data/crKbd/sBoM.csv

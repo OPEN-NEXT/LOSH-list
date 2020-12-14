@@ -6,6 +6,7 @@
     "patent-class": "D03D 35/00",
     "tscd-id": "ASM-MEC",
     "simplified-bom": "https://github.com/OPEN-NEXT/LOSH-list/blob/main/OHLOOM/sBoM.csv",
+    "development-stage": "prototype",
     "functional-metadata": "2m warp length",
     "production-metadata": "3D printed & woodcrafted",
     "assembly-instruction": "https://gitlab.com/OSEGermany/ohloom/-/blob/master/Documentation/Assembly_Guide/AssemblyGuide.md",

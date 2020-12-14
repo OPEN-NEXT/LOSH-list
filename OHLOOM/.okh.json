@@ -10,6 +10,7 @@
     "functional-metadata": "2m warp length",
     "production-metadata": "3D printed & woodcrafted",
     "assembly-instruction": "https://gitlab.com/OSEGermany/ohloom/-/blob/master/Documentation/Assembly_Guide/AssemblyGuide.md",
+    "export-package": "URL-to-export-package.zip",  
     "version": "0.10.0",
     "spdx-license": "CC-BY-SA-4.0",
     "readme": "https://gitlab.com/OSEGermany/ohloom/-/blob/master/README.md",

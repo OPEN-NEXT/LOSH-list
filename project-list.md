@@ -54,6 +54,7 @@ open:
 - [helpful engineering](https://airtable.com/shrZ8pIj3rV6BAqdq/tblaQ1M283TuaV2Im)
   - are adopting OKHv1 [here](https://github.com/helpfulengineering/library/tree/main/okh)
 - [open labware](https://open-labware.net/)
+- <https://panglosslabs.org/projects/osprojgc/>
 
 ---
 

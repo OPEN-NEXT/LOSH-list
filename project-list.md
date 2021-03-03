@@ -55,6 +55,8 @@ open:
   - are adopting OKHv1 [here](https://github.com/helpfulengineering/library/tree/main/okh)
 - [open labware](https://open-labware.net/)
 - <https://panglosslabs.org/projects/osprojgc/>
+- fieldready airtables
+  - <https://airtable.com/shr7qCXm4FX58L9C2/tblg3xZw5oipFkSqi/viwn8f2AuEiWox3Ol>
 
 ---
 

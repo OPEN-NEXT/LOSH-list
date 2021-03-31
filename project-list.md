@@ -108,12 +108,12 @@ open:
 
 #### photovoltaic
 
-- [MPPT 1210 HUS](https://github.com/LibreSolar/MPPT-1210-HUS)
+- [x] [MPPT 1210 HUS](https://github.com/LibreSolar/MPPT-1210-HUS)
 - [openWB](https://github.com/snaptec/openWB)
 
 ### lab equipment
 
-- [COSI Measure](https://github.com/opensourceimaging/cosi-measure/)
+- [x] [COSI Measure](https://github.com/opensourceimaging/cosi-measure/)
 - [OpenFlexure](https://gitlab.com/openflexure)
 - [OpenSpim](https://openspim.org/)
 - [Open Spin Microscopy](https://sites.google.com/site/openspinmicroscopy/)
@@ -205,7 +205,7 @@ open:
 
 #### textile
 
-- [OHLOOM](https://wiki.opensourceecology.de/Open_Hardware-Webstuhl_%E2%80%93_OHLOOM)
+- [x] [OHLOOM](https://wiki.opensourceecology.de/Open_Hardware-Webstuhl_%E2%80%93_OHLOOM)
 
 ### tracing & tracking & remote sensing
 

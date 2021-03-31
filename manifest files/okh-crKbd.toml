@@ -1,0 +1,30 @@
+okhv = "2.0"
+name = "crKbd, Corne, Helidox"
+repo = "https://github.com/foostan/crkbd/commit/894984e"
+version = "894984e"
+license = "MIT"
+licensor = "Kosuke Adachi <foostan@github.com>"
+readme = "README.md"
+image = ["https://user-images.githubusercontent.com/736191/49698496-0c3c0c80-fc08-11e8-87bc-4fd2aa7f3f78.jpg", "corne-cherry/doc/v3/assets/build_diode_overview.jpg"]
+documentation-language = ["en_US", "jp_JP"]
+technology-readiness-level = "OTRL-6"
+documentation-readiness-level = "ODRL-5"
+function = "The Corne is a 40% split mechanical USB general purpose keyboard. It is made up of two halves with 3x6 column staggered keys and 3 thumb keys. It has full RGB backlighting, and is fully programmable using the popular Open Source QMK firmware. The basic design principles are, to have a minimal, ergonomically arranged set of keys that are all reachable by moving a finger by at most a distance of one key in diagonal."
+cpc-patent-class = "G06C 7/02"
+tsdc = "PCB"
+bom = "https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md"
+manufacturing-instructions = "/corne-*/doc/**/*.md"
+#user-manual = "/manual/"
+
+# ToDo: functional-metadata:
+#  - 2 * (Arduino) Pro Micro microcontrollers
+#  - QMK Firmware
+#  - split
+#  - N-key roll-over (NKRO)
+#  - fully programmable
+#  - full RGB backlighting
+#  - hot-swap switch sockets
+#  - RGB backlighting
+#  - 2 halves * (3 rows * 6 columns + 3 thumb_keys) = 42 keys total
+#  - 1 (optional) OLED screen per half
+#  - TRRS (4 pole 3.5mm audio cable) connection between the two halves

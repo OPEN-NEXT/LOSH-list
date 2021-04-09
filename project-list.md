@@ -61,6 +61,7 @@ open:
 - <https://www.sensorica.co/projects>
 - [reGOSH projects](https://regosh.libres.cc/en/projects/)
   - seem well documented
+- [Adafruit Projects](https://learn.adafruit.com/)
 
 ---
 

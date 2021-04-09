@@ -58,6 +58,8 @@ open:
 - fieldready airtables
   - <https://airtable.com/shr7qCXm4FX58L9C2/tblg3xZw5oipFkSqi/viwn8f2AuEiWox3Ol>
 - <https://www.sensorica.co/projects>
+- [reGOSH projects](https://regosh.libres.cc/en/projects/)
+  - seem well documented
 
 ---
 

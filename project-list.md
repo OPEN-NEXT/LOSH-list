@@ -36,6 +36,7 @@ open:
 - <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4853539/> (medical devices)
 - <https://www.open-raman.org/>
 - <https://publiclab.org/> e.g. <https://publiclab.org/wiki/desktop-spectrometry-kit-3-0>
+  - citizen science
 - <https://www.labonthecheap.com/>
 - <https://github.com/biohackacademy>
 - <https://www.openstructures.net/parts>

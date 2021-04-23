@@ -1,0 +1,7 @@
+name = "Landwirtschaftlichen_Abfall_wiederverwerten,_um_hei%C3%9Fes_Wasser_herzustellen"
+repo = "https://www.appropedia.org/Landwirtschaftlichen_Abfall_wiederverwerten,_um_hei%C3%9Fes_Wasser_herzustellen"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Emccormick", "Ole ersson",]
+function = "agriculture, compost, compost heater, waste"
+documentation-language = "de"

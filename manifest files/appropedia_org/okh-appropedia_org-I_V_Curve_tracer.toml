@@ -1,0 +1,7 @@
+name = "I-V_Curve_tracer"
+repo = "https://www.appropedia.org/I-V_Curve_tracer"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = "Tatianavb"
+function = "3d printing, photovoltaic"
+documentation-language = "en"

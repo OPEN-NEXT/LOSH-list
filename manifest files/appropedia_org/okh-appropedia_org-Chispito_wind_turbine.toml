@@ -1,0 +1,7 @@
+name = "Chispito_wind_turbine"
+repo = "https://www.appropedia.org/Chispito_wind_turbine"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wind_generator_system.jpg"
+function = "wind turbine, wind energy, Wind power - Chispito wind turbine"
+documentation-language = "en"

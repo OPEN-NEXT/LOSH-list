@@ -1,0 +1,7 @@
+name = "3D_printed_PLA_as_a_mold_material_for_ceramics"
+repo = "https://www.appropedia.org/3D_printed_PLA_as_a_mold_material_for_ceramics"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Ampringl", "Raclark", "Bllafata", "Hjhunt", "Swallen", "WayneHelminen",]
+image = "https://www.appropedia.org/w/images/6/6d/PrefiredwithMold.jpg"
+function = "3D printing, PLA, ceramics - Mold and prefired nozzle in two pieces."

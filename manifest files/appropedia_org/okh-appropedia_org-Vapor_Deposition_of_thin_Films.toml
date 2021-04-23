@@ -1,0 +1,7 @@
+name = "Vapor_Deposition_of_thin_Films"
+repo = "https://www.appropedia.org/Vapor_Deposition_of_thin_Films"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://www.appropedia.org/w/images/3/3a/Mech370_laser.jpg"
+function = "Vapor deposition"
+documentation-language = "en"

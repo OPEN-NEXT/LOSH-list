@@ -1,0 +1,6 @@
+name = "Rooftop_PV_System_for_the_NAC_Building_of_CCNY"
+repo = "https://www.appropedia.org/Rooftop_PV_System_for_the_NAC_Building_of_CCNY"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://www.appropedia.org/w/images/8/82/Nac_boundary.png"
+function = "photovoltaic, rooftop, solar, pv system"

@@ -1,0 +1,7 @@
+name = "CCAT_bike_powered_tools"
+repo = "https://www.appropedia.org/CCAT_bike_powered_tools"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Sbecerra", "Alextak58", "Ndb21",]
+image = "https://www.appropedia.org/w/images/2/2d/Before_ccat_bike.png"
+function = "CCAT, bicycle, bike, bike powered tools, pedal power"

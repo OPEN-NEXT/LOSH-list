@@ -1,0 +1,8 @@
+name = "Bayside_Park_Farm_rainwater_catchment_system"
+repo = "https://www.appropedia.org/Bayside_Park_Farm_rainwater_catchment_system"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Cf904", "Fr244", "Raiza.tinoco",]
+image = "https://www.appropedia.org/w/images/7/77/Final_system.jpg"
+function = "catchement, rainwater, reused - Rainwater Catchment System finished."
+documentation-language = "en"

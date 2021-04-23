@@ -1,0 +1,7 @@
+name = "CCAT_outdoor_kitchen_roof"
+repo = "https://www.appropedia.org/CCAT_outdoor_kitchen_roof"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Nick Brandi", "Buddy Mitchell", "user:Val.tin", "user:Emilyread",]
+image = "https://www.appropedia.org/w/images/8/8a/OutdoorKitchenRoof_protoIMG3.JPG"
+function = "ccat, green building, green construction, outdoor, roof"

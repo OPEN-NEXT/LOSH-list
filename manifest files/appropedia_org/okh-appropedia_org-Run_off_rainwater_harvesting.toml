@@ -1,0 +1,8 @@
+name = "Run-off_rainwater_harvesting"
+repo = "https://www.appropedia.org/Run-off_rainwater_harvesting"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = "Fatima"
+image = "https://www.appropedia.org/w/images/f/f0/16.JPG"
+function = "farming, rainwater harvesting, run-off"
+documentation-language = "en"

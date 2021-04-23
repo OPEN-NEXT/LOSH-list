@@ -1,0 +1,6 @@
+name = "CCAT_solar_heated_hot_tub"
+repo = "https://www.appropedia.org/CCAT_solar_heated_hot_tub"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Tebie", "user:ths79", "user:TyMuho",]
+function = "ccat, heated, hot tub, solar"

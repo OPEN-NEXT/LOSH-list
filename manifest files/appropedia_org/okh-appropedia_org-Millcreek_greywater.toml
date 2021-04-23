@@ -1,0 +1,6 @@
+name = "Millcreek_greywater"
+repo = "https://www.appropedia.org/Millcreek_greywater"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://www.appropedia.org/w/images/8/80/E_millcreekgreywater_plant.JPG"
+function = "graywater, grey water, greywater"

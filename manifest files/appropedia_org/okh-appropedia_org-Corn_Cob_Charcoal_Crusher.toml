@@ -1,0 +1,7 @@
+name = "Corn_Cob_Charcoal_Crusher"
+repo = "https://www.appropedia.org/Corn_Cob_Charcoal_Crusher"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Joshua Cholobesa", "Nathan Cooke", "Bernard Kiwia", "Sumit Pahwa", "Jessica Vechakul",]
+image = "https://www.appropedia.org/w/images/0/0a/Carbonizedcorncobs.jpg"
+function = "biofuel, charcoal, corn"

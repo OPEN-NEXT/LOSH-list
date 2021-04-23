@@ -1,0 +1,7 @@
+name = "World_Shelters_Rubble_to_Resource"
+repo = "https://www.appropedia.org/World_Shelters_Rubble_to_Resource"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://www.appropedia.org/w/images/d/da/Final_trench.jpg"
+function = "world shelters"
+documentation-language = "en"

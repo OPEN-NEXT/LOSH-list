@@ -1,0 +1,6 @@
+name = "Pandemic_Ventilator"
+repo = "https://www.appropedia.org/Pandemic_Ventilator"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = "user:Scdertin"
+function = "ventilator"

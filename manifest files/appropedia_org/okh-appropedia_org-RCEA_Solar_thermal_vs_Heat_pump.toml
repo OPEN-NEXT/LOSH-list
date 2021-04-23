@@ -1,0 +1,7 @@
+name = "RCEA Solar thermal vs Heat pump"
+repo = "https://www.appropedia.org/RCEA_Solar_thermal_vs_Heat_pump"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Rok duncan", "Dhhemmings", "Achannel", "Ryan Kriken",]
+image = "https://www.appropedia.org/w/images/e/e9/CO2.GIF"
+function = "heat pump, solar, solar thermal, solar heating - CO2 emissions comparison"

@@ -1,0 +1,5 @@
+name = "Greenhouse_Solar_Still"
+repo = "https://www.appropedia.org/Greenhouse_Solar_Still"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+function = "Solar distillation, solar still"

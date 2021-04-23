@@ -1,0 +1,7 @@
+name = "Marmoleum_vs_Pergo_Comparison"
+repo = "https://www.appropedia.org/Marmoleum_vs_Pergo_Comparison"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = [ "Mitsuki Mitsukai", "Bcr8",]
+image = "https://www.appropedia.org/w/images/4/47/Co2_emissions.png"
+function = "floor, green flooring, CO2"

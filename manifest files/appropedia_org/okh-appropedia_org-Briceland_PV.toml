@@ -1,0 +1,8 @@
+name = "Briceland_PV"
+repo = "https://www.appropedia.org/Briceland_PV"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = "Soysinlimites"
+image = "https://www.appropedia.org/w/images/d/d2/Checking_hole_depth.jpg"
+function = "photovoltaic"
+documentation-language = "en"

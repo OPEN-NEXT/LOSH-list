@@ -1,0 +1,7 @@
+name = "WaterPod_Pico_in_a_Bucket"
+repo = "https://www.appropedia.org/WaterPod_Pico_in_a_Bucket"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+image = "https://www.appropedia.org/w/images/c/cf/Pico_overall.jpg"
+function = "sustainable living, conservation"
+documentation-language = "en"

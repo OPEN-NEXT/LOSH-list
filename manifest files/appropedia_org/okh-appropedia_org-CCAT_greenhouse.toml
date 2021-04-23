@@ -1,0 +1,8 @@
+name = "CCAT_greenhouse"
+repo = "https://www.appropedia.org/CCAT_greenhouse"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+licensor = "user:Mjc647"
+image = "https://www.appropedia.org/w/images/2/29/CCAT_greenhouse.jpg"
+function = "ccat, gardening, greenhouse - Inside the CCAT greenhouse"
+documentation-language = "en"

@@ -1,0 +1,6 @@
+name = "Biosand_filter"
+repo = "https://www.appropedia.org/Biosand_filter"
+license = "CC-BY-SA 4.0"
+okhv = "2.0"
+function = "affordable, biological process, filter, water"
+documentation-language = "en"

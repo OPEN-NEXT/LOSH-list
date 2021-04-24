@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "David Topete", "Kong Vang", "AKewl13",]
 image = "https://www.appropedia.org/w/images/d/d1/KAD_Unit_Final.jpg"
 function = "balsa wood, bridge"
+technology-readiness-level = "otlr:OTLR-5"

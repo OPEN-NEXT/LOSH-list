@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "JULIETTECORTEZ", "Chris Bautista", "Baylee", "Jennymt941",]
 image = "https://www.appropedia.org/w/images/e/ef/Arcata_sanctuary_picture_1.jpg"
 function = "greywater, greywater storage and filtration, greywater system, toilets, sanctuary"
+technology-readiness-level = "otlr:OTLR-5"

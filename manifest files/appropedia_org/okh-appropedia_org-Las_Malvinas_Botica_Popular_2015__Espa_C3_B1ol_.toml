@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "Henry Chinaski", "Lexington333", "Ttg37", "Aen131", "APenny6", "Kgv40",]
 image = "https://www.appropedia.org/w/images/0/03/Botic.jpg"
 function = "electric plan, floor, plaster, wall plaster"
+technology-readiness-level = "otlr:OTLR-5"

@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "Elisabeth.dejong", "Johnnylococo", "Juditgc", "Littleredshrub",]
 image = "https://www.appropedia.org/w/images/5/5c/LM_2013_Botica_roof.jpg"
 function = "ecoladrillo, green construction, pharmacy - The Botica Popular as of July 20, 2013. Outer walls are of HullKrete blocks, inner wall of ecoladrillo."
+technology-readiness-level = "otlr:OTLR-5"

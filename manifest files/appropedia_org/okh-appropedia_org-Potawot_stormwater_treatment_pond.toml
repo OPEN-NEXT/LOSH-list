@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "Maxosofsky", "Salina G.", "Sarahcooper", "Trippsmith.rsr",]
 image = "https://www.appropedia.org/w/images/a/a7/Tule_3_overview_small.jpg"
 function = "stormwater, stormwater treatment - The lookout onto Potawot's Treatment Pond. Photo courtesy of: Eric Johnson"
+technology-readiness-level = "otlr:OTLR-5"

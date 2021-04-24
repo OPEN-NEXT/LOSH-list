@@ -6,3 +6,4 @@ licensor = [ "Fabio López", "Rafael Machado",]
 image = "https://www.appropedia.org/w/images/0/0e/La_campana_bloques.jpg"
 function = "playground"
 documentation-language = "es"
+technology-readiness-level = "otlr:OTLR-5"

@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "Ana", "Ginger", "Bart2",]
 image = "https://www.appropedia.org/w/images/f/f5/Finished_basket_solarcooker.jpg"
 function = "oven, recycle, solar, solar cooker, waste, solar water pasteurization"
+technology-readiness-level = "otlr:OTLR-5"

@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "user:Adkato", "user:Ind2",]
 image = "https://www.appropedia.org/w/images/5/54/Wall1.jpg"
 function = "ccat, retaining wall, yurt"
+technology-readiness-level = "otlr:OTLR-5"

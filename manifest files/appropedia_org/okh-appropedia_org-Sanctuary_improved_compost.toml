@@ -5,3 +5,4 @@ okhv = "2.0"
 licensor = [ "Stevenmhopper", "Lizzay16", "Zigzag", "JessElaineRamirez",]
 image = "https://www.appropedia.org/w/images/f/fc/ImprovedCompost.jpg"
 function = "compost, sanctuary arcata - Fig 1: Three Stage Rotating Composter"
+technology-readiness-level = "otlr:OTLR-5"

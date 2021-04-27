@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Sbecerra", "Alextak58", "Ndb21",]
 image = "https://www.appropedia.org/w/images/2/2d/Before_ccat_bike.png"
 function = "CCAT, bicycle, bike, bike powered tools, pedal power"
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

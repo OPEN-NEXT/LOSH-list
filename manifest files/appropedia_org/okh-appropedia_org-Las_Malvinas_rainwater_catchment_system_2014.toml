@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Jacob Burns", "Aj748", "DomT",]
 image = "https://www.appropedia.org/w/images/5/53/Lasmalvinascatchmentroof2014.jpg"
 function = "rainwater, rainwater catchment - Las Malvinas pharmacy roof for catchment."
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

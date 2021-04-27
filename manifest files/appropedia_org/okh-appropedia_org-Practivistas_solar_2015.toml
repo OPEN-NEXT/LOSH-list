@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "AAH431", "Athenav", "Ellen", "Jrsolo13", "Lauraxestrella", "Javier Duran Jr",]
 image = "https://www.appropedia.org/w/images/3/31/IMG_8457.JPG"
 function = "photovoltaic, photovoltaics, solar, solar panel"
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

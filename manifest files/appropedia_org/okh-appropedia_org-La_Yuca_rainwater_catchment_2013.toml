@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "T.hop", "Amp123",]
 image = "https://www.appropedia.org/w/images/8/88/FIrst_screen.jpg"
 function = "rain water catchment, rainwater, rainwater catchment"
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

@@ -6,4 +6,4 @@ licensor = [ "Leif", "Augustine", "Iln2",]
 image = "https://www.appropedia.org/w/images/4/4e/Installedpanel.jpg"
 function = "ccat, greenshed, photovoltaic, solar, solar panel, lightning system"
 documentation-language = "en"
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

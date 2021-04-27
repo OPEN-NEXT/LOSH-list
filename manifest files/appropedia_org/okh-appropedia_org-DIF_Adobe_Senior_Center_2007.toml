@@ -6,4 +6,4 @@ licensor = [ "La changa", "JaquelynJS", "Hannahjane",]
 image = "https://www.appropedia.org/w/images/9/9f/DIFfloorplan2.PNG"
 function = "adobe, adobe construction, community center, senior shelter"
 documentation-language = "en"
-technology-readiness-level = "otlr:OTLR-4"
+technology-readiness-level = "OTLR-4"

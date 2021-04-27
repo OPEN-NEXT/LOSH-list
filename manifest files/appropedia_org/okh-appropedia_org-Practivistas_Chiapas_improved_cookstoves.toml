@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Leticia Barahona", "Eiliana Esparza", "Saradtorres", "Carrie Schaden",]
 image = "https://www.appropedia.org/w/images/5/51/100_1261.JPG"
 function = "cookstoves, stoves - Hoyo con borde cuesta abajo para acomodar el comal de una mejor manera."
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

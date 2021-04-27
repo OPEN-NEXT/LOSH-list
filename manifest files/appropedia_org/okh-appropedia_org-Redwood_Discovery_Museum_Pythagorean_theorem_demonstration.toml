@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Mna144", "Matthew Buck", "Erik Nichols", "Mercedes Weekly",]
 image = "https://www.appropedia.org/w/images/f/f0/PTD.png"
 function = "Pythagorean theorem demonstration, education, museum"
-technology-readiness-level = "otlr:OTLR-5"
+technology-readiness-level = "OTLR-5"

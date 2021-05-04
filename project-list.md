@@ -62,6 +62,8 @@ open:
 - [reGOSH projects](https://regosh.libres.cc/en/projects/)
   - seem well documented
 - [Adafruit Projects](https://learn.adafruit.com/)
+- <https://wiki.satnogs.org/Main_Page>
+  - SatNOGS is an integral part of the Libre Space Foundation. The project aims to build a global network of satellite ground stations
 
 ---
 
@@ -75,6 +77,7 @@ open:
 - [OpenROV](https://github.com/OpenROV)
 - [pixhawk](https://github.com/pixhawk/Hardware)
   - also developed specifications ('standards') around their drone
+- [SatNOGS Rotator v3](https://wiki.satnogs.org/SatNOGS_Rotator_v3#Build_Sequence)
 
 ### agriculture
 

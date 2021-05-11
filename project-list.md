@@ -64,6 +64,8 @@ open:
 - [Adafruit Projects](https://learn.adafruit.com/)
 - <https://wiki.satnogs.org/Main_Page>
   - SatNOGS is an integral part of the Libre Space Foundation. The project aims to build a global network of satellite ground stations
+- <https://github.com/langolierz/r_e_c_u_r>
+  - an open diy video sampler
 
 ---
 

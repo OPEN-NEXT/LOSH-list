@@ -66,6 +66,8 @@ open:
   - SatNOGS is an integral part of the Libre Space Foundation. The project aims to build a global network of satellite ground stations
 - <https://github.com/langolierz/r_e_c_u_r>
   - an open diy video sampler
+- <https://gitlab.com/go-commons/delftopenhardware>
+  - git repo of a dutch open hardware company (Jerry (PP) involved)
 
 ---
 

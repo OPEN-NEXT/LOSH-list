@@ -68,6 +68,8 @@ open:
   - an open diy video sampler
 - <https://gitlab.com/go-commons/delftopenhardware>
   - git repo of a dutch open hardware company (Jerry (PP) involved)
+- <https://fully.automated.ee/projects.html>
+  - OSH battery management, fast charge systems etc., recommended by MNT Research
 
 ---
 

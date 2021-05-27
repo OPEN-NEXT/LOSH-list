@@ -98,6 +98,8 @@ open:
 - [EOMA68 computing devices](https://www.crowdsupply.com/eoma68/micro-desktop)
   - 100% open source hardare and libre software/firmeware computers
 - [Flipper Zero](https://flipperzero.one/)
+- [Inkplate-6](https://github.com/e-radionicacom/Inkplate-6-hardware)
+  - OSHWA certified
 - [Kano](https://kano.me/eu)
 - [Koruza](http://scientific.koruza.net/index.html)
 - [LittleBits](https://www.littlebits.cc/bit-o-pedia)

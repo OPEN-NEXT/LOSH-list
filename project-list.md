@@ -71,6 +71,7 @@ open:
 - <https://fully.automated.ee/projects.html>
   - OSH battery management, fast charge systems etc., recommended by MNT Research
 - [ThingTank Choices](https://click.everyaction.com/k/29481905/286534882/-1057508915?utm_campaign=stip&utm_medium=email&utm_source=update&nvep=ew0KICAiVGVuYW50VXJpIjogIm5ncHZhbjovL3Zhbi9XSUNFL1dJQ0UvMS82Nzk4OCIsDQogICJEaXN0cmlidXRpb25VbmlxdWVJZCI6ICJlMTRmNWYwOS05NWI5LWViMTEtYTdhZC01MDFhYzU3YmEzZWQiLA0KICAiRW1haWxBZGRyZXNzIjogImFsZXhhbmRyYS5ub3Zha0B3aWxzb25jZW50ZXIub3JnIg0KfQ%3D%3D&hmac=rdkKmISSpUbTB7t0nJ8pLj_D-7PLx4_LKkp5TgcAvBM=&emci=ad52b4e6-68b9-eb11-a7ad-501ac57ba3ed&emdi=e14f5f09-95b9-eb11-a7ad-501ac57ba3ed&ceid=274375)
+- examples of well-documented products in [this article](https://makezine.com/2007/04/23/open-source-hardware-what/)
 
 ---
 

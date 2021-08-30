@@ -1,0 +1,22 @@
+okhv = "2.0"
+name = "AXIOM"
+repo = "https://eu.axiom-camera.com/"
+##version = "NA"
+##release = "NA"
+##license = "NA"
+licensor = "Martin Häuer"
+organisation = "Fraunhofer IPK"
+##readme = "NA"
+##image = "NA"
+documentation-language = "en-GB"
+technology-readiness-level = "OTRL3"
+documentation-readiness-level = "ODRL0"
+function = "The AXIOM Gamma is another AXIOM open technology camera system and the first to fully utilize a modular hardware concept (the "Open Module Concept"). The Open Module Concept renders the AXIOM Gamma to be a fully extendible and repairable camera system, not to be outdated any time soon."
+cpc-patent-class = "H04N G03B"
+tsdc = "ASM"
+##bom = "NA"
+##manufacturing-instructions = "NA"
+##user-manual = "NA"
+
+
+##NA = Not available

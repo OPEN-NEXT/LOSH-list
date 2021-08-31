@@ -15,7 +15,3 @@ function = "MNT Reform is the radical, ultimate open hardware laptop, designed a
 cpc-patent-class = "H05K"
 tsdc = "ASM"
 bom = "/-/tree/master/reform2-bom"
-##manufacturing-instructions = "NA"
-##user-manual = "NA"
-
-##NA = Not available

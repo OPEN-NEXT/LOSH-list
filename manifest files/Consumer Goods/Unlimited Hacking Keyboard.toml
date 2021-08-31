@@ -15,7 +15,3 @@ function = "A fully programmable, impeccably built, open source, split mechanica
 cpc-patent-class = "H01H"
 tsdc = "STD"
 bom = "/uhk60v1-electronics/tree/master/bom"
-##manufacturing-instructions = "NA"
-##user-manual = "NA"
-
-##NA = Not available

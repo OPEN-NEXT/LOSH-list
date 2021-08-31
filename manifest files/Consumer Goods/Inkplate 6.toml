@@ -14,8 +14,4 @@ documentation-readiness-level = "ODRL3"
 function = " Inkplate 6 is a powerful, Wi-Fi enabled ESP32 based six-inch e-paper display – recycled from a Kindle e-reader."
 cpc-patent-class = "H04W"
 tsdc = "STD"
-##bom = "NA"
 manufacturing-instructions = "/blob/master/Technical%20drawings/Inkplate6%20features%20technical%20drawing.pdf"
-##user-manual = "NA"
-
-##NA = Not available

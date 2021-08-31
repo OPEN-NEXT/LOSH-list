@@ -1,3 +1,0 @@
-- CERN-OHL-1.1
-- CERN-OHL-1.2
-- TAPR-OHL-1.0

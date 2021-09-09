@@ -19,7 +19,7 @@ sources:
 - <https://github.com/PubInv/covid19-vent-list#evaluation-of-known-projects>
 - several direct contacts
 - [OHO targets](https://cloud.opensourceecology.de/s/nry4fWE2yCa2D9d)
-- <https://glia.org/>
+- ~~<https://glia.org/>~~
 
 open:
 

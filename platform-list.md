@@ -135,6 +135,10 @@ Query for approved projects: <https://en.oho.wiki/index.php?title=Special:RunQue
 
 <https://certification.oshwa.org/list.html>
 
+## Respect Your Freedom | Free Software Foundation
+
+<https://ryf.fsf.org/products>
+
 ---
 
 # Unsorted Lists

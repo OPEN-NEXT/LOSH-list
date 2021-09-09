@@ -121,13 +121,19 @@ BUT:
 
 # Online Collections of Certified Projects
 
-## Open Source Hardware Association - Certified Projects
+## Confirmity Assessment Body of Open Hardware Observatory e.V. (non-profit) (OHO-CAB)
 
-<https://certification.oshwa.org/list.html>
+<https://oho.wiki/>
+
+Query for approved projects: <https://en.oho.wiki/index.php?title=Special:RunQuery/projectSearch&pfRunQueryFormName=projectSearch&ProjektSearch%5Bcertificate_status%5D=In+process>
 
 ## Confirmity Assessment Body of Open Source Ecology Germany e.V. (non-profit) (OSEG-CAB)
 
 <https://gitlab.opensourceecology.de/verein/projekte/cab>
+
+## Open Source Hardware Association - Certified Projects
+
+<https://certification.oshwa.org/list.html>
 
 ---
 

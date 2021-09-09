@@ -97,8 +97,6 @@ open:
 - [AXIOM](https://eu.axiom-camera.com/)
 - [Baby MIT Cheetah Robot](https://www.instructables.com/id/Baby-MIT-Cheetah-Robot-V2-Autonomous-and-RC/)
 - [Corne keyboard](https://github.com/foostan/crkbd)
-- [EOMA68 computing devices](https://www.crowdsupply.com/eoma68/micro-desktop)
-  - 100% open source hardare and libre software/firmeware computers
 - [Flipper Zero](https://flipperzero.one/)
 - [Inkplate-6](https://github.com/e-radionicacom/Inkplate-6-hardware)
   - OSHWA certified
@@ -241,6 +239,8 @@ to add after misalignments are clarified:
   - not OSH yet ([source](https://wiki.opensourceecology.org/wiki/Ringo_Phone))
 - [Smill](https://projects.fablabs.io/@eb/smill)
   - license missing
+- [EOMA68 computing devices](https://www.crowdsupply.com/eoma68/micro-desktop)
+  - couldn't find any documentation anywhere. not even the widely mentioned RYF certificate
 
 ---
 

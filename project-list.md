@@ -100,7 +100,6 @@ open:
 - [Flipper Zero](https://flipperzero.one/)
 - [Inkplate-6](https://github.com/e-radionicacom/Inkplate-6-hardware)
   - OSHWA certified
-- [Kano](https://kano.me/eu)
 - [Koruza](http://scientific.koruza.net/index.html)
 - [LittleBits](https://www.littlebits.cc/bit-o-pedia)
 - [MNT Reform](https://source.mntmn.com/MNT/reform)
@@ -241,6 +240,8 @@ to add after misalignments are clarified:
   - license missing
 - [EOMA68 computing devices](https://www.crowdsupply.com/eoma68/micro-desktop)
   - couldn't find any documentation anywhere. not even the widely mentioned RYF certificate
+- [Kano](https://kano.me/eu)
+  - seems like only software is open source; no hardware documentation found (not even a mention of it)
 
 ---
 
@@ -258,7 +259,6 @@ dump for (maybe relevant) software/firmware:
   - or from this list <https://create.arduino.cc/projecthub/projects/tags/education>
 - [Baby MIT Cheetah Robot](https://www.instructables.com/id/Baby-MIT-Cheetah-Robot-V2-Autonomous-and-RC/)
 - [Flipper Zero](https://flipperzero.one/)
-- [Kano](https://kano.me/eu)
 - [LittleBits](https://www.littlebits.cc/bit-o-pedia)
 - [OttoDIY](https://www.ottodiy.com/)
 - [Pocket Science Lab](https://pslab.io/) (part of OPEN!NEXT)

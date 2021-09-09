@@ -20,6 +20,7 @@ sources:
 - several direct contacts
 - [OHO targets](https://cloud.opensourceecology.de/s/nry4fWE2yCa2D9d)
 - ~~<https://glia.org/>~~
+- <https://www.bunniestudios.com/blog/> is probably a treasure trove for nice OSH electronics
 
 open:
 

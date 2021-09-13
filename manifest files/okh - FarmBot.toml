@@ -1,6 +1,6 @@
 okhv = "2.0"
-name = "FarmBot"
-repo = "https://genesis.farm.bot"
+name = "FarmBot Genesis"
+repo = "https://github.com/FarmBot-Docs/farmbot-genesis"
 version = "15.0.0"
 release = "https://genesis.farm.bot/v1.5/FarmBot-Genesis-V1.5/intro"
 license = "CC0-1.0"

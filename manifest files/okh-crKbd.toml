@@ -1,9 +1,10 @@
 okhv = "OKH-LOSHv1.0"
 name = "crKbd, Corne, Helidox"
-repo = "https://github.com/foostan/crkbd/commit/894984e"
-version = "894984e"
+repo = "https://github.com/foostan/crkbd/"
+version = "3.0.1"
+release = "https://github.com/foostan/crkbd/releases/tag/corne-cherry-v3.0.1"
 license = "MIT"
-licensor = "Kosuke Adachi <foostan@github.com>"
+licensor = "Kosuke Adachi"
 readme = "README.md"
 image = ["https://user-images.githubusercontent.com/736191/49698496-0c3c0c80-fc08-11e8-87bc-4fd2aa7f3f78.jpg", "corne-cherry/doc/v3/assets/build_diode_overview.jpg"]
 documentation-language = ["en_US", "jp_JP"]

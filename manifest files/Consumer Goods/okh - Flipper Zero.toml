@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "Flipper Zero"
 repo = "https://github.com/flipperdevices"
 version = "27.1.0"

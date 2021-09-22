@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "OpenEVSE"
 repo = "https://github.com/openevse"
 version = "5.5.0"

@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "COSI Measure - Mechanical System"
 repo = "https://github.com/opensourceimaging/cosi-measure/tree/05c9b61cfbde511fc26578b4dd1ab3c4c9aa9163/"
 version = "1.0.0"

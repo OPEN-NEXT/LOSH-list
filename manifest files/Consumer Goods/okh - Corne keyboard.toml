@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "Corne keyboard"
 repo = "https://github.com/foostan/crkbd"
 version = "3.0.1"

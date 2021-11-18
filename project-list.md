@@ -2,15 +2,30 @@
 
 ## Intro
 
-This is an (yet) unsorted list of OSH Modules whose metadata will serve as a testing sample for the OSHI. We'll contact the projects and ask them to help us creating their metadata in compliance with our standard.
+This is an (yet) unsorted list of OSH Modules
+whose metadata will serve as a testing sample for the OSHI.
+We'll contact the projects and ask them to help us creating their metadata
+in compliance with our standard.
 
 We are aiming for ~20 OSH Modules:
 
-- a lot of simple examples in order to save us time and avoid confusion due to complexity overkill
-- 2…5 complex modules so we can assess the required performance of the system needed for complex projects
-- some of these modules are preferably linked to each other (I doubt that this will be the case for most projects as design reuse is still a significant issue, but maybe we can find some 'product families' where design reuse happens for different variants of the same module)
+- a lot of simple examples in order to save us time and avoid confusion
+  due to complexity overkill
+- 2…5 complex modules so we can assess the required performance of the system
+  needed for complex projects
+- some of these modules are preferably linked to each other
+  (I doubt that this will be the case for most projects
+  as design reuse is still a significant issue,
+  but maybe we can find some 'product families'
+  where design reuse happens for different variants of the same module)
 
-The following list will be clustered by topics or function categories people may look for. That way we may also get a feeling for requirements for the functional categorization and whether Wikidata is feasible to solve this question. Those categories are not meant to reflect the whole spectrum of OSH or even its most important categories. However, we can keep that in mind, so feel free to add categories :)
+The following list will be clustered by topics
+or function categories people may look for.
+That way we may also get a feeling for requirements for the functional categorization
+and whether Wikidata is feasible to solve this question.
+Those categories are not meant to reflect the whole spectrum of OSH
+or even its most important categories.
+However, we can keep that in mind, so feel free to add categories :)
 
 ## The list
 
@@ -20,7 +35,8 @@ sources:
 - several direct contacts
 - [OHO targets](https://cloud.opensourceecology.de/s/nry4fWE2yCa2D9d)
 - ~~<https://glia.org/>~~
-- <https://www.bunniestudios.com/blog/> is probably a treasure trove for nice OSH electronics
+- <https://www.bunniestudios.com/blog/>
+  is probably a treasure trove for nice OSH electronics
 
 open:
 
@@ -28,7 +44,8 @@ open:
 - <https://gitlab.com/librespacefoundation>
   - An open source hardware satellite
 - <https://github.com/orbitalindex/awesome-space#spacecraft-hardware>
-  - List of spacecraft hardware (including ground equipment), some of which are open source hardware
+  - List of spacecraft hardware (including ground equipment),
+    some of which are open source hardware
 - <https://github.com/Opentrons/ot2>  (ot2 already in the list)
   - Opentrons is a highly commercially successful biology lab automation platform
 - precious plastics machines
@@ -45,8 +62,9 @@ open:
 - <https://www.olimex.com/Products/OLinuXino/>
   - electronics only
 - <http://wiki.ros.org/>
-  - extensive ressource of well documented robots (including sensors, motors and related software)
-- <labmaker.org>
+  - extensive ressource of well documented robots
+    (including sensors, motors and related software)
+- <http://labmaker.org>
   - one can directly buy the stuff there (source code is also linked)
   - git repos are impressive; we could derive some best practices from there
 - <https://www.careables.org/discover-careables/>
@@ -64,7 +82,8 @@ open:
   - seem well documented
 - [Adafruit Projects](https://learn.adafruit.com/)
 - <https://wiki.satnogs.org/Main_Page>
-  - SatNOGS is an integral part of the Libre Space Foundation. The project aims to build a global network of satellite ground stations
+  - SatNOGS is an integral part of the Libre Space Foundation.
+    The project aims to build a global network of satellite ground stations
 - <https://github.com/langolierz/r_e_c_u_r>
   - an open diy video sampler
 - <https://gitlab.com/go-commons/delftopenhardware>
@@ -228,7 +247,8 @@ open:
 - [bGeigieNanoKit](https://github.com/Safecast/bGeigieNanoKit)
 - [fieldkit](https://www.fieldkit.org/)
 - [SenseBox](https://sensebox.de/)
-  - Open source environmental sensor platform with [open educational resources under CC BY-SA 4.0](https://sensebox.de/en/material)
+  - Open source environmental sensor platform with
+    [open educational resources under CC BY-SA 4.0](https://sensebox.de/en/material)
 
 ---
 
@@ -241,7 +261,8 @@ to add after misalignments are clarified:
 - [EOMA68 computing devices](https://www.crowdsupply.com/eoma68/micro-desktop)
   - couldn't find any documentation anywhere. not even the widely mentioned RYF certificate
 - [Kano](https://kano.me/eu)
-  - seems like only software is open source; no hardware documentation found (not even a mention of it)
+  - seems like only software is open source;
+    no hardware documentation found (not even a mention of it)
 
 ---
 

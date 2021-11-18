@@ -14,15 +14,26 @@ title: List of OSH Platforms
 
 ## general
 
-- git allows for consistent versioning (standard tool for FOSS, become a standard for OSH)
+- git allows for consistent versioning
+  (standard tool for FOSS, become a standard for OSH)
 - (reference to Jérémy's paper comparing git to other platforms)
 - command-line tool with loads of different GUIs and CLIs available
-- git-based platforms (usually) allow for automatic jobs that run over your data; e.g. the [OSH-Tool](https://gitlab.com/OSEGermany/osh-tool) checking your repository for errors after each change or [MoVeDo](https://github.com/movedo/MoVeDo) creating e.g. PDF exports for your Markdown documents.
+- git-based platforms (usually) allow for automatic jobs that run over your data;
+  e.g. the [OSH-Tool](https://gitlab.com/OSEGermany/osh-tool)
+  checking your repository for errors after each change
+  or [MoVeDo](https://github.com/movedo/MoVeDo)
+  creating e.g. PDF exports for your Markdown documents.
 
 BUT:
 
-- may be challenging to learn if you never had been in touch with version control systems before (which is a pity)
-- doesn't work too well with binaries (e.g. most CAD files); however, 1) _no_ version control system works very well with binaries and 2) there are workarounds for that (e.g. [Git LFS](https://git-lfs.github.com/))
+- may be challenging to learn
+  if you never had been in touch with version control systems before
+  (which is a pity)
+- doesn't work too well with binaries (e.g. most CAD files);
+  however,
+
+  1) _no_ version control system works very well with binaries and
+  2) there are workarounds for that (e.g. [Git LFS](https://git-lfs.github.com/))
 
 ### GitHub
 
@@ -32,8 +43,9 @@ BUT:
 ### GitLab
 
 - the most popular open source git-based platform
-- larger communities sometimes choose to host their own GitLab instance\
-    e.g. [CERN](https://home.cern/) hosts its OSH projects on the it's own GitLab instance, called the Open Hardware Repository (<https://ohwr.org/>).
+- larger communities sometimes choose to host their own GitLab instance \
+  e.g. [CERN](https://home.cern/) hosts its OSH projects on the it's own GitLab instance,
+  called the Open Hardware Repository (<https://ohwr.org/>).
 
 ### GitTea
 
@@ -77,7 +89,9 @@ BUT:
 <https://wiki.opensourceecology.org/>
 
 - Wiki of the OSE community
-- OSH projects are related to the [Global Village Construction Set](https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set); basic machninery and agriculture
+- OSH projects are related to the
+  [Global Village Construction Set](https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set);
+  basic machninery and agriculture
 
 ## Open Source Ecology Germany Wiki
 
@@ -125,7 +139,8 @@ BUT:
 
 <https://oho.wiki/>
 
-Query for approved projects: <https://en.oho.wiki/index.php?title=Special:RunQuery/projectSearch&pfRunQueryFormName=projectSearch&ProjektSearch%5Bcertificate_status%5D=In+process>
+Query for approved projects:
+<https://en.oho.wiki/index.php?title=Special:RunQuery/projectSearch&pfRunQueryFormName=projectSearch&ProjektSearch%5Bcertificate_status%5D=In+process>
 
 ## Confirmity Assessment Body of Open Source Ecology Germany e.V. (non-profit) (OSEG-CAB)
 

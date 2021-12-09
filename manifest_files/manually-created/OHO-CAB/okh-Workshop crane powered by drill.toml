@@ -1,7 +1,7 @@
-okhv = "OKH-LOSHv1.0" 
+okhv = "OKH-LOSHv1.0"
 name = "Workshop Crane powered by drill"
 repo = "https://en.oho.wiki/wiki/Workshop_Crane_powered_by_drill"
-version = "43358" 
+version = "43358"
 release = "https://en.oho.wiki/index.php?title=Workshop_Crane_powered_by_drill&oldid=43358"
 license = "CC BY-SA 4.0"
 licensor = "Aquilesmorillo"
@@ -22,7 +22,7 @@ tsdc = [
 bom = "https://en.oho.wiki/index.php?title=Workshop_Crane_powered_by_drill&oldid=43358"
 manufacturing-instructions = "https://cdata.oho.wiki/images/5/54/Oseg_wc_workshop-crane_1-02.pdf"
 outer-dimension-dim = "mm"
-outer-dimension = "cube(size = [1581,1201,1400])" 
+outer-dimension = "cube(size = [1581,1201,1400])"
 source = "https://cdata.oho.wiki/images/1/1d/Oseg_wc_CAD-files_1-01.zip"
 export = [
 	"https://cdata.oho.wiki/images/1/1d/Oseg_wc_CAD-files_1-01.zip",

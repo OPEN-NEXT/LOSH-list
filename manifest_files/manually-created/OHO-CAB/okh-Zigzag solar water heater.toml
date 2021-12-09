@@ -1,7 +1,7 @@
-okhv = "OKH-LOSHv1.0" 
+okhv = "OKH-LOSHv1.0"
 name = "Zigzag Solar water heater"
 repo = "https://en.oho.wiki/wiki/Zigzag_Solar_water_heater"
-version = "43350" 
+version = "43350"
 release = "https://en.oho.wiki/index.php?title=Zigzag_Solar_water_heater&oldid=43350"
 license = "CERN OHL v1.2"
 licensor = "Inddigital"
@@ -22,7 +22,7 @@ tsdc = [
 bom = "https://en.oho.wiki/index.php?title=Zigzag_Solar_water_heater&oldid=43350"
 manufacturing-instructions = "https://cdata.oho.wiki/images/6/6a/Oseg_zswh_zigzag_solar_water_heater.pdf"
 outer-dimension-dim = "mm"
-outer-dimension = "cube(size = [2443,2700,2418])" 
+outer-dimension = "cube(size = [2443,2700,2418])"
 source = "https://cdata.oho.wiki/images/6/6f/Oseg_zswh_CAD-files.zip"
 export = [
 	"https://cdata.oho.wiki/images/6/6f/Oseg_zswh_CAD-files.zip",

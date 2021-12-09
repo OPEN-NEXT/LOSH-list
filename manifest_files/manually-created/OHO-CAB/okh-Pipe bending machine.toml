@@ -1,7 +1,7 @@
-okhv = "OKH-LOSHv1.0" 
+okhv = "OKH-LOSHv1.0"
 name = "Pipe Bending Machine"
 repo = "https://en.oho.wiki/wiki/Pipe_Bending_Machine"
-version = "43459" 
+version = "43459"
 release = "https://en.oho.wiki/index.php?title=Pipe_Bending_Machine&oldid=43459"
 license = "CC-BY-SA-4.0"
 licensor = "Xtech2020"
@@ -22,7 +22,7 @@ tsdc = [
 bom = "https://en.oho.wiki/index.php?title=Pipe_Bending_Machine&oldid=43459"
 manufacturing-instructions = "https://cdata.oho.wiki/images/5/5e/Oseg_pbm_Pipe_Bending_Machine.pdf"
 outer-dimension-dim = "mm"
-outer-dimension = "cube(size = [1654,1966,400])" 
+outer-dimension = "cube(size = [1654,1966,400])"
 source = "https://cdata.oho.wiki/images/3/39/Oseg_pbm_DWG.zip"
 export = [
 	"https://cdata.oho.wiki/images/3/39/Oseg_pbm_DWG.zip",

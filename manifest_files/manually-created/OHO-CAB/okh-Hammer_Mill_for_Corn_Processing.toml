@@ -1,0 +1,27 @@
+okhv = "OKH-LOSHv1.0"
+name = "Hammer Mill for Corn Processing"
+repo = "https://en.oho.wiki/wiki/Hammer_Mill_for_Corn_Processing"
+version = "44028"
+release = "https://en.oho.wiki/index.php?title=Hammer_Mill_for_Corn_Processing&oldid=44028"
+license = "CC BY-SA 4.0"
+licensor = "Yule.ar"
+organisation = "Apt Abatec"
+readme = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+image = "https://en.oho.wiki/wiki/Hammer_Mill_for_Corn_Processing#/media/File:Hammer.png"
+documentation-language = "en-GB"
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A23P"
+tsdc = [
+	"BUY",
+	"STD",
+	"ASM"
+	]
+bom = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+manufacturing-instructions = "https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"
+user-manual = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+outer-dimensions-mm = "cube(size = [1800,780,600])"
+export = [
+	"https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf",
+	"https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"
+	]

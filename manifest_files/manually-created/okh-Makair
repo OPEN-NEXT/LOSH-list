@@ -1,0 +1,22 @@
+okhv = "OKH-LOSHv1.0"
+name = "MakAir"
+repo = "https://github.com/makers-for-life/makair"
+version = "1.0.0"
+release = "https://github.com/makers-for-life/makair"
+license = "Unlicense"
+licensor = "Valerian Saliou, Baptiste Jamin, Quentin ADAM"
+organisation = "Makers For Life — Open Source Ventilator"
+readme = "https://github.com/makers-for-life/makair#readme"
+image = "https://github.com/makers-for-life/makair/blob/master/res/assets/abstract-readme-standard.jpg"
+documentation-language = "en-GB"
+function = "Mass-producible open-source Covid-19 ARDS ventilator. Aims at helping hospitals cope with a possible shortage of professional ventilators during the outbreak. Worldwide."
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "A61M16/00"
+tsdc = [
+	"3DP",
+	"STD",
+	"ASM"
+	]
+bom = "https://github.com/makers-for-life/makair#how-to-build"
+manufacturing-instructions = "https://github.com/makers-for-life/makair#schemes"

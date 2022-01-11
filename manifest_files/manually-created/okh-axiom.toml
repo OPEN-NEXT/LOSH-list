@@ -1,16 +1,14 @@
 okhv = "OKH-LOSHv1.0"
 name = "AXIOM Beta Hardware"
 repo = "https://github.com/apertus-open-source-cinema/beta-hardware"
+version = "v1.0.0"
 license = "CERN-OHL-1.2"
 licensor = "apertus"
 organisation = "apertus"
 documentation-language = "en-GB"
-technology-readiness-level = "OTRL8"
-documentation-readiness-level = "ODRL5"
+technology-readiness-level = "OTRL5"
+documentation-readiness-level = "ODRL3"
 function = "The AXIOM Beta is an open source, open hardware, professional-grade digital film camera made by apertus°. It is designed to be modular e.g. interchangeable sensor front end etc. and supports recording at 4K resolution."
 cpc-patent-class = "H04N G03B"
-tsdc = [
-    "PCB",
-    "3DP"
-]
-user-manual = "https://wiki.apertus.org/index.php/AXIOM_Beta/Manual"
+tsdc = "ASM"
+user-manual = "https://wiki.apertus.org/index.php/AXIOM_Beta/Manual" #should be a file

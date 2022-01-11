@@ -1,0 +1,27 @@
+okhv = "OKH-LOSHv1.0"
+name = "Solar Food Dryer for Vegetables"
+repo = "https://en.oho.wiki/wiki/Solar_Food_Dryer_for_Vegetables"
+version = "44302"
+release = "https://en.oho.wiki/index.php?title=Solar_Food_Dryer_for_Vegetables&oldid=44302"
+license = "CC-BY-SA-4.0"
+licensor = "Yule.ar"
+organisation = "Arnold + Maria Valdez"
+readme = "https://cdata.oho.wiki/images/8/81/Amv_bsfd_building-solar-food-dryer_1.0.pdf"
+image = "https://en.oho.wiki/wiki/Solar_Food_Dryer_for_Vegetables#/media/File:Solar_food_dryer.png"
+documentation-language = "en-GB"
+technology-readiness-level = "OTRL-4"
+documentation-readiness-level = "ODRL-3"
+cpc-patent-class = "Y02E10/44"
+tsdc = [
+	"MEC",
+	"STD",
+	"ASM"
+	]
+bom = "https://cdata.oho.wiki/images/8/81/Amv_bsfd_building-solar-food-dryer_1.0.pdf"
+manufacturing-instructions = "https://cdata.oho.wiki/images/8/8c/Wl_lacb_STP-files.zip"
+user-manual = "https://cdata.oho.wiki/images/8/81/Amv_bsfd_building-solar-food-dryer_1.0.pdf"
+outer-dimensions-mm = "cube(size = [1570,1850,660])"
+export = [
+	"https://cdata.oho.wiki/images/2/2f/Amv_bsfd_CAD-files.zip"
+	"https://cdata.oho.wiki/images/3/33/Amv_bsfd_STP-files.zip"
+	]

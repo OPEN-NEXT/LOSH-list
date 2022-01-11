@@ -15,6 +15,9 @@ cpc-patent-class = "G06C 7/02"
 tsdc = "PCB"
 bom = "https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md"
 manufacturing-instructions = "/corne-*/doc/**/*.md"
+
+#ToDo add source files!
+
 #user-manual = "/manual/"
 
 # ToDo: functional-metadata:

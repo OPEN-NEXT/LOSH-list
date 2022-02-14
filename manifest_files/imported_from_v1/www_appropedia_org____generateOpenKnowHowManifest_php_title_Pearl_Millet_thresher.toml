@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Pearl_Millet_thresher\n"
+repo = "https://www.appropedia.org/Pearl_Millet_thresher"
+version = "35"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/d/d9/Mahangu1.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Grinding_wheel"
+function = "The purpose of this project is to design and build an affordable, efficient thresher for pearl millet.  Our summary presentation can be downloaded here: Idds1.pdf.   == Contact details == Donna Cohn, donnacohn\"at\"comcast.net, Visiting Assistant Professor of Applied Design, Hampshire College. Thalia Konaris, thalia.konaris\"at\"gmail.com Michelle Marincel, mkmdm2\"at\"mst.edu George Yaw Obeng, geo_yaw\"at\"yahoo.com, Research Fellow (Energy & Engineering) Technology Consultancy Centre, Kwame Nkrumah Univ. of Science & Technology, Kumasi, Ghana."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

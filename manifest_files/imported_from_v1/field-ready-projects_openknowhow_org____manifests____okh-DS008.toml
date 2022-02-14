@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"DS008 - Wheelchair Under Storage \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ds008"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/c811144fc2ce1b50b459e224bc773b03/43840548/DS008_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Storage unit is attached to the underside so items are easy accessable\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

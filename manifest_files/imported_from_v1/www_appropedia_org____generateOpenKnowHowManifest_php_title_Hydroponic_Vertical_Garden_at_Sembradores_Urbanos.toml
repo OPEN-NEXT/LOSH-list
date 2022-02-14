@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Hydroponic_Vertical_Garden_at_Sembradores_Urbanos\n"
+repo = "https://www.appropedia.org/Hydroponic_Vertical_Garden_at_Sembradores_Urbanos"
+version = "58"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Carrie Schaden"
+image = ["https://www.appropedia.org/w/images/e/ec/3291241508_69fc56e4e6.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Vertical_garden"
+function = "The benefits of urban gardening include adding: educational, food providing, therapeutic, and community strengthening green spaces. Urban gardens differ from their rural counterparts by usually benefiting from : a frost free season as well as an extended growing season for one month due to the urban island heating effect, a reduced number of predatory wildlife (like deer, coyotes, and moles), as well as increased incentive for creativity within the smaller space. However at the same time urban gardens have different obstacles than their rural counterparts. Some of these obstacles include: confined spaces, bocked sunlight, poor soil, unreliable water access, soil and air pollution, as well as theft, vandalism, and politics to further complicate things. In response to the problems faced with blocked sunlight,confined spaces, and poor soil Sembradores Urbanos has contructed a Hydroponic Vertical Garden."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

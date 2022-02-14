@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Mobile_solar_powered_3D_printer\n"
+repo = "https://www.appropedia.org/Mobile_solar_powered_3D_printer"
+version = "78"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Debbie King"
+image = ["https://www.appropedia.org/w/images/a/a7/Cart_at_OCE.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The objective of this project is to design a charging cart for a 3D printer that is completely mobile, and runs solely on renewable energy.   == Project Overview == This was a joint project between:  Sustainable Energy Applied Research Centre of St. Lawrence College Queens Applied Sustainability Group Project created and supervised by:  SEARC's lead researcher Adegboyega Babasola Dr. Joshua Pearce, adjunct professor of Queens University Project Student Research Assistants:  David Carter Debbie King Linked Project(s): Mobile Solar Powered 3D Printer V2.0   == Related Publications == Debbie L. King, Adegboyega Babasola, Joseph Rozario, and Joshua M. Pearce, \"Mobile Open-Source Solar-Powered 3-D Printers for Distributed Manufacturing in Off-Grid Communities,\" Challenges in Sustainability 2(1), 18-27 (2014). open access DOI: http://dx.doi.org/10.12924/cis2014.02010018 Printed files http://www.thingiverse.com/thing:74671   === RepRap Background === For the project, a RepRap Mendel running on gen6 electronics was chosen."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

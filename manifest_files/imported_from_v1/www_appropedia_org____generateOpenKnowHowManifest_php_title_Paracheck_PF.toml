@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Paracheck_PF\n"
+repo = "https://www.appropedia.org/Paracheck_PF"
+version = "29"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Lonny Grafman"
+image = ["https://www.appropedia.org/w/images/thumb/4/47/Paracheck_PF.jpg/1000px-Paracheck_PF.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == When this device was created (in 2001) microscopic diagnosis was the preferred malaria diagnosis method, but the cost of equipment and the training required were prohibitive. Previous rapid detection devices were too expensive for the developing world. This device was built for developing countries where fast diagnosis and ease of use are essential.   == Detailed description of the solution == The Paracheck Pf Rapid Test device comes in two forms, a dipstick and a flat-lying device. A drop of blood is collected from a finger prick, the blood flows through a membrane after placement in a buffer, and passes over a colored anti Pf HRP-2 antisera-colloidal gold conjugate."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "SAPL_TLUD_gasifier_stove\n"
+repo = "https://www.appropedia.org/SAPL_TLUD_gasifier_stove"
+version = "23"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joey Hiller"
+image = ["https://www.appropedia.org/w/images/thumb/5/5a/TLUD_Stove_2.jpg/1000px-TLUD_Stove_2.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Stove"
+function = "The TLUD stove is a simple wood Stove that is green and of low carbon emission. It is a project of SERVALS Automation Pvt LTD  This project is the winner of the Sankalp 2010 award in the Clean Energy Sector – Established Enterprise Category.   == Highlights == The key focus is to design an integrated cooking energy solution for the wood stove market that addresses the \"front-end\" and the \"back-end\". TLUD stands for Top Lit Up Draft. This is different from most of the ordinary cook stoves which are Bottom Lit Up Draft."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "3D printed bike handlebar plug\n"
+repo = "https://www.appropedia.org/3D_printed_bike_handlebar_plug"
+version = "68"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Kirill Kudaev"
+image = ["https://www.appropedia.org/w/images/e/e2/BikeplugOpenSCAD.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Customizable Bike Handlebar Plug designed using OpenSCAD.   == Bill of Materials == A bike with a handlebar 3D printed Bike Handlebar Plug   == Tools needed == Jellybox or similar RepRap 3-D printer   == Skills and knowledge necessary to make the OSAT == None except for having an OpenSCAD software in order to customize the plug.   == Technical specifications and assembly instructions == Both a .scad and a .stl file will be provided through a Github link for easy download. Files To successfully print the file make sure your printer is calibrated for a successful print, ie. the extruder produces enough filament for an accurate and reliable print. A print time is estimated to be roughly 50 minutes at a 20 percent infill rate.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

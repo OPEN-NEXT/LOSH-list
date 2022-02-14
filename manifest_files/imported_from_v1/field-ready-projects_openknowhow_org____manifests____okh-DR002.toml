@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DR002 - Duoband Yagi Antenna\n"
+repo = "https://field-ready-projects.openknowhow.org/dr002"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/d38dc0d551d256c39d5163254f928105/45b0afcb/DR002_Image_Catalogue.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "3D printed bespoke parts to construct standard antenna design\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

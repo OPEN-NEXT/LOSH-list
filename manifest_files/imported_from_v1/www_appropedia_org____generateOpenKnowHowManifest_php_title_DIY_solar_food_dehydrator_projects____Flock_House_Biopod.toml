@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DIY solar food dehydrator projects/Flock House Biopod\n"
+repo = "https://www.appropedia.org/DIY_solar_food_dehydrator_projects/Flock_House_Biopod"
+version = "209"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Josh O'Rourke"
+image = ["https://www.appropedia.org/w/images/b/b0/Final_picture_photo_%2837%29.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This page represents \"Team Biopod,\" the solar dehydration group for Flock House. This group has been brought together through the Humboldt State University class, Engineering 215 - Introduction to Design, taught by Lonny Grafman.   == Background ==  The client is Flock House, which is founded by a New York City based artist named Mary Mattingly. The Flock House is a living system that is designed to be sustainable and mobile while providing a way to teach and inspire people. The Flock House will be traveling throughout New York City during the summer of 2012.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

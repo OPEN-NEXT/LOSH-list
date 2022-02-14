@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT Bubble Box\n"
+repo = "https://www.appropedia.org/CCAT_Bubble_Box"
+version = "83"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Cameron Smith"
+image = ["https://www.appropedia.org/w/images/1/18/Wlid.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Bubble_box"
+function = "The Bubble Box was created by Team Jumanji to fulfill the need of CCAT to have a functioning Kid's Zone. Other options were considered as a final solution to CCAT's problem, but the Bubble Box was found to have the best blend of the criteria we discussed. The project underwent many changes to become an anti gravity simulation that children can power through a hand crank.   == Background ==  There are many interesting aspects of CCAT for adults to view, however appropriate technology is not as interesting to children who don't understand the environmental, economic, and personal impact of sustainability. Without an Appropriate Technology Kid's Zone residents of CCAT will have a more difficult time touring the house to parents who bring along kids.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

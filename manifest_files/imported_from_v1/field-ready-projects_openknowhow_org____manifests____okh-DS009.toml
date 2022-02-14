@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"DS009 - Wheelchair Umbrella \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ds009"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/d5b47694b283d63b966ae071c54f6056/0265352b/DS009_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Protects occupant from sun light and rain\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

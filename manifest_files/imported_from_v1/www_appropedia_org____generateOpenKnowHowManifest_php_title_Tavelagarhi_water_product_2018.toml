@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Tavelagarhi_water_product_2018\n"
+repo = "https://www.appropedia.org/Tavelagarhi_water_product_2018"
+version = "95"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Lonny Grafman"
+image = ["https://www.appropedia.org/w/images/thumb/8/8f/TavelaGarhiDisplayingPrototypesInSecondStreetRally.jpg/1000px-TavelaGarhiDisplayingPrototypesInSecondStreetRally.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The program is a 10-week collaborative internship between Lady Irwin College in Delhi and Humboldt State University in California. A total of 16 students were selected, and divided into two teams of 8, one of which was sent to Tavela Garhi to work with the community and address environmental and social concerns.   == Abstract == Together with the help and support of Environmental and Social Research Organization in Baraut, the American Center in Delhi, and the Center for Environmental Communication also in Delhi, our teams were able to conduct research and interviews within the rural village communities and develop environmental, social, and entreprenuership solutions. Below is a detailed documentation of the product subteam in Tavela Garhi. The work of the Tavela Garhi product team was made possibly through the Rural Youth Volunteers in India program."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

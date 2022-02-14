@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GN021 - Wrench\n"
+repo = "https://field-ready-projects.openknowhow.org/gn021"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/6ed69c62d2d98e0b5037555ea14647c9/b5eefc68/GN021_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Generate your size wrench (parametric)\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

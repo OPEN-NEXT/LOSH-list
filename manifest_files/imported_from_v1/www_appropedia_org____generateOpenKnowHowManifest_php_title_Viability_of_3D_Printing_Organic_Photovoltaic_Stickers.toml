@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Viability_of_3D_Printing_Organic_Photovoltaic_Stickers\n"
+repo = "https://www.appropedia.org/Viability_of_3D_Printing_Organic_Photovoltaic_Stickers"
+version = "383"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Laura"
+image = ["https://www.appropedia.org/w/images/c/c7/SANDWICH.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The purpose of this page is to outline the process of 3D-printing organic semiconductors to prototype a photovoltaic sticker that can be adhered and that will supply power to a number of electronic devices. The photovoltaic effect, organic semiconductor properties & synthesization , and 3D-printing of the solar cell will be outlined. Furthermore, an OpenSCAD model for the rapid prototyping of the product will be introduced and the applications explained.   == Photovoltaic Cells ==   === Photovoltaic Effect === The photovoltaic effect is a response between two different materials to radiation. When the materials are irradiated, the response creates a potential difference where the materials meet."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

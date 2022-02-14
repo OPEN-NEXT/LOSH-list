@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT Gravity fed drip irrigation\n"
+repo = "https://www.appropedia.org/CCAT_Gravity_fed_drip_irrigation"
+version = "11"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Matt"
+image = ["https://www.appropedia.org/w/images/thumb/4/4f/IMG_3551.JPG/1000px-IMG_3551.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Drip_irrigation"
+function = "Welcome to the quick and dirty gravity fed drip irrigation system tutorial. This particular model (version 1.0) was built for CCAT to supply their seasoned vegetable beds with an appropriate, efficient water supply and a little love. A gravity fed drip irrigation system is a way to redirect water to plants in a much more efficient manner than just spraying them with a hose. Due to it using much less water because of how small the tubing is, it allows the water to be able to reach the root system much more effectively. That being said, you are also saving more water.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

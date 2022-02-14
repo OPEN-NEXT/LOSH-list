@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Tire_shingles\n"
+repo = "https://www.appropedia.org/Tire_shingles"
+version = "62"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Brad Thompson"
+image = ["https://www.appropedia.org/w/images/8/86/Finished.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Tire_shingles"
+function = "One day, I saw a bunch of old tires used as a retaining wall and that got me thinking about what other uses old tires are good for. I had a few thoughts about what to make but I liked the idea of tire shingles the best. The fact that they would be malleable really hooked me. I couldn't wait to get started!   == Information on Tires ==  The fabric of the tire is steel, nylon, aramid fiber, rayon, fiberglass, or polyester combination."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

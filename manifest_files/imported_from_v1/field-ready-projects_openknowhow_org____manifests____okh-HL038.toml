@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL038 -  Prosthetic hand\n"
+repo = "https://field-ready-projects.openknowhow.org/hl038"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/dfabce6ecd86597b4e8f82c1b5259831/e6546fc1/fotografia4.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = " 3D printed prosthetic hand that did not require any fasteners or tools to assemble\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

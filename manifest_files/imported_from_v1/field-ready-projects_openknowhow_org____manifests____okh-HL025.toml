@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL025 - Needle Destroyer \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl025"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/bae35300c30766c21a51fa2077d985c7/baabce7c/Needledestroyerunit.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A device used to safely dispose of needles\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

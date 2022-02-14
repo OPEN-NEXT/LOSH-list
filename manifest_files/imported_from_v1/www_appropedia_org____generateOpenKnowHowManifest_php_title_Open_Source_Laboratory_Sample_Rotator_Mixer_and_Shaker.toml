@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Open_Source_Laboratory_Sample_Rotator_Mixer_and_Shaker\n"
+repo = "https://www.appropedia.org/Open_Source_Laboratory_Sample_Rotator_Mixer_and_Shaker"
+version = "30"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/5/56/Osrot.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "An open-source 3-D printable laboratory sample rotator mixer is developed here in two variants that allow users to opt for the level of functionality, cost saving and associated complexity needed in their laboratories. First, a laboratory sample rotator is designed and demonstrated that can be used for tumbling as well as gentle mixing of samples in a variety of tube sizes by mixing them horizontally, vertically, or any position in between. Changing the mixing angle is fast and convenient and requires no tools. This device is battery powered and can be easily transported to operate in various locations in a lab including desktops, benches, clean hoods, chemical hoods, cold rooms, glove boxes, incubators or biological hoods. Second, an on-board Arduino-based microcontroller is incorporated that adds the functionality of a laboratory sample shaker."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

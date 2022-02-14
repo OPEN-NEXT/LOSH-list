@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT Small Pond Revitalization\n"
+repo = "https://www.appropedia.org/CCAT_Small_Pond_Revitalization"
+version = "20"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Charles"
+image = ["https://www.appropedia.org/w/images/0/0f/Imageneeded.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This paragraph will appear in search results and previews for this page. Write a brief introductory text with information such as a description of your project, when was it designed and built, your motivation to solve the problem, the intended users. This will explain your project to someone who has never heard of it before.   == Background == Several years ago, a similar group of students constructed a fairly complicated aquaponics system located in the frontal section of the Campus Center for Appropriate Technology (CCAT). This Center, also commonly referred to as \"CCAT\", has been known among Cal Poly Humboldt for its exceptional work and experimentation among solar power, rainwater catchment, and other sustainable ventures.\n\nwater, agriculture"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

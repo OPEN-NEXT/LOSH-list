@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Terraces_and_ditches_at_Petegral\n"
+repo = "https://www.appropedia.org/Terraces_and_ditches_at_Petegral"
+version = "17"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Carrie Schaden"
+image = ["https://www.appropedia.org/w/images/thumb/5/5a/100_2148.JPG/653px-100_2148.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Terraces and ditches prevent erosion on steep slopes and create areas for farming. Terraces and ditches are dug according to the contour of the site and the terraces leave an edge over each trench. Water rather then flowing straight down hill follows the edges of these terraces thus this practice slows down the water and prevents massive soil erosion. If vetiver (a tall perennial grass) is planted in the mounds it helps further prevent erosion as its roots are established deep in the soil to secure it in place. The distance between these trenches depends on the slope.\nfarming"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

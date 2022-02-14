@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Athena 24V Round Heated Bed\n"
+repo = "https://www.appropedia.org/Athena_24V_Round_Heated_Bed"
+version = "96"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Kyle Barie"
+image = ["https://www.appropedia.org/w/images/thumb/6/6a/24VHeatedBed.jpg/1000px-24VHeatedBed.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Note: This page is a work in progress. Not all information and content has been uploaded. Please stay tuned. This project aimed to give the Athena Delta printer a sleek looking heated bed that took advantage of the printer's shape. Previous heated bed set-ups for this printer use square beds.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

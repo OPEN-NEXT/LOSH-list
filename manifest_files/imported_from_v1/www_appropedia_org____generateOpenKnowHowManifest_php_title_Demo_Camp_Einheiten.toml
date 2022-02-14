@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Demo_Camp_Einheiten\n"
+repo = "https://www.appropedia.org/Demo_Camp_Einheiten"
+version = "27"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Anna Goelnitz"
+image = ["https://www.appropedia.org/w/images/a/ab/DC_Scheme250.gif"]
+documentationLanguage = "de"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Bamboo_construction"
+function = "Technik für Demokratie. Democamp Einheiten sollen ein Werkzeug für soziale Bewegungen sein. Die, die keine oder nur ein leise Stimme haben, brauchen Unterstützung um besser gehört zu werden. Technik dient nicht nur dazu Machtstrukturen aufrecht zu erhalten. Sie kann auch helfen diese zu durchbrechen."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

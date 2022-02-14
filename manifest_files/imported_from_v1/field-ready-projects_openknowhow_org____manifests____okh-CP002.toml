@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "CP002 - Baby Crib\n"
+repo = "https://field-ready-projects.openknowhow.org/cp002"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/ef1e646782b1b2163000e34cab6f6880/c2b088a2/CP002_Image_Catalogue_JPG.jpeg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Provides a safe area for a baby to sleep\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

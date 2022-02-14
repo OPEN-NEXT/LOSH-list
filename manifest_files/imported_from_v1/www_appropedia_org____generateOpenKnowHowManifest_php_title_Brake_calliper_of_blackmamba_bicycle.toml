@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Brake calliper of blackmamba bicycle\n"
+repo = "https://www.appropedia.org/Brake_calliper_of_blackmamba_bicycle"
+version = "76"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Soham Sengupta"
+image = ["https://www.appropedia.org/w/images/thumb/8/8b/Brake_calliper1.JPG/1000px-Brake_calliper1.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Indian and Chinese made cruisers, known as Black Mambas in East Africa, are the most common type of bicycle found throughout sub-Saharan Africa - The objective of the project is to 3D print as many parts possible of this bicycle which is very commonly used in the third world countries of Africa and make it much more economically viable for people to use over there for transportation. The below figures shows a 3D printed brakecalliper with the 2cm long bolts to connect to the brake pads and the necessary holes on the calliper to fit on the existing Black Mamba model.  \t\t \t\t   == Bill of Materials == Brake Calliper- 8 gms of PLA, QTY 1, cost $0.18 3d printed bolt to connect the brake pads, QTY 2, cost $0.06. STLs for part can be found at [[1]]   == Tools needed == MOST Delta RepRap. OpenScad, Cura & repetier Host software.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

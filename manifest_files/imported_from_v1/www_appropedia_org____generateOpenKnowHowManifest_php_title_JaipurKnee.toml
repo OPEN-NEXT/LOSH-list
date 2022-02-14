@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "JaipurKnee\n"
+repo = "https://www.appropedia.org/JaipurKnee"
+version = "22"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/3/34/Jaipurknee.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == There are tens of thousands of amputees living in the developing world. Unfortunately, patients that live in these resource-poor areas and who lose a knee joint have few options. A titanium replacement can cost up to $10,000 and other inexpensive models are too crude to work effectively.   == Detailed description of the solution == The JaipurKnee is flexible and stable, even on irregular terrain. It is comprised of five pieces of plastic, four nuts and bolts and has self-lubricating, oil-filled nylon."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

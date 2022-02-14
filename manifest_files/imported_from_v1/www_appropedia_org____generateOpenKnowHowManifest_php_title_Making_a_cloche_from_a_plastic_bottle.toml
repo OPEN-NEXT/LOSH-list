@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Making_a_cloche_from_a_plastic_bottle\n"
+repo = "https://www.appropedia.org/Making_a_cloche_from_a_plastic_bottle"
+version = "3"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Pedro Kracht"
+image = ["https://www.appropedia.org/w/images/6/65/Plasticbottleclocheset.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Greenhouse,_Cloche"
+function = "This cloche can be used to protect seeds and seedlings during the colder part of the growing season, keeping them warm and safe from snails and slugs.  Select a plastic drinking bottle. The size depends on how many seeds or seedlings you want to cover at once. You can always make a few, as the plastic bottle is ubiquitous and cheap. Empty the bottle of any liquid."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

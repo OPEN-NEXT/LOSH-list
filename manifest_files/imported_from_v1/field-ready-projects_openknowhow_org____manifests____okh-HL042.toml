@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL042 - Incubator Door Lock (Large)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl042"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/cdb1642fbeea858987167a8c185df68d/08d8b9f7/HL042_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Used to lock the door\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

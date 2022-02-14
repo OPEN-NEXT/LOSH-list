@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Novel_and_Very_Early_Detection_of_Preeclampsia\n"
+repo = "https://www.appropedia.org/Novel_and_Very_Early_Detection_of_Preeclampsia"
+version = "23"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/f/f9/Dr_nie.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == 500 million mothers die each year from child-birth related causes in developing nations. A major cause of maternal mortality is eclampsia, which can kill the mother and the baby during childbirth. Therefore, detection of preeclampsia is vital to treatment.   == Detailed description of the solution == Deregulation of the protein HtrA3 has been linked to preeclampsia. Detection of the protein via antibody assays has been developed to measure the level of HtrA3 in human blood."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Compost_(Chirapa_Manta)\n"
+repo = "https://www.appropedia.org/Compost_(Chirapa_Manta)"
+version = "6"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Cassidy Fosdick"
+image = ["https://www.appropedia.org/w/images/0/03/Compostpileperu2.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Compost_pile"
+function = "Compost is an integral part to permaculture farming. This page is an example of Chirapa Manta's method. The compost pile at Chirapa Manta recycles their waste in piles. The pile consists almost entirely of human feces. Occasionally, food scraps are added in to supply additional nutrients."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL001 - Umbilical Cord Clamp \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl001"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/70b529aabfba607ef258dec15adeea47/9f51f9fc/HL001_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Enclosure of umbilical cords of newborns to prevent sepsis\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

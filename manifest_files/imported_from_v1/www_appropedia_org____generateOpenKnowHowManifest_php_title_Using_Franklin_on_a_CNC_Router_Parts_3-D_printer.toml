@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Using_Franklin_on_a_CNC_Router_Parts_3-D_printer\n"
+repo = "https://www.appropedia.org/Using_Franklin_on_a_CNC_Router_Parts_3-D_printer"
+version = "37"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Handy Chandra"
+image = ["https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/1000px-Sunhusky.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This page describes how to use Franklin on the CNCRouterParts 3-D printer (or any compatible machine) such as CNC Router Parts metal 3D printer   == Electrical System == This section describes the overall electrical system on the current CNCRouterParts 3-D printer  The existing CNC machine already contains the motors, inductive sensors, stop switches, stepper drivers, sensor interface board and motor interface board. Beaglebone green, main interface board, fan, hot end and thermistor were added.   === Hot end === A volcano hot end is selected because it has bigger heating element for better heat transfer when extruding filament with bigger nozzle and layer height. The hot end already contains the fan, heater cartridge, and thermistor cartridge. The fan and 40 w heater cartridge needs at least 4 A 12 V power supply."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

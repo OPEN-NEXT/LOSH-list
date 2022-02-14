@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "FBP_LC_Sheller\n"
+repo = "https://www.appropedia.org/FBP_LC_Sheller"
+version = "53"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Scott Hargreaves"
+image = ["https://www.appropedia.org/w/images/7/7e/Sheller.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Nut_cracker"
+function = "To improve the Universal Nut Sheller(UNS), the LC Sheller(Light, Cheap Sheller) design lowered the cost and weight of existing design using locally available and light weight materials. The reduction in cost makes this technology more accessible to the average farmer. The reduction in weight allows the client to more easily transport the sheller from farm to farm. With the LC Sheller, more nuts could be shelled with a relatively low investment.   == Background == The Full Belly Project is an organization which creates low cost, simple technological solutions to be implemented in developing countries."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

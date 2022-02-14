@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL032 - Height Measure Board\n"
+repo = "https://field-ready-projects.openknowhow.org/hl032"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/56d254779fcf1fa7a08371ace45ab695/9f2893d9/Capture.PNG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A wooden contruction to measure the height of the child\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

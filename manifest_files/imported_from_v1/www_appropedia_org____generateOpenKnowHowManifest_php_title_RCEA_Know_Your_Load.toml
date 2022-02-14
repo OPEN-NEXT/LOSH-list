@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_Know_Your_Load\n"
+repo = "https://www.appropedia.org/RCEA_Know_Your_Load"
+version = "19"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Joey Hiller"
+image = ["https://www.appropedia.org/w/images/thumb/e/ee/RCEA_Know_Your_Load.JPG/1000px-RCEA_Know_Your_Load.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The objective of this project is to design an interactive display with the purpose of promoting energy conservation within the region. The design shall meet all criteria set forth by the Engineering Dept. at Humboldt State University, our design team, and our client the Redwood Coast Energy Authority.   === Cost Analysis === This section presents the design, implementation, and maintenance costs for the Appliance Energy Audit. The design cost is the estimated hours of work done by the design team."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

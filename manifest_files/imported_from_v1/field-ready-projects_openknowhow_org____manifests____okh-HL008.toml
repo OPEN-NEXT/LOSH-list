@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL008 - Electro Cardiology Limb Lead\n"
+repo = "https://field-ready-projects.openknowhow.org/hl008"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/ad7d2f38a62deb30d29f28908fea0e24/3c6295db/HL008_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Attaches sensors to patient’s ankle/wrist to give visual trace of the heart\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

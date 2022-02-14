@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rockwall_hold\n"
+repo = "https://www.appropedia.org/Rockwall_hold"
+version = "9"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Zachary Dubiel"
+image = ["https://www.appropedia.org/w/images/d/de/Rockwall_hold_2.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The first project within MY4777 was to design and print a rockwall hold. The STL file was created in openSCAD and printed using the MOST 3D printed constructed for class. The picture of the final part and the STL file were uploaded to Thingiverse."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

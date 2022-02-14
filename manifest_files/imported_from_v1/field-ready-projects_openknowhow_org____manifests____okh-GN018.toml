@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"GN018 - Coolant Tank Cap \"\n"
+repo = "https://field-ready-projects.openknowhow.org/gn018"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/2488b43e0886c8de448cbb34e7a63014/5e5b7d20/GN018_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Replacement screw coolant cap for a truck (44.5mm ID)\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

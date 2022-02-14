@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rain_chain\n"
+repo = "https://www.appropedia.org/Rain_chain"
+version = "57"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Hannah Getschman"
+image = ["https://www.appropedia.org/w/images/thumb/e/ea/Printed_chain.jpg/750px-Printed_chain.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Rain_chain"
+function = "I have created a rain chain for gutters of houses. I have seen these used on houses before when a gutter continuously overflows and water puddles up in bad places. The rain chain directs the water down the chain from the spout and can be collected into a bucket or place where a puddle is okay to form. This is used as an alternative to a downspout. They were originally created in Japan but many home owners prefer these over downspouts because of the look."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

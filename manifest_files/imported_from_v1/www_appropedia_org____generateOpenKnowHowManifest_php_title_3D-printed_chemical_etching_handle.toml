@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "3D-printed chemical etching handle\n"
+repo = "https://www.appropedia.org/3D-printed_chemical_etching_handle"
+version = "16"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Liu"
+image = ["https://www.appropedia.org/w/images/thumb/8/81/Printing.jpg/1000px-Printing.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "In the research of semiconductor and nanosciences, the dimensions of the substrate fall into a great variety. Substrates with irregular dimensions are quite often used. However the processing tools including accessories are mainly designed for commercially available substrates. This problem is more prominent for wet chemical etching processes, due to the safety issue and accurate time control of sample handling. Customized wet etching tools may be provided by a limited amount of suppliers.\n\nEtching"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_energy_audit_reviews/Food_for_People\n"
+repo = "https://www.appropedia.org/RCEA_energy_audit_reviews/Food_for_People"
+version = "119"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Rebecca Ransom"
+image = ["https://www.appropedia.org/w/images/6/63/Foodfor_people_009.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Food For People is designated as Humboldt County California's food bank. Food For People operates 13 food distribution programs throughout Humboldt County, including The After School Snack Program, Backpacks for Kids Program, The Gleaning Program, and direct food distribution on Wednesdays and Fridays to an average of 1000 households per month. The Redwood Coast Energy Alliance (RCEA) was contracted by Anne Holcomb, Executive Director of Food For People, to implement an energy efficiency upgrade, consisting of lighting retrofits. A retrofit is the addition of new or modified parts or equipment not available or considered necessary at the time of manufacture. The client is considering installing a Photovoltaic Solar Power System, therefore it is important to the client to have the business's energy usage as efficient as possible."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DIY compost bin projects/vermicompost from a barrel at Finca Amrta\n"
+repo = "https://www.appropedia.org/DIY_compost_bin_projects/vermicompost_from_a_barrel_at_Finca_Amrta"
+version = "13"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Liz Kimbrough"
+image = ["https://www.appropedia.org/w/images/f/ff/A_bin.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The vermicomposting system (aka worm bin) at Finca Amrta in Costa Rica is simple, affordable and elegant. After much experimentation they have found this to be the best solution for their environment which has a rainy and dry season and is warm during the days and cool at night. This system works with horse manure. Apparently other types of manures need to be composted before they are added to worm bins, but the pH and composition of healthy horse manure mixes well with worms. Now that they have found this system, they hope to build a small shelter and a frame to mount about 8 of these bins.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

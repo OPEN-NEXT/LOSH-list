@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Wood_Mold_for_Concrete_BioSand_Filter_Production\n"
+repo = "https://www.appropedia.org/Wood_Mold_for_Concrete_BioSand_Filter_Production"
+version = "20"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/f/f4/Bangladesh_biosand_filter_clean_water.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The open-source and DIY OHorizons' Wood Mold allows local organizations to manufacture concrete BioSand Filters for a fraction of the upfront costs of traditional methods, meaning more people can get safe drinking water in their homes faster. OHorizons' Wood Mold is 10x less expensive than the traditional steel mold method and can be made by anyone, anywhere using basic tools- no experience required! It has been made completely off-grid and by illiterate people using the free-to-download construction manual available at http://www.ohorizons.org/resources/ [1]   == What's a BioSand Filter? == BioSand Filters (BSFs) use sand, gravel, and natural biological process to filter out contaminants in water, making it safe for drinking. They're a great low-tech drinking water solution that sit in peoples homes."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

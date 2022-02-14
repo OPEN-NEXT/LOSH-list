@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "HSU_Bike_powered_washing_machine\n"
+repo = "https://www.appropedia.org/HSU_Bike_powered_washing_machine"
+version = "93"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "jess huyghebaert"
+image = ["https://www.appropedia.org/w/images/f/fc/Wash15.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Washing_machine"
+function = "This was a project started by students in the Whole Earth Engineering class at HSU. The main goal of the project was to fill a need using an appropiate technology. An Arcata house, already using several appropiate technologies was looking for a way to wash their clothes. Housemates had several bikes, bike parts, tools, and the know how and the idea for a bicycle powered washing machine was born. HSU - FALL 2006 - ENGR 114 - Instructor Lonny Grafman Amber Villalobos Andrea Lactot Jess Huyghebaert Chris Fivecoat Graham Felsenthal   == Project == We had two months to design and implement our appropiate technology. We spent hours and hours of time discussing and researching how we would build the actual washing machine part of the design."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA010 - Straight Coupler\n"
+repo = "https://field-ready-projects.openknowhow.org/wa010"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/005c66490f4e10fb7a5982ff4048e2b1/b97eb077/WA010_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "20.5/16.5 straight coupler used to join to pipes.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

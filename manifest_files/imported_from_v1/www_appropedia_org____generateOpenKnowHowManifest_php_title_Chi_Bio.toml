@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Chi.Bio\n"
+repo = "https://www.appropedia.org/Chi.Bio"
+version = "9"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/thumb/8/82/BBBAssembly3.jpg/1000px-BBBAssembly3.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Chi.Bio is the open-source robotic platform for experimental automation in biological science research and education."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

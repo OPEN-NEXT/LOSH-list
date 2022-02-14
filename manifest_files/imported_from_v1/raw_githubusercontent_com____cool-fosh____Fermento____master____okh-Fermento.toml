@@ -1,0 +1,11 @@
+okhv = "OKH-LOSHv1.0"
+name = "Fermento\n"
+repo = "https://github.com/BioDesignRealWorld/Fermento"
+version = "UNVERSIONED"
+license = "LicenseRef-CC-BY-SA 3.0"
+licensor = "ANONYMOUS"
+image = ["https://raw.githubusercontent.com/BioDesignRealWorld/Fermento/master/Fab/Fermento_info.png"]
+timestamp = "1643287968"
+function = "An open-source incubator for fun and profit.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

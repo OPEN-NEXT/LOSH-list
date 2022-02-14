@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_Solar_thermal_vs_Heat_pump\n"
+repo = "https://www.appropedia.org/RCEA_Solar_thermal_vs_Heat_pump"
+version = "173"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "adam"
+image = ["https://www.appropedia.org/w/images/e/e9/CO2.GIF"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Water_heater"
+function = "This project examines two hot water heating systems that are commonly used on residential buildings; Solar Thermal Collectors and Air source Heat Pumps. A spreadsheet comparing factors such as system cost, efficiency, operating costs, maintenance and pollution has been created. Values in the spreadsheet can be changed to produce a comparison answer that is more closely based on any user's needs. Preselected options in the spreadsheet are based on stated assumptions and are the baseline for comparison. The conclusion of this project has determined that the optimum hot water heating system varies depending on water use needs."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

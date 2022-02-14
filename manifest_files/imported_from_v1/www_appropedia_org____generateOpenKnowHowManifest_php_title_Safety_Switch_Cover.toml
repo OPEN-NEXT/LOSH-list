@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Safety_Switch_Cover\n"
+repo = "https://www.appropedia.org/Safety_Switch_Cover"
+version = "50"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Luke Shaw"
+image = ["https://www.appropedia.org/w/images/b/bf/Cover2.PNG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Safety Switch Cover for Power Strip. This object was created using FreeCAD for the use of the Principia College Science Department. Its initial use is for their optics lab. One of their power strips is connected to various sensitive light equipment. If they are turned on while the lights are on   == Source Files / Bill of Materials == Fortunately, no bill of materials is required for this print."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

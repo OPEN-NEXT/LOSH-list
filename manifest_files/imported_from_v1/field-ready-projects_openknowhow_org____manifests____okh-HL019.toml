@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL019 - Heat Shrunk Sharps Box\n"
+repo = "https://field-ready-projects.openknowhow.org/hl019"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/c2f87ec2eaccfe33efec60490aa74737/d18ef4f5/HL019_Image_Catalogue.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To dispose of sharp items\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Haiti_Communitere_biodigester_toilet\n"
+repo = "https://www.appropedia.org/Haiti_Communitere_biodigester_toilet"
+version = "15"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Justine Cook"
+image = ["https://www.appropedia.org/w/images/thumb/c/c9/HCBiodigesterToilet.jpg/750px-HCBiodigesterToilet.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Composting_toilet"
+function = "Sistema Biobolsa constructed a biodigester toilet in Haiti Communitere. The biodigester toilet processes human waste into fertilizer and methane. The fertilizer can be used for farming and gardening, and the methane can be used for cooking. This biodigester toilet, along with two composting toilets process all of the human waste for Haiti Communitere."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

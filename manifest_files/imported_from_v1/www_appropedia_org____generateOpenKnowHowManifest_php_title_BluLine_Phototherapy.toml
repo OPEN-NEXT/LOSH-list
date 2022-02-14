@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "BluLine Phototherapy\n"
+repo = "https://www.appropedia.org/BluLine_Phototherapy"
+version = "19"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Kelly Wojcik"
+image = ["https://www.appropedia.org/w/images/7/7a/Bluline.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Neonatal jaundice, also known as hyperbilirubinemia, is a shockingly common condition that occurs when infants’ livers are not fully developed. Low-resource settings often do not have the necessary devices to treat infants with neonatal jaundice because  traditional phototherapy devices are too expensive for the developing world.  They are also impractical due to frequent power outages.   == Detailed description of the solution == BluLine Phototherapy uses LED technology to treat neonatal jaundice.  The device includes a long lasting light blub and can be powered by a car or motorcycle battery.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

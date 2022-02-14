@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Plastic_water_bottle_solar_water_heater\n"
+repo = "https://www.appropedia.org/Plastic_water_bottle_solar_water_heater"
+version = "3"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Tom Sponheim"
+image = ["https://www.appropedia.org/w/images/2/22/Calentador7.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This method of making a solar water heater was devised by Herminio Hernandez Ortiz in Mexico (milito1960@yahoo.com.mx)."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

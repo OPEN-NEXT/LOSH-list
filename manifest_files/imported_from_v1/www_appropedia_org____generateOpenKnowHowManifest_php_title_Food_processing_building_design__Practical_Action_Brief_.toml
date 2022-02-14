@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Food_processing_building_design_(Practical_Action_Brief)\n"
+repo = "https://www.appropedia.org/Food_processing_building_design_(Practical_Action_Brief)"
+version = "21"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Fatima Hashmi"
+image = ["https://www.appropedia.org/w/images/0/03/Food_design.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "While it is obviously very nice to have a brand new building to house any food production unit, this is of course not always possible. The following notes are therefore intended as a guide for those either starting-up from the beginning or converting an existing structure.   == Walls and general internal finish == All internal walls should be, at least, smooth plastered in production areas to allow for thorough cleaning. Ledges and rough finishes must be avoided as dust will accumulate and they are very difficult to clean. If money permits, glazed tiling on the walls to a level of some 4 feet is highly recommended."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

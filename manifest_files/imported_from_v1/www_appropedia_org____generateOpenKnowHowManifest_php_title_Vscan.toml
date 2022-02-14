@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Vscan\n"
+repo = "https://www.appropedia.org/Vscan"
+version = "21"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/e/ed/Vscan.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == The use of ultrasound machines is a common, non-invasive way to diagnose a variety of cardiovascular diseases.  However, the expense of one of these machines, plus the cost to operate and maintain it, is not an option for most developing countries.  Additionally, a trained technician is necessary for operation.  There is a need for an alternative method to diagnose cardiovascular diseases.   == Detailed description of the solution == The Vscan is a small, handheld device that is the size of a smartphone with powerful ultrasound technology."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "'WA007 - 1/2\" BSP Plug '\n"
+repo = "https://field-ready-projects.openknowhow.org/wa007"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/7c11011087c4f202f1d89056bba2d588/372fe705/WA007_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Water tight seal for a 1/2\" BSP fitting\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

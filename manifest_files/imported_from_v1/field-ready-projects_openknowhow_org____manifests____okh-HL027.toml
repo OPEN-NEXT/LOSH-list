@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL027 - Sharps Bottle Cap\n"
+repo = "https://field-ready-projects.openknowhow.org/hl027"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/57ce798f6eff6667d38a577de8ac8ff6/4a5f0901/HL027_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To dispose of sharp items\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

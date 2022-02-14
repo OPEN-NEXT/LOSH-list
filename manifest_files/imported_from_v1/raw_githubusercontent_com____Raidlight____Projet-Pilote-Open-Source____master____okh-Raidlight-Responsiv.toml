@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Raidlight Responsiv\n"
+repo = "https://github.com/Raidlight/Projet-Pilote-Open-Source"
+version = "UNVERSIONED"
+license = "LicenseRef-CC-BY-SA 3.0"
+licensor = "Raidlight / Skis Rossignol SAS"
+image = ["https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg"]
+documentationLanguage = "French-FR"
+release = "https://github.com/Raidlight/Projet-Pilote-Open-Source.git"
+timestamp = "1643287968"
+function = "Sac gilet Responsiv Raidlight\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

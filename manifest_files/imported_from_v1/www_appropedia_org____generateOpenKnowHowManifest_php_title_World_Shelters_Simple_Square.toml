@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "World_Shelters_Simple_Square\n"
+repo = "https://www.appropedia.org/World_Shelters_Simple_Square"
+version = "138"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Chad Herrick"
+image = ["https://www.appropedia.org/w/images/thumb/1/11/DSC00664.JPG/1000px-DSC00664.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/World_shelters,_Bamboo_construction"
+function = "The goal of this project was to reduce the amount of unique connecting pieces needed to construct World Shelter's Just Add Sticks (JAS) shelter. The Simple Square successfully reduced the four pieces that were needed into one connecting piece. None of the angles were altered so structural stresses remain the same.   == Introduction == Team ACE is part of Humboldt State University's spring 2010 Engineering 215 Intro to Design. Team ACE is composed of Chad Herrick, Adam McGuire, and Enrique Diaz."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Human_Powered_Nebulizer\n"
+repo = "https://www.appropedia.org/Human_Powered_Nebulizer"
+version = "48"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/b/b3/HPN.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "In remote areas and resource-limited settings, clinics may lack expensive, electric nebulizers to induce sputum samples for tuberculosis diagnosis and respiratory treatments. We have developed two versions of the Human Powered Nebulizer. One is hand-cranked; the other is pedaled like a bicycle. The health care provider operates the HPN while the patient induces a sputum sample or receives treatment. This technology is inexpensive and portable, putting respiratory treatment and diagnostics in the hands of even the most remote clinics."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

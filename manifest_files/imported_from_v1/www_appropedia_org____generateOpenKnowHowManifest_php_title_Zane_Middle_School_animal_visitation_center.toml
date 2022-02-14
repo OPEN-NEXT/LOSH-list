@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Zane_Middle_School_animal_visitation_center\n"
+repo = "https://www.appropedia.org/Zane_Middle_School_animal_visitation_center"
+version = "93"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Marco Gonzalez"
+image = ["https://www.appropedia.org/w/images/b/b3/Cutting_down_wood_for_frame.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "We, Bryna Frace, Marco Gonzalez, Elizabeth Jurkoic, Delfina Navarro, from Humboldt State University Engineering 215 have worked with Zane Middle School to create an animal visitation center for the middle school's classrooms. Two animal enclosures were created to contain goats and chickens. Both designs are made to create a unique learning environment for students to interact safely with goats and chickens inside the classrooms.   == Background == Zane Middle School is located in the heart of Eureka, California. Their focuses are in science, technology, engineering, arts and mathematics."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

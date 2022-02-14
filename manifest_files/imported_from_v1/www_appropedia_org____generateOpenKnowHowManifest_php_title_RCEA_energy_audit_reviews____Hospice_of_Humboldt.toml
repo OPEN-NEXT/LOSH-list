@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_energy_audit_reviews/Hospice_of_Humboldt\n"
+repo = "https://www.appropedia.org/RCEA_energy_audit_reviews/Hospice_of_Humboldt"
+version = "100"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Nathan Braun"
+image = ["https://www.appropedia.org/w/images/a/af/New_New_Hospice_of_Humboldt.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The purpose of this page is to inform the reader on retrofits done by RCEA (Redwood Coast Energy Authority) at the Hospice of Humboldt. Additional information will include the effect of the retrofits on the energy bill and how much energy was actually saved compared to RECA's past estimates.   === Hospice of Humboldt === The Hospice of Humboldt, logo on left, is a place for people in their final stages of life, looking for a comfortable home in their ending years. The hospice provides health care as well as a comfortable environment close to home for people to find \"dignity and purpose\" in the time they have left, with a peaceful closure. The Hospice is located on Myrtle Street in Eureka."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

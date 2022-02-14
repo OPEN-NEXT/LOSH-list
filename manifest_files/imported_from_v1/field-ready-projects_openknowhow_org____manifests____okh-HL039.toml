@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL039 - Incubator Door Hinge \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl039"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/5a54efafa2ce6214908402f399fc5c93/145d09b2/HL039_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Used to fix the door\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

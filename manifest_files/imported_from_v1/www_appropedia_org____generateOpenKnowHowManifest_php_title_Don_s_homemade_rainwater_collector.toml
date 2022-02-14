@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Don's_homemade_rainwater_collector\n"
+repo = "https://www.appropedia.org/Don's_homemade_rainwater_collector"
+version = "17"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Don Crawford"
+image = ["https://www.appropedia.org/w/images/a/ac/DonsRainwaterCollector00.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Rainwater_catchment"
+function = "I made this project out of parts that I mostly had saved from various other projects and from work. It was built in October 2007 and originally published on instructables.com shortly thereafter. It's pretty easy and can be adapted for use in several applications, but the one shown here was installed at my house and is intended for use with the gutter system on a residential home. It can collect nearly 100 gallons of water from my roof each time it rains, which I use to water my garden and lawn. Total build time was three days using fairly simple parts, most of which can be found at a hardware store."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

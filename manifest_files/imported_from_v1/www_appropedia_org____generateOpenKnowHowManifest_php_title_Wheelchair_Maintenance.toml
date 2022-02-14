@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Wheelchair_Maintenance\n"
+repo = "https://www.appropedia.org/Wheelchair_Maintenance"
+version = "194"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Ana Herrera"
+image = ["https://www.appropedia.org/w/images/8/89/Wheelchair-Brake.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "In many areas of the developing world the conditions under which wheelchairs are used are significantly rough and damaging to the equipment. While companies such as Whirlwind and Next Mobility have adapted wheelchair design to be more suitable for extreme terrain, the access to these wheelchairs is limited. Many of the disabled are accommodated with manual wheelchairs that have been donated from hospitals and, in most cases, are ill fitting. Studies conducted in El Salvador, with wheelchair users and technicians, illuminated common problems affecting ideal wheelchair function and user comfort. This project has used this feedback in designing a maintenance and repair kit that gives manual wheelchair users and technicians the ability to perform repairs and adjustments as necessary."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

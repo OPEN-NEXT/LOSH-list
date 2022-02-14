@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Zeer_pot_refrigeration_(design)\n"
+repo = "https://www.appropedia.org/Zeer_pot_refrigeration_(design)"
+version = "214"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Ayon Shahed"
+image = ["https://www.appropedia.org/w/images/c/cc/ClayAssembled.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "See also: Zeer pot refrigerator (basic topic article) The Zeer pot is a refrigeration device invented in Africa which operates by the principle of evaporative cooling. According to Science in Africa, each device can store 12kg of vegetables, keeping them fresh for up to 20 days while costing less than 2USD to produce. This article will showcase how to build a pot-in-pot refrigerator, discuss various aspects of the technology and present the results of a parametric analysis.   = Overview of Technology =  In harsh dry climates, food preservation plays a vital role in maximizing both economic and nutritional yield from the rare opportunity of a good harvest. The dry heat significantly reduces the life of produce and as a result there is a high level of wasted crop."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

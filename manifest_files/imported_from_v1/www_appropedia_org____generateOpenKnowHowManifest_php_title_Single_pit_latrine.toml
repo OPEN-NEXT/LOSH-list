@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Single_pit_latrine\n"
+repo = "https://www.appropedia.org/Single_pit_latrine"
+version = "15"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joe Turner"
+image = ["https://www.appropedia.org/w/images/2/2e/Icon_single_pit.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The Single Pit is one of the most widely used sanitation technologies. Excreta, along with anal cleansing materials (water or solids) are deposited into a pit. Lining the pit prevents it from collapsing and provides support to the superstructure. As the Single Pit fills, two processes limit the rate of accumulation: leaching and degradation. Urine and anal cleansing water percolate into the soil through the bottom of the pit and wall while microbial action degrades part of the organic fraction."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

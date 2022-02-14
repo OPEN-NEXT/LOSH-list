@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "NBM200Mp\n"
+repo = "https://www.appropedia.org/NBM200Mp"
+version = "25"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tessa Adzemovic"
+image = ["https://www.appropedia.org/w/images/b/b0/NBM200.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Post-Partum hemorrhage is the cause for 8% of direct pregnancy-related deaths in industrialized countries and 25% of maternal deaths in the developing world. In trauma patients, hemorrhagic shock is the second most frequent cause of death.   == Detailed description of the solution == This device is a low signal oximetry sensor that uses occlusion spectroscopy. Pressure is applied by a sensor around the finger, which obstructs blood flow. An optical signal is measured with a blood specific high signal to noise ratio."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

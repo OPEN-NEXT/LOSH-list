@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Haiti_Communitere_cob_plaster\n"
+repo = "https://www.appropedia.org/Haiti_Communitere_cob_plaster"
+version = "6"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Justine Cook"
+image = ["https://www.appropedia.org/w/images/thumb/0/01/HCCobPlaster.jpg/750px-HCCobPlaster.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Cobb_construction"
+function = "A wall in the main building of Haiti Communitere was being plastered by Sam in the image to the right. Sam's plaster has been used to finish many of the walls of various structures throughout the Haiti Communitere compound. For this wall plastic water bottles were stacked between an earthen mortar before being finished with an earthen plaster."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

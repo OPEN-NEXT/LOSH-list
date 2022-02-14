@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "How_to_grow_alfalfa_sprouts\n"
+repo = "https://www.appropedia.org/How_to_grow_alfalfa_sprouts"
+version = "17"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Chris Waterguy"
+image = ["https://www.appropedia.org/w/images/e/eb/Alfalfasproutsonplate.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Alfalfa sprouts are those little wiggly green things you get on fancy sandwiches and salads. They're chock-full of nutrients and kinda fun to eat - but they're expensive. So sprout your own at home. It's easy and cheap too, and your friends will be so impressed. Here's how it's done."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Thermoelectric_Cooler\n"
+repo = "https://www.appropedia.org/Thermoelectric_Cooler"
+version = "35"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Prajwal M.L."
+image = ["https://www.appropedia.org/w/images/c/ce/Mc.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Introduction == Nearly two-thirds of the energy that is produced by conventional power generation methods is lost as heat. Be it in thermal power plants, nuclear power plants or something as common as a car, that we use everyday. By harnessing this heat, we increase the overall efficiency of the system, hence, reducing the carbon emission, and potentially saving huge amounts of money. Thermoelectric materials like bismuth and lead tellurides show high Seebeck coefficients, which essentially means that the amount of power generated per unit change in temperature is higher. This, along with high electrical conductivity and low electrical conductivity are the traits expected in a thermoelectric material."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "WetLand_aquaponic_system\n"
+repo = "https://www.appropedia.org/WetLand_aquaponic_system"
+version = "258"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "CourtneyBrown"
+image = ["https://www.appropedia.org/w/images/thumb/5/5b/Aquaponic_System.jpg/1000px-Aquaponic_System.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Aquaponic_system"
+function = "The purpose of this project is to create an aquaponic system that produces food for up to three people who will be living on the WetLand barge in Philidelphia during Summer 2014. It will also provide inspiration to visitors by demonstrating a closed-looped food growing system that can be easily replicated. The project will be a collaborative effort including the WetLand project, residents on the WetLand barge, Humboldt State University, Team Hooked on 'Ponics, the local community in Arcata, and the community of Philadelphia.   == Background ==  \t\t \t\t  Team Hooked on 'Ponics was started by students at Humboldt State University in the Engineering 215 - Introduction to Design class taught byLonny Grafman, during the Fall of 2013. The project required the team to construct an aquaponic system for Mary Mattingly's WetLand project."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

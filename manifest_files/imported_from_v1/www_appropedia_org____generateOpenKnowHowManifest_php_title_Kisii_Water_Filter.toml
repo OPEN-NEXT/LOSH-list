@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Kisii_Water_Filter\n"
+repo = "https://www.appropedia.org/Kisii_Water_Filter"
+version = "26"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/a/a4/Kisii.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Water_filter"
+function = "Water contamination has always been a huge problem in Africa, not only in rural areas but also even in some urban areas. The water coming out of the tap or the water that is collected from natural resources are usually not satisfactory to meet the acceptable standard for direct drinking. Boiling the water before use removes bacterial contamination. However, boiling water uses large quantities of charcoal and firewood, putting a strain on the already limited resource of energy. In towns where company adds chlorine to the water, boiling would deplete all the antiseptics and leave the water unprotected for storage."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

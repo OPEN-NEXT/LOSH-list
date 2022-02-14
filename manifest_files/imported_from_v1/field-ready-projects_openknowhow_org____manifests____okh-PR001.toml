@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"PR001 - Door Locks \"\n"
+repo = "https://field-ready-projects.openknowhow.org/pr001"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/da6ed8b3fd0b87334cb9c7c64c13a8c7/8cc7f2a2/PR001_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "An easy to use portable lock, no tools needed\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

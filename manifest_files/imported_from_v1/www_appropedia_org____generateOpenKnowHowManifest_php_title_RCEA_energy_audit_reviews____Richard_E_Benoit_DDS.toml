@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_energy_audit_reviews/Richard_E_Benoit_DDS\n"
+repo = "https://www.appropedia.org/RCEA_energy_audit_reviews/Richard_E_Benoit_DDS"
+version = "190"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Andrew Collins-Anderson"
+image = ["https://www.appropedia.org/w/images/thumb/6/6f/Dr.-BenoitEDITED.jpg/654px-Dr.-BenoitEDITED.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Richard E. Benoit DDS is a local dentist who is interested in being more environmentally conscious. He was contacted by the Redwood Coast Energy Authority (RCEA) whose purpose is to develop and implement sustainable energy initiatives that reduce energy demand, increase energy efficiency, and advance the use of clean, efficient and renewable resources available in the region. Dr. Benoit's lighting retrofit is a project under RCEA's Audits and Upgrades of Commercial Buildings Program.   == Business Summary == Dr."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

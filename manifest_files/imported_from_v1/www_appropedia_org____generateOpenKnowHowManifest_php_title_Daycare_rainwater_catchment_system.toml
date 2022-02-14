@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Daycare_rainwater_catchment_system\n"
+repo = "https://www.appropedia.org/Daycare_rainwater_catchment_system"
+version = "130"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/c/cd/Lluvia_sistema_lyotclr.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Rainwater_harvesters"
+function = "El Nuevo Sol is a daycare facility located at 30 Cinco de Mayo for children from 2 months old to 10 years old. It is owned and directed by Sra. Garcia Dominguez and mainly serves working mothers. She is interested in a rainwater catchment system to serve her organic garden (an additional Parras 2008 project) and to teach the children and parents about water collection techniques and eventually water purification techniques. Our goal is to create an easy to use and maintain rainwater collection system to provide an alternative to municipal water for the organic garden."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

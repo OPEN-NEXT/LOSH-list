@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Luggage_carrier_for_transport_bicycle\n"
+repo = "https://www.appropedia.org/Luggage_carrier_for_transport_bicycle"
+version = "22"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Stef Breukel"
+image = ["https://www.appropedia.org/w/images/6/61/RomboutOpLastfiets205x183.PNG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Load rack for bicycles, to be made on the spot. Bicycles are used for transporting bulky and heavy loads. It is trickey to do this in a way that it is still possibe to pedal the bicycle. In practice sometimes special racks are permanently attached to the bicycle. Such racks may hinder the more normal use of this bicycle."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

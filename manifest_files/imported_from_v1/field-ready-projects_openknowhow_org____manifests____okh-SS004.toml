@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "SS004 - House Model  #2\n"
+repo = "https://field-ready-projects.openknowhow.org/ss004"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/2143c3a56052b31379bb63325ab5e2be/b7bb681a/1storeystonehousemodel.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Lasercut house model - For imporved earthquake resistance (Build change house)\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

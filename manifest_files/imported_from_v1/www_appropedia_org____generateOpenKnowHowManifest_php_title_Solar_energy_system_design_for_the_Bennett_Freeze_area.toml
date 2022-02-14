@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Solar_energy_system_design_for_the_Bennett_Freeze_area\n"
+repo = "https://www.appropedia.org/Solar_energy_system_design_for_the_Bennett_Freeze_area"
+version = "32"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Meg McPherson"
+image = ["https://www.appropedia.org/w/images/thumb/4/49/Bennett_Freeze_1.jpg/1000px-Bennett_Freeze_1.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This is part of a masters project: Solar Energy System Design for the Electrification of the Bennett Freeze Area."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

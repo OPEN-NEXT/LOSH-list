@@ -1,9 +1,0 @@
-name = "CCAT_Beach_Grass_Clay_Slip_Wall"
-repo = "https://www.appropedia.org/CCAT_Beach_Grass_Clay_Slip_Wall"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "Elisabeth.deJong", "Cheyenne Celada", "Jacob",]
-image = "https://www.appropedia.org/w/images/6/64/CCAT_Greenhouse_backwall.JPG"
-function = "ccat, gardening, green building, green construction, greenhouse, wall, earthen construction - Carbon negative back wall of the greenhouse at CCAT. Made from invasive beachgrass and local clay with a lime based plaster."
-documentation-language = "en"
-technology-readiness-level = "OTRL-5"

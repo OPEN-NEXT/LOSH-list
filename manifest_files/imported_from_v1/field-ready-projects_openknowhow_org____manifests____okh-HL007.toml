@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL007 - Connector Nebulizer \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl007"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/0b281e425704da8cee2a913f36e54091/ab387e19/HL007_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "This piece is a connector for air tubes developed to fix a nebulizer problem\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

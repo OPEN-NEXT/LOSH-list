@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"EE001 - Clean Cookstove Knob   \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ee001"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/d0cb194645a01fcdf3b3df20967ae957/f7db67f9/EE001_Image_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A spare knob for the African Clean Energy cookstove\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Bowfishing Rest\n"
+repo = "https://www.appropedia.org/Bowfishing_Rest"
+version = "70"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "."
+image = ["https://www.appropedia.org/w/images/thumb/0/07/Assembled_Rest_2.JPG/875px-Assembled_Rest_2.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "When bowfishing, the archer will be presented with various shooting angles. These angles may require the archer to tip and lean the bow in several directions at the same time. With all of this moving around, a standard archery rest will allow the arrow to fall of. This poses a huge safety problem. An arrow that is not positioned on the rest could be sent in an unintended direction causing damage to equipment, or worse bodily harm to the archer or any bystanders.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

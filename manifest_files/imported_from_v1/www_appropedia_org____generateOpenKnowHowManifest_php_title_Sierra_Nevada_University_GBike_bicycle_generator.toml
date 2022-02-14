@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Sierra_Nevada_University_GBike_bicycle_generator\n"
+repo = "https://www.appropedia.org/Sierra_Nevada_University_GBike_bicycle_generator"
+version = "118"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Micah Chitraroff"
+image = ["https://www.appropedia.org/w/images/thumb/4/44/Techne_2020_-_Garrett_First_Physical_Phrototype.jpg/1000px-Techne_2020_-_Garrett_First_Physical_Phrototype.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Pedal_powered_generator"
+function = "The objective for this project was to create a viable bicycle-based product that can produce renewable energy by pedaling, which can be stored to power electronics. The product is adaptable to nearly any bike and can connect via the seat post of the bike. There are two main parts of the design: The frame which holds the motor, gearbox, electrical guts, and the battery. Both parts are small and compact and can be attached to nearly any bicycle with ease.   == Background == This project was developed based off of a concept from Sam Rusak of Sierra Nevada College that was entered into a sustainability contest and won."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

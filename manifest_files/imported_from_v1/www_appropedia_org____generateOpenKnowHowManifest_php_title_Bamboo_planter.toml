@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Bamboo planter\n"
+repo = "https://www.appropedia.org/Bamboo_planter"
+version = "11"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Liz Kimbrough"
+image = ["https://www.appropedia.org/w/images/6/6f/A_Bamboo_Planter_1.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Bamboo_construction"
+function = "This functional and aesthetically appealing bamboo planter is appropriate for those with ample supplies of large diameter bamboo. The example shown in the photo below was found at Finca Amrta in Costa Rica. It hangs under a roof, which is recommended to extend the life of the bamboo.   == How to == That's all!\n\ngardening"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

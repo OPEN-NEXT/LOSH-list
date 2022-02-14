@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Sun_Frost_energy_efficient_shower\n"
+repo = "https://www.appropedia.org/Sun_Frost_energy_efficient_shower"
+version = "25"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Curt Beckmann"
+image = ["https://www.appropedia.org/w/images/1/17/Sunfrost_good_shower.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Shower"
+function = "The design features of a conventional shower minimize thermal comfort, maximize energy use and water consumption while exacerbating moisture problems. Most of these negative effects are caused by evaporation. As small droplets of water fall from the showerhead, the high surface area and velocity of the particles of hot water experience conditions, which maximize evaporative cooling of the droplets. Water saving showerheads that produce exceptionally small water particles can actually further increase evaporation. Water Particles can be cooled by as much as 30ºF / 17ºC as they fall from the showerhead to the ground."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

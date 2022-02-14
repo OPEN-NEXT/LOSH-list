@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Micro-turbine_for_water_power\n"
+repo = "https://www.appropedia.org/Micro-turbine_for_water_power"
+version = "58"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Will Venis"
+image = ["https://www.appropedia.org/w/images/thumb/5/50/Micro-Turbine_2.JPG/699px-Micro-Turbine_2.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This is a cross-flow turbine, basically a water wheel turned by stream to produce energy. This provides energy without the cost of fossil fuels; while the only time and energy used to work on it is occasional maintenance and set up. This would used in developing areas around the world because it is much cheaper and less time consuming to make. The material cost of this turbine itself is significantly reduced using 3D-printing.   == Bill of Materials == PLA or ABS Filament (1.75mm) All of the STL files and the SCAD files are here."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

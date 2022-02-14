@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DS012 - Fixed handrail\n"
+repo = "https://field-ready-projects.openknowhow.org/ds012"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/dd6955e6477412ef1c9c03b0d57a35d8/20587315/DS012_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To assist in bathing and toileting\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

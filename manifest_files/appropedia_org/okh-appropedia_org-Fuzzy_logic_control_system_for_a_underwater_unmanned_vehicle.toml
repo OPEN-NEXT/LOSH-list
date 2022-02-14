@@ -1,7 +1,0 @@
-name = "Fuzzy_logic_control_system_for_a_underwater_unmanned_vehicle"
-repo = "https://www.appropedia.org/Fuzzy_logic_control_system_for_a_underwater_unmanned_vehicle"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "Phaneendra Nalla", "Subrat S. Kamat", "Zicheng Sun", "Du Zhaoxu",]
-image = "https://www.appropedia.org/w/images/f/fb/Coordinate_Zicheng_NoCopyright.png"
-function = "fuzzy logic control system, underwater unmanned vehicle"

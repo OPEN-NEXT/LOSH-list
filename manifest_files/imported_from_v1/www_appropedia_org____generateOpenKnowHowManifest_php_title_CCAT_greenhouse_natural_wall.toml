@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT greenhouse natural wall\n"
+repo = "https://www.appropedia.org/CCAT_greenhouse_natural_wall"
+version = "163"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "."
+image = ["https://www.appropedia.org/w/images/thumb/6/65/IMG_0247.JPG/1000px-IMG_0247.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Greenhouses,_Natural_wall"
+function = "The Cal Poly Humboldt Campus Center for Appropriate Technology (CCAT) is a hub for student experimentation with Appropriate Technologies and Sustainable Living. The students who facilitate this space work to uphold the principles of permaculture and embrace the production of food as a key pillar. Here in Humboldt County, a greenhouse is crucial for the cultivation of tomatoes, peppers and hot-weather foods as well as for propagating starts to get a jump on the growing season. When CCAT was in its original location, it was blessed with an enormous greenhouse for the community to use. However, when the HSU Behavioral and Social Sciences building was created, CCAT was relocated to the south of the new building.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

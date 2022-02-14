@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL010 - Ventilator Connector \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl010"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/f1e49c79ff3006d0bc32f39c9ee672cf/d5382d58/HL010_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Connector for ventilator\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Introduction_to_making_the_Full_Belly_Project_Universal_Nut_Sheller\n"
+repo = "https://www.appropedia.org/Introduction_to_making_the_Full_Belly_Project_Universal_Nut_Sheller"
+version = "16"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Curt Beckmann"
+image = ["https://www.appropedia.org/w/images/8/80/Completedsheller.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Instructions for Making a Nut Sheller Based on the kit available from the Full Belly Project[1]   == The steps in building a sheller are ==  Assembling the molds for each part.  Mixing and pouring the concrete into the molds.  Removing the parts from the molds.  Assembling the sheller.  Adjusting and testing the sheller."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

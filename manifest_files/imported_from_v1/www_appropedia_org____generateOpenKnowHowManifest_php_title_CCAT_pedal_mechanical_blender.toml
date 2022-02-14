@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_pedal_mechanical_blender\n"
+repo = "https://www.appropedia.org/CCAT_pedal_mechanical_blender"
+version = "10"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "David Lopez Jr."
+image = ["https://www.appropedia.org/w/images/3/3e/Blender1.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Mechanical_pedal_powered_devices,_Bike_blender"
+function = "The pedal powered mechanical blender was designed by Bart Orlando and built with the assistance of Saremy Graves, an HSU student who received class credit for her participation in the project in 1997. It was used to make smoothies, salad dressings and in the process of creating homemade paper. A skate board wheel rolls along the side of the exercise bike's flywheel. This spins a driveshaft which is attached to the skateboard wheel. The driveshaft is supported by two pillow blocks."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

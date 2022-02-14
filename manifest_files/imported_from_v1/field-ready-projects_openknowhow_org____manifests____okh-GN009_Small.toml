@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"GN009_Small - Customizable Peg \"\n"
+repo = "https://field-ready-projects.openknowhow.org/gn009_small"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/ca2ae44ef293766363de79dfe280d69d/24ed4996/GN009_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "3D printed spike driven into the ground for holding a an object to the ground\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

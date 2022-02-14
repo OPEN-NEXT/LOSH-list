@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL015 - Fetoscope (3DP)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl015"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/d05ef8aedbb0b8ffe49716e49b89757d/0339b7a8/HL015_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A device used to obtain information about a fetus within the uterus\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

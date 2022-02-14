@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL036 - Fetoscope (Wooden)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl036"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/6c28ae0dd0f435d3c1fd93bd0c1858fc/284e70ed/SelangIDPCampinSindupalchok_BuildThoughtstoActionDirectorisabletolistentoheartbeatofchildofpregnantwomanincampusing3DPfetoscope.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A device used to obtain information about a fetus within the uterus\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

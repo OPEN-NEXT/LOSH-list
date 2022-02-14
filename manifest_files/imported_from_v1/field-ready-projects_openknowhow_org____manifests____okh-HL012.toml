@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL012 - Nebulizer T Fitting \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl012"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/f07a8718887d877ac976015a8e85a266/9d7fff82/HL012_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "This is a fitting to allow other gases to be mixed into a nebulizer supply\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GN010 - Cable Junction Enclosure  \n"
+repo = "https://field-ready-projects.openknowhow.org/gn010"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/f2719b2e00d51d1424fca8b2011a9326/a160bb96/GN010_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To hide and provide protection for cable junctions\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

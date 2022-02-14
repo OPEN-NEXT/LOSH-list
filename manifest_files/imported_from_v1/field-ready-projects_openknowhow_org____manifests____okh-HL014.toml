@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL014 - Wrist Brace (Large) \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl014"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/ebb576ad2f22952216c53cb1e17286c2/0c936579/HL014_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "For wearing around wrist for injury rehabilitation process in health posts\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

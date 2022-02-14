@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA002 - Water Cap\n"
+repo = "https://field-ready-projects.openknowhow.org/wa002"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/62ada8e5c49b0069357d14fe75444054/cbae764f/WA002_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Threaded cap for output of a diesel water pump (1\" OD)\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

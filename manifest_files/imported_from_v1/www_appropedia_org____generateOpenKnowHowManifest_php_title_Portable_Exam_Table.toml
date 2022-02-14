@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Portable_Exam_Table\n"
+repo = "https://www.appropedia.org/Portable_Exam_Table"
+version = "22"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/3/3a/Portable_exam_table.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Women have limited opportunities to see a gynecologist in rural Ghana, where access to care, health resources and personnel are scarce. In order for a physician to practice effectively, it is crucial for him/her to have an adequate examination table especially in limited-resource settings. Exams are difficult without a proper examination table.   == Detailed description of the solution == The device is a portable table designed to be carried in a backpack. The device has an adjustable trunk height and collapsible frame."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,8 +1,0 @@
-name = "Build_Appropedia"
-repo = "https://www.appropedia.org/Build_Appropedia"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = "Jameel Tutungan"
-image = "https://www.appropedia.org/w/images/1/1d/Build.jpg"
-function = "Build Appropedia"
-technology-readiness-level = "OTRL-5"

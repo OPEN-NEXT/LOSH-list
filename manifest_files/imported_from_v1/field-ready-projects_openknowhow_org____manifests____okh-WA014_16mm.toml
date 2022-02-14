@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA014_16mm -  BSP Thread 16mm\n"
+repo = "https://field-ready-projects.openknowhow.org/wa014_16mm"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/97ab18fc3bfeed35a8e6ecadf0d17c6e/8b6fce79/WA014_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "DIN ISO 228 (DIN 259) BSP Standard Pipe Thread 16mm\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

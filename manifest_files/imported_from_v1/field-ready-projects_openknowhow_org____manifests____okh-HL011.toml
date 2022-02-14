@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL011 - Tweezers/Forceps  \n"
+repo = "https://field-ready-projects.openknowhow.org/hl011"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/379529aca40185d0c704629f23abd28a/d87b1956/HL011_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "For handling sterile bandages/foreign object removal at health posts\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

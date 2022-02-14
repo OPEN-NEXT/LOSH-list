@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Arcata Elementary rainwater catchment\n"
+repo = "https://www.appropedia.org/Arcata_Elementary_rainwater_catchment"
+version = "17"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Katie Miller"
+image = ["https://www.appropedia.org/w/images/thumb/6/60/Potential_Rainwater_Catchment_System_Location.jpg/1000px-Potential_Rainwater_Catchment_System_Location.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This paragraph will appear in search results and previews for this page. Write a brief introductory text with information such as a description of your project, when was it designed and built, your motivation to solve the problem, the intended users. This will explain your project to someone who has never heard of it before.   == Background == Rainwater Catchment system for Arcata Elementary school garden. Students will be learning the importance of water conservation.\n\nrainwater, agriculture, school garden"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

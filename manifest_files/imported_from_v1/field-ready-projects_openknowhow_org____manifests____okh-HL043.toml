@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL043 - Incubator Screw Handle\n"
+repo = "https://field-ready-projects.openknowhow.org/hl043"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/712920b44308107dab4a47583cb33ca4/998c42b8/HL043_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Used to lock the bar of the Injury shoulder recovery Tools\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "A hand-powered hay and leaf baler\n"
+repo = "https://www.appropedia.org/A_hand-powered_hay_and_leaf_baler"
+version = "134"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Jerome Arthur"
+image = ["https://www.appropedia.org/w/images/f/fa/Overall_Prototype.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Straw_bale_construction"
+function = "This article provides a detailed how to for construction and use of this bailer as well has some design. A discussion on the application of this system and its bales is also included as well as a brief introduction to alternative machines. Baling materials on such as hay, straw or leafs has many advantages as these bales are typically used to store excess materials or feed animals. Straw bales are also used as a building material for construction. This practise started in North America as early as the 1800's, and has recently seen a resurgence as part of the green and natural building movement.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

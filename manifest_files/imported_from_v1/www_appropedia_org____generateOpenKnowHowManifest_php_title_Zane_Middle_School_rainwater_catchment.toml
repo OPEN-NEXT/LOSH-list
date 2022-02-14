@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Zane_Middle_School_rainwater_catchment\n"
+repo = "https://www.appropedia.org/Zane_Middle_School_rainwater_catchment"
+version = "88"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Hannah Marsh"
+image = ["https://www.appropedia.org/w/images/c/ce/Zane_rainwater_update_Dec_2016.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "After hearing about some issues that Zane Middle School needed help addressing, Team Rain Catchers (Chip Brocious, Charles Diehl, Hannah Marsh, and Amanda Norton) came together with a plan on designing and building a solution that would help to collect and store water for use in the school's garden. Zane middle school set forth some criteria as guidelines to follow. A rainwater catchment system has been successfully designed and is now being implemented on Zane's campus. The next step to follow will be to teach the students how to use the Rainwater Catchment System.  \t\t   == Background == Humboldt State University has partnered with Zane Middle School in Eureka, California for the Engr215 Introduction to Design class project."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

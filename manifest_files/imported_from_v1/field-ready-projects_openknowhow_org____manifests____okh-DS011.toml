@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DS011 - Latrine Rails\n"
+repo = "https://field-ready-projects.openknowhow.org/ds011"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/4407d1f0a5b44d448186066479acf31d/b7550808/DS011_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To aid in safe and easy transfers between wheelchair and latrine\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

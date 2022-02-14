@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Freeplay_Fetal_Heart_Rate_Monitor\n"
+repo = "https://www.appropedia.org/Freeplay_Fetal_Heart_Rate_Monitor"
+version = "25"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/a/a9/Freeplay.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Newborn mortality accounts for over half of all infant deaths. In developing countries, where giving birth at home is common, there may be a lack of electricity to support delivery. Hand cranked heart rate monitors are more suitable for rural settings than expensive Western-derived equipment which can be difficult to repair and often rely on replaceable batteries. Discovering lowered heart rate during contractions gives medical workers a chance to suspend delivery, try to get more sophisticated medical assistance, and protect the well being of the mother and infant.   == Detailed description of the solution == This device measures the infant’s heart rate during birth."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

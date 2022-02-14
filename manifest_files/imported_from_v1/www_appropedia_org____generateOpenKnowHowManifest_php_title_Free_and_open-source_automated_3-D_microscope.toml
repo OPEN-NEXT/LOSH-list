@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Free_and_open-source_automated_3-D_microscope\n"
+repo = "https://www.appropedia.org/Free_and_open-source_automated_3-D_microscope"
+version = "25"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/1000px-Sunhusky.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Open-source technology not only has facilitated the expansion of the greater research community, but by lowering costs it has encouraged innovation and customizable design. The field of automated microscopy has continued to be a challenge in accessibility due the expense and inflexible, noninterchangeable stages. This paper presents a low-cost, open-source microscope 3-D stage. A RepRap 3-D printer was converted to an optical microscope equipped with a customized, 3-D printed holder for a USB microscope. Precision measurements were determined to have an average error of 10 μm at the maximum speed and 27 μm at the minimum recorded speed."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

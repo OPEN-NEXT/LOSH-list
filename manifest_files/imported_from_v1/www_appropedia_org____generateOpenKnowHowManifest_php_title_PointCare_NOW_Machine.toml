@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "PointCare_NOW_Machine\n"
+repo = "https://www.appropedia.org/PointCare_NOW_Machine"
+version = "42"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/c/c0/Pointcare_now.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == For people living with HIV, the presence of the virus can be detected through a CD4 cells, which are cells that fight infection. In general as HIV progresses, CD4 cells go down which is indicative of a weakening immune system. For HIV-infected patients, a CD4 count should be administered before anti-retroviral therapies begin. However, modern technology for CD4 counting is not easily accessible throughout the developing world. Current technology, such as the flow-cytometry CD4 counter, range from US$30,000–$150,000 which is beyond the affordability for health systems with financial constraints."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

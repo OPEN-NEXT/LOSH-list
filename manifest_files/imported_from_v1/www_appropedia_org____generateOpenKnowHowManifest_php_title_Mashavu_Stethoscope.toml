@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Mashavu_Stethoscope\n"
+repo = "https://www.appropedia.org/Mashavu_Stethoscope"
+version = "27"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Kelly Wojcik"
+image = ["https://www.appropedia.org/w/images/0/05/Mashavu_stethoscope.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == In developing countries such as Kenya and Tanzania, pulmonary disorders are common due to poor ventilation and pollution. Additionally, the amount of doctors in not sufficient to treat the number of patients in need.   == Detailed description of the solution == The Mashavu stethoscope is designed to collect heart and lung sounds in an audio file, which could be sent to medical professionals in other locations for analysis and diagnosis. It consists of a conical chest-piece attached to a microphone, which is able to transmit the data to a computer. There, the audio is filtered and analyzed by a software, providing a numerical heartbeat and an audible sound file."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

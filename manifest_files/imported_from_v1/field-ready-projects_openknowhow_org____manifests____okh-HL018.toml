@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL018 - Vacuum Suction Pump Connector \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl018"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/dbb4a3b48a8a56c62e5820ce68c1f815/b678225a/HL018_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Spare part for electrically or foot operated suction used in medical wards\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Viability_of_Recycling_Copper_Indium_Gallium_Selenide_(CIGS)_in_Photovoltaic_Cells\n"
+repo = "https://www.appropedia.org/Viability_of_Recycling_Copper_Indium_Gallium_Selenide_(CIGS)_in_Photovoltaic_Cells"
+version = "292"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Carolyn Lahti"
+image = ["https://www.appropedia.org/w/images/b/b0/AscentCIGS_Solar_Cell.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This is a speculative class project and needs to be refined before being deployed at any scale.  Photovoltaics are devices which convert light energy into electrical energy. Photovoltaic (PV) cells can generate electricity for a wide range of electrical applications and can be implemented in most geographical locations and theoretically at any scale. A PV cell is only as good as the semi-conductor materials for which it is composed of. Specifically in this page we will be discussing CIGS as a semi-conductor material in a PV cell."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

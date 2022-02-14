@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "How_to_ripen_fruit\n"
+repo = "https://www.appropedia.org/How_to_ripen_fruit"
+version = "9"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Felicity"
+image = ["https://www.appropedia.org/w/images/7/78/Ripeningfruitwindowsill.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Fruit is often picked before it has fully ripened. This is necessary to allow for transportation, storage, longevity and sometimes even for the ripening process itself. There are varied methods for ripening fruits, depending on which fruit is being picked early. This article aims to cover a the fruit types that will ripen after harvest, explaining how to ripen the fruit. Fruit does not die after it is harvested."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

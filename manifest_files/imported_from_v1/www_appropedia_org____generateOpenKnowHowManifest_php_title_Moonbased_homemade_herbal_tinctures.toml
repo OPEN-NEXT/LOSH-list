@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Moonbased_homemade_herbal_tinctures\n"
+repo = "https://www.appropedia.org/Moonbased_homemade_herbal_tinctures"
+version = "31"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "megan nelson"
+image = ["https://www.appropedia.org/w/images/3/33/Athometincturesnew.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "An Herbal Tincture is a solution of a medicinal substance, like a plant or herb in an alcoholic menstruum. It is also a method of using herbs and plants, extracting their healing properties for the use of treating minor aches and pains, discomforts, ailments, illness, etc. There are different ways to extract from the plants, to utilize their healing properties ranging from fresh plant and dry plant tinctures, hot tea infusion, cold infusion, and decoction. Decoction is an extraction or essence of something, obtained by boiling it down.   === Best time of the month to make tincture === There are certain times in the month, this depending on the lunar cycle of the moon."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

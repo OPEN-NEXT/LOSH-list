@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_greenshed_solar_lighting_2015\n"
+repo = "https://www.appropedia.org/CCAT_greenshed_solar_lighting_2015"
+version = "146"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Darby"
+image = ["https://www.appropedia.org/w/images/7/74/Rooftop.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Photovoltaic_system"
+function = "CCAT (Campus Center for Appropriate Technology) is an appropriate technology demonstration house on the Humboldt State University campus in Arcata, California. Student staff and volunteers work weekly at CCAT to keep it running smoothly. The Greenshed is a building where the workers store tools and work on small projects. The Greenshed solar panel powers a solar lighting system that workers can use to light the shed at night. The solar lighting system was installed in early 2013."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

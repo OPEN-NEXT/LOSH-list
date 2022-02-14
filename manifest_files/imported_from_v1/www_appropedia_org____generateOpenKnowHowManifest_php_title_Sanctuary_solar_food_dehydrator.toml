@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Sanctuary_solar_food_dehydrator\n"
+repo = "https://www.appropedia.org/Sanctuary_solar_food_dehydrator"
+version = "160"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/e/ec/StagedPhoto.JPG/1000px-StagedPhoto.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Abstract == The four members of Team BALM are Environmental Resources Engineering  Majors at Humboldt State University in ENGR 215, Introduction to Design.  The problem analysis defines the specifications required from the Sanctuary, as well as considerations necessary to identify pertinent information related to the location, the client, and solar food dehydrators.  The alternative solutions to the Sanctuary’s need for a solar food dehydrator. The brainstorming included in this section is the process team BALM used to find different alternatives to pursue. The decision process outlines which of the designs proposed is chosen for the Sanctuary’s solar food dehydrator."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

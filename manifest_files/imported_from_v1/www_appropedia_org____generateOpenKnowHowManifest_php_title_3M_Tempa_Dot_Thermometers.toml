@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "3M Tempa Dot Thermometers\n"
+repo = "https://www.appropedia.org/3M_Tempa_Dot_Thermometers"
+version = "19"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "."
+image = ["https://www.appropedia.org/w/images/9/94/3M_Tempa_Dot_Thermometers.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Infection is a large contributor to maternal mortality and morbidity in developing countries.  Nearly one third of all maternal deaths are attributed to infection, which could easily be prevented by minimal improvements in care that would allow for earlier detection of infection, such as proper detection of fevers.  Standard glass and mercury thermometers are not suitable for resource limited environments since they can be easily broken and not readily transportable.  Many digital thermometer models are often very expensive and require battery replacement so there needs to be another alternative.  Additionally, there is the issue of sanitizing thermometers or using sleeves so that they can be re-used.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

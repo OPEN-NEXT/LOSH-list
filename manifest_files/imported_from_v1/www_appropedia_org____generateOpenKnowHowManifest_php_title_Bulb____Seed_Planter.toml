@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Bulb/Seed Planter\n"
+repo = "https://www.appropedia.org/Bulb/Seed_Planter"
+version = "61"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". zac dvorak"
+image = ["https://www.appropedia.org/w/images/thumb/c/c9/Bulb_planter_blade_detail.jpeg/750px-Bulb_planter_blade_detail.jpeg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Open source, lightweight, sturdy bulb and seed planter.  The idea of this OSAT is a small, easily producible, hand sized, bulb and seed planter. The current opening fits groupings of seeds or a small bulb, but can easily be sized to fit a larger bulb as well. The interior of the planter is designed to have a ridged blade edge for ripping and tearing into dirt with a twisting motion. As the designers home is currently covered in permafrost, testing has not yet occurred.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

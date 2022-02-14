@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT cob protection and beautification\n"
+repo = "https://www.appropedia.org/CCAT_cob_protection_and_beautification"
+version = "90"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Leandra"
+image = ["https://www.appropedia.org/w/images/thumb/7/77/CCATcob_renovation_ven.jpg/750px-CCATcob_renovation_ven.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Cobb,_Earthen_ovens"
+function = "At Humboldt State University the course Engr 215 allows one the real life experience through service learning. During the Fall semester of 2009, our team, the Muddy Cobbers, worked on a design project for the Campus Center for Appropriate Technology (CCAT). The goal of the project was to implement a solution that would protect and beautify the cob installations at CCAT.   == Background ==  The Campus Center for Appropriate Technology has two cob installations a bench and an oven. These were both student project built in approximately 2005. Cob is a type of earthen building material composed of clay, sand, and straw.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

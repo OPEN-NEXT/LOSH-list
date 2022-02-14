@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Solar_air_heater\n"
+repo = "https://www.appropedia.org/Solar_air_heater"
+version = "65"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Howard Swartz"
+image = ["https://www.appropedia.org/w/images/f/f6/Solar_Air_Heater.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "= Overview = Solar air heaters are systems that collect solar energy and transfers the heat to passing air, which is either stored or used for space heating. The collectors are often black to absorb more of the sun's energy and a conductive material, often metal, acts as a heat exchanger. There are many different designs and systems may include fans to increase the flow rate of air. Alternatively, a passive collector can be built such that when the hot air rises it draws fresh air through the bottom. Fans can often increase the performance of the system, but require additional parts and adds complexity."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

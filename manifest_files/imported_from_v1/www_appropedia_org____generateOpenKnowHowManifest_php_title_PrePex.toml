@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "PrePex\n"
+repo = "https://www.appropedia.org/PrePex"
+version = "36"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Amir Sabet"
+image = ["https://www.appropedia.org/w/images/0/0b/Prepex.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Circumcision_device"
+function = "== Problem being addressed == Male circumcision has been identified as an effective method to control HIV transmission. However, the conventional clinical procedure requires a skilled medical professional, a sterile facility, and specialized equipment to be safely implemented.   == Detailed description of the solution == Prepex is a simple, inexpensive device that allows for non-surgical and safe adult male circumcision. It functions by three simple steps. First, after selecting the correct size, the area to be circumcised is marked according to WHO guidelines, and an inner ring is inserted."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "DIF_Adobe_Senior_Center_2007\n"
+repo = "https://www.appropedia.org/DIF_Adobe_Senior_Center_2007"
+version = "108"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Jaquelyn Shur"
+image = ["https://www.appropedia.org/w/images/a/ab/DIFbuilding1.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Adobe_construction"
+function = "The DIF wanted to construct a space for the viejitos of Parras who do not have families to be able to relax and enjoy a meal and the company of others, and enlisted the help of the HSU Parras program. Who: Three HSU students, Hannah, Jaqui, and Heather (project leaders), a government clown, and two DIF employees, along with help from the rest of the Parras AT group. What: In Parras, Coahuila, at the DIF, a Mexican federal social service center, a project to construct a structure for senior citizens began in 2006. Our mission: to complete it and add an extension for a small kitchen, as well as a roof and porch. Why: The DIF wanted to construct a space for the viejitos of Parras who do not have families to be able to relax and enjoy a meal and the company of others, and enlisted the help of the HSU Parras program."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "OSAT_Wind_Turbine\n"
+repo = "https://www.appropedia.org/OSAT_Wind_Turbine"
+version = "52"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Lee Southerton"
+image = ["https://www.appropedia.org/w/images/thumb/9/94/Blade.jpg/1000px-Blade.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "A wind turbine bade.   == Bill of Materials == PLA Plastic Files can be found on at [[1]]   == Tools needed == MOST Delta RepRap or similar RepRap 3-D printer Lighter   == Skills and knowledge needed == Knowledge how to operate a 3d printer Knowledge of how to operate freecad if changes to blade needs to be made   === Common Problems and Solutions === Rough edges can be smoothed out with lighter ."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

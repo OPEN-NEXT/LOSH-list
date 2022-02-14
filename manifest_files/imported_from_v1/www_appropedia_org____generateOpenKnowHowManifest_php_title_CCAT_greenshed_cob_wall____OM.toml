@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_greenshed_cob_wall/OM\n"
+repo = "https://www.appropedia.org/CCAT_greenshed_cob_wall/OM"
+version = "20"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Justine Cook"
+image = ["https://www.appropedia.org/w/images/b/be/IMG_0343.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This is the Operation and Maintenance (O&M) manual for CCAT greenshed cob wall. Please refer to it and keep it up to date with any O&M changes.   == Summary == The CCAT Greenshed Cob Wall was constructed using cob (a combination of water, clay, sand and straw), recycled glass, and a cob and lime plaster. Eighteen 'liters of light' were made from recycled glass bottles. A granite slab shelf inside the shed sits below a glass plate window."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

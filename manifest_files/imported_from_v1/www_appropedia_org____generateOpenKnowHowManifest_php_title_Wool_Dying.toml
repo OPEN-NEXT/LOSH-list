@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Wool_Dying\n"
+repo = "https://www.appropedia.org/Wool_Dying"
+version = "15"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Eric Blazek"
+image = ["https://www.appropedia.org/w/images/3/3e/2i4p30a.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "AND INTO THE DYE POT (From BITTERSWEET, Volume II, No. 4, Summer 1975) by Melissa O'Kelley The beautiful scenery of the Ozarks has many flowers, barks, leaves and hulls in its vast array of plant life. Early people of this area learned to use these resources as mediums for different colors to tint their clothing which was usually made out of wool. After shearing, carding and spinning their wool, they were ready to dye it so it could be made into usable and attractive clothing. Some people still spin and dye their own wool for the pure enjoyment of experimenting with the different plants and enjoy creating something like it was done long ago."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

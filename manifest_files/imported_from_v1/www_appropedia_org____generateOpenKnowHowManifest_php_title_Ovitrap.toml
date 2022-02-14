@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Ovitrap\n"
+repo = "https://www.appropedia.org/Ovitrap"
+version = "22"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/e/ea/Ovitrap.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == There is a need for an economical and environmentally-friendly method of trapping and collecting mosquitoes. It may be applicable for controlling Anopheles mosquitoes, which are the primary carriers of malaria.   == Detailed description of the solution == The Ovitrap consists of a black cylinder with a piece of cardboard. It does not require electricity and is based on physical/chemical stimuli. Female mosquitos lay eggs in the black ovitrap, and when the larvae hatch and develop into adults, they cannot fly out of the device and they die inside the trap."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

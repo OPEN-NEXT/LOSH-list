@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Cloth_(Sari)_Filtration\n"
+repo = "https://www.appropedia.org/Cloth_(Sari)_Filtration"
+version = "18"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/a/a1/Sari2.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Bangladesh is a low-income country where groundwater is often contaminated with arsenic and frequent floods render surface water unsafe for drinking. People living in areas with limited access to safe drinking water require an inexpensive means of purifying water from disease-causing pathogens, such as Vibrio cholerae.   == Detailed description of the solution == A traditional method of purifying water, women fold old sari fabric 4-8 times and filter water and homemade beverages through it. This is an essentially cost-free means of providing cleaner drinking water in areas at risk for cholera.   == Concept == Concept: Using a cloth/sari to filter water is a traditional technique in Bangladesh and is likely to be in place in other places including other African nations."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Viability_of_recycling_semiconductors_in_Intel_Processors\n"
+repo = "https://www.appropedia.org/Viability_of_recycling_semiconductors_in_Intel_Processors"
+version = "224"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Emily Wolbeck"
+image = ["https://www.appropedia.org/w/images/thumb/c/c9/Intel-logo.svg/1000px-Intel-logo.svg.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This is a speculative class project and needs to be refined before being deployed at any scale.  In 1968, scientists, Robert Noyce and Gordon MooreW, founded Intel with a vision for semiconductor memory products. By 1971, they had introduced the world's first microprocessor.   ===== Type of Semiconductor and How it's Made =====  Intel processors use 99.9999% pure silicon to make their wafers. The silicon is grown from melt into a large single crystal ingot."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

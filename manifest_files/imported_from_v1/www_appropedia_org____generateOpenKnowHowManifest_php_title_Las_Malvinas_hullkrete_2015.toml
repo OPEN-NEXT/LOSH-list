@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Las_Malvinas_hullkrete_2015\n"
+repo = "https://www.appropedia.org/Las_Malvinas_hullkrete_2015"
+version = "325"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tanya Garcia"
+image = ["https://www.appropedia.org/w/images/e/ec/LasMalvinasChicas.jpeg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This page discusses the Las Malvinas hullkrete project from summer, 2015. This project includes: designing and testing eco blocks in Las Malvinas that successfully fit the criteria set; and using the best eco blocks to finish as much of the already-started destacamento in Las Malvinas as possible. The project team is composed of a group of six students studying at Humboldt State University HSU, all of whom are members of Lonny Grafman's Practivistas program.   == Background == This project was included in Lonny Grafman's Practivistas summer program through Humboldt State University. It took place from May 22-July 4, 2015 in the small community, Las Malvinas, located in the outskirts of Santo Domingo, Dominican Republic."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

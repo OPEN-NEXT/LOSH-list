@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Practivistas_Chiapas_windbelt_ASE\n"
+repo = "https://www.appropedia.org/Practivistas_Chiapas_windbelt_ASE"
+version = "269"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Enrique Diaz"
+image = ["https://www.appropedia.org/w/images/thumb/1/1b/Windbelt.JPG/1000px-Windbelt.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The objective of the project is to design, build and implement multiple versions of the windbelt generator for Otros Mundos. Our initial goal was to power Otros Mundos' telecommunication devices in the field, using wind energy. However, the prototype developed did not generate sufficient energy to power these telecommunication systems. The refined goal for this work is to inspire interested people and to provide them the information necessary to create their own Windbelts.   === Background on the client === Otros Mundos Chiapas is a non-profit, sustainability organization based in the state of Chiapas in southen Mexico."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

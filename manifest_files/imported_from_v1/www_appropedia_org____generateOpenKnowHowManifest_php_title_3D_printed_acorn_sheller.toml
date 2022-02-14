@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "3D printed acorn sheller\n"
+repo = "https://www.appropedia.org/3D_printed_acorn_sheller"
+version = "63"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Erica"
+image = ["https://www.appropedia.org/w/images/d/d7/Acornsheller.PNG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The goal of this project is create a safer way to smash and shell acorns. There is a base where the acorn can sit that has a handle attached so the base doesn't fly away. There is also a smasher that you use to hit the top of the acorn. The little slots around the acorn holder to allow the shell to fall outward. There is the original design that is bulky, and then there is the modified design that saves filament wherever possible.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

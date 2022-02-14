@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Urine_Diverter_for_Composting_Toilet\n"
+repo = "https://www.appropedia.org/Urine_Diverter_for_Composting_Toilet"
+version = "48"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/e/e1/PrintedDiverter.jpg/750px-PrintedDiverter.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Composting_toilet"
+function = "When using a composting toilet, it is common practice to separate urine from feces. This reduces the smell and pathogens that are present in the toilet. Excess moisture in the toilet creates an anaerobic environment which promotes the growth of smelly bacteria. The goal of this project is to produce a diverter that can be used on a 5 gallon bucket style toilet. Current models range in price from around $10-40 which is very expensive for a developing community."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

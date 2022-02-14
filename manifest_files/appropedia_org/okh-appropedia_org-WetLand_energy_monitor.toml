@@ -1,7 +1,0 @@
-name = "WetLand_energy_monitor"
-repo = "https://www.appropedia.org/WetLand_energy_monitor"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-image = "https://www.appropedia.org/w/images/5/56/WetLand_Barge.png"
-function = "energy monitor - A rendering completed by Mary Mattingly of the WetLand Project showing the geodesic domes and rough lay out on the floating barges."
-documentation-language = "en"

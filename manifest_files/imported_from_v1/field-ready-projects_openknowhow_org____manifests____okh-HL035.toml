@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL035 - Fetoscope (Electrical)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl035"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/96fcb88fa9f5778f4310db29701c905e/4e8c71bb/HealthPost-testingthefetoscope.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "A device used to obtain information about a fetus within the uterus\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

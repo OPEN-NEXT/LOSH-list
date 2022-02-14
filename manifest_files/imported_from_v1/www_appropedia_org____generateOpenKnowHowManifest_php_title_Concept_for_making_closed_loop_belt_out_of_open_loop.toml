@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Concept_for_making_closed_loop_belt_out_of_open_loop\n"
+repo = "https://www.appropedia.org/Concept_for_making_closed_loop_belt_out_of_open_loop"
+version = "18"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Nagendra"
+image = ["https://www.appropedia.org/w/images/thumb/f/f6/Concept_for_open_to_closed_belt.png/1000px-Concept_for_open_to_closed_belt.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Using a closed loop belt has significant advantages over an open loop belt.  Carriage assembly can be much simpler. The printer can be used for other purposes involving rotatory motion, instead of linear, such as centrifuge, tensile testing, etc. The proposed system uses ninjaflex to print a belt extension piece which will enable the printer to work in 2 modes: 3D printer mode and free rotation mode.  This system converts an open loop to a closed loop."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

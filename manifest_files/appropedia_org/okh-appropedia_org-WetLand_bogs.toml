@@ -1,8 +1,0 @@
-name = "WetLand_bogs"
-repo = "https://www.appropedia.org/WetLand_bogs"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-image = "https://www.appropedia.org/w/images/9/97/The_bog.jpg"
-function = "bog, installation - The bog"
-documentation-language = "en"
-technology-readiness-level = "OTRL-5"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL022 - Body Fat Calliper\n"
+repo = "https://field-ready-projects.openknowhow.org/hl022"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/75ad50bc7fd13dc1ba156c4ddbf884da/62ea65f0/HL022_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To measure body fat\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

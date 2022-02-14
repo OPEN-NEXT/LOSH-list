@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rancho_Mastatal_showers\n"
+repo = "https://www.appropedia.org/Rancho_Mastatal_showers"
+version = "21"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Justine Cook"
+image = ["https://www.appropedia.org/w/images/thumb/6/62/RMShowers7.JPG/1000px-RMShowers7.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Alternative_building"
+function = "The showers at Rancho Mastatal were made using natural building techniques including lime plaster, tadelakt plaster, clay paint, and mortise and tenon. They were constructed in 2007 by local, volunteer, and student labor. It took about 6 months to complete, and the final cost was approximately USD $5000.   == Components == The table below describes various components of the showers."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

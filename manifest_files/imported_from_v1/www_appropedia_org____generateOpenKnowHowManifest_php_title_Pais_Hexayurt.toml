@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Pais_Hexayurt\n"
+repo = "https://www.appropedia.org/Pais_Hexayurt"
+version = "16"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "LucasG"
+image = ["https://www.appropedia.org/w/images/thumb/6/69/Hexayurt_sa.jpg/1000px-Hexayurt_sa.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Traducido de http://hexayurt.com/hexayurt_country/   = PAÍS HEXAYURT = Podemos financiar viviendas estables para Haití por el mismo dinero que de otra forma se desperdiciaría en tiendas humanitarias desechables.  Aquí se dice cómo.   == POBREZA == Cada año mueren 60 millones de seres humanos.  Eso es para todos nosotros – todas las causas, todas las clases, todas las edades, todas las naciones – la lenta marcha del tiempo que nos lleva más allá del río, todos juntos, y todos solos.  Cerca de un tercio de esas muertes puede prevenirse con los Cinco Grandes."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

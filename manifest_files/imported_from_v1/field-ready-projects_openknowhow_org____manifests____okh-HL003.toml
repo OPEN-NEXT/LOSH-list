@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL003 - IV Bag Hook\n"
+repo = "https://field-ready-projects.openknowhow.org/hl003"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/b359c3ddaabb56cd0b728d64c0b9eae0/259bc9bd/HL003_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "For IV bags to be hung\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Pinhole_Bifocal_Eyeglasses\n"
+repo = "https://www.appropedia.org/Pinhole_Bifocal_Eyeglasses"
+version = "35"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/7/7e/Phg0168.jpg/1000px-Phg0168.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "A simple, ultra low cost, do it yourself type of corrective eyeglasses, made from an aluminum soda can and capable of simultaneously correcting myopia (nearsightedness) and hyperopia (farsightedness) using the pinhole lens principle. See for free. Vision care is an extraordinarily expensive activity. Diagnosis is a lengthy process requiring trained doctors and expensive equipment, while treatment requires custom lenses for each individual made using high precision equipment and materials. The minimum cost is ~50 USD for each eye exam, and ~100 USD for each pair of eyeglasses."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

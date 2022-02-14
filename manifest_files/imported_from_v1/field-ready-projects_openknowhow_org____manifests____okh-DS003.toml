@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DS003 - Wheelchair Sliding Board\n"
+repo = "https://field-ready-projects.openknowhow.org/ds003"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/72b20c5d536823b9c57c6a256641ecf7/213c7b99/DS003_Image_Catalogue.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"To aid in safe and easy transfers between wheelchair, bed or chair \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

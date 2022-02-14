@@ -1,8 +1,0 @@
-name = "CCAT_solar_kiosk"
-repo = "https://www.appropedia.org/CCAT_solar_kiosk"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "user:Ths79", "user:TyMuho",]
-image = "https://www.appropedia.org/w/images/8/8d/UpdatedSolarKiosk.jpg"
-function = "ccat, charging station, kiosk, photovoltaic, solar"
-technology-readiness-level = "OTRL-5"

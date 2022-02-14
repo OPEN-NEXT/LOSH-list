@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Arduino Voltage Amplifier\n"
+repo = "https://github.com/Sussex-Neuroscience/voltage-amplifier"
+version = "0.1"
+license = "LicenseRef-CERN OHL v1.2"
+licensor = "Andre Maia Chagas <a.maia-chagas@sussex.ac.uk>"
+image = ["https://raw.githubusercontent.com/Sussex-Neuroscience/voltage-amplifier/master/featured.jpg"]
+documentationLanguage = "EN-UK"
+timestamp = "1643287968"
+function = "a voltage amplifier based on LM741, run with 9V batteries and shaped as an Arduino Due shield\n\nThis device can generate high voltages which can be dangerous! make sure you take all the necessary safety precautions for safe use.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

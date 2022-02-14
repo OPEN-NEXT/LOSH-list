@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "How_to_make_a_solar_cooker_made_from_cob\n"
+repo = "https://www.appropedia.org/How_to_make_a_solar_cooker_made_from_cob"
+version = "17"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Brian White"
+image = ["https://www.appropedia.org/w/images/0/0d/IMG_0498.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Solar_cooker"
+function = "I am in the process of building a parabolic solar cooker using a base of thin plywood and a final coating of cob to finetune the shape. The project has gone really well so far and is currently drying in my back yard. I made up a special scribe to indicate the height that the cob should be around the concave bowl of the parabola. Please look at how the scribe works to make the parabola! It is wonderful!"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

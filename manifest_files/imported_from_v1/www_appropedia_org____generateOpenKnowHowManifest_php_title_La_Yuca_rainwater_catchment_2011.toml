@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "La_Yuca_rainwater_catchment_2011\n"
+repo = "https://www.appropedia.org/La_Yuca_rainwater_catchment_2011"
+version = "167"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Lauren"
+image = ["https://www.appropedia.org/w/images/thumb/2/27/La_yuca_first_flush_and_debris_collector.jpg/750px-La_yuca_first_flush_and_debris_collector.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The Humboldt State University Dominicana Summer 2011 Program worked with the neighborhood of La Yuca in the Dominican Republic. Within Dominican Republic, tap water is not potable, and thus families must find some way to receive potable water. Within this program, we strove to design and build a solution to this issue along side the members of the community in order to learn together and create a bond with the neighborhood. One of the reasons the Dominican Republic is an optimal place for rainwater catchment is the quantity rainfall received each year within the country. As seen below, every month receives at least a small amount of rain."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

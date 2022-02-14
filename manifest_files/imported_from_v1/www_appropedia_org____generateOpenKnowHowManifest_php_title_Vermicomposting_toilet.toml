@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Vermicomposting_toilet\n"
+repo = "https://www.appropedia.org/Vermicomposting_toilet"
+version = "27"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Curt Beckmann"
+image = ["https://www.appropedia.org/w/images/e/e6/Vermicomposting_Toilet_1.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Composting_toilets,_Vermicompost_system"
+function = "We have been intrigued with a unique style of composting toilet which is in use by some members of the natural building community. It combines two tried and tested principles of organic gardening: vermicomposting and moldering (i.e., low temperature) composting toilets. Although I have never used one, I am told that it works well. In order to further this idea we have researched one installation and are attaching simple plans for construction. The basic idea is to create a friendly habitat for worms and keep them continuously supplied with food."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

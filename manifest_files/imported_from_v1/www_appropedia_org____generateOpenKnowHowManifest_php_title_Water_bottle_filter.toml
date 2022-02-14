@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Water_bottle_filter\n"
+repo = "https://www.appropedia.org/Water_bottle_filter"
+version = "85"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/e/e0/BTJ_cap_bottle.jpg/600px-BTJ_cap_bottle.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Title of the device or system ==  Project developed by Benjamin Joseph Btjoseph (talk) 16:57, 5 December 2018 (PST)   == Abstract == Many developing third-world countries have a steady or increasing need for clean drinking water. Many solutions for achieving clean drinking water already exist, but require expensive manufacturing equipment outside the area where there is a need, and then incur shipping charges to ship them to the target location. 3D printing technologies allow rapid manufacture of humanitarian-aid devices such as water purification tools. This printable design requires some filament (preferable ABS), a tea bag, and activated carbon to create. This allows the user to drink filtered water on-demand from and standard plastic water or pop bottle."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

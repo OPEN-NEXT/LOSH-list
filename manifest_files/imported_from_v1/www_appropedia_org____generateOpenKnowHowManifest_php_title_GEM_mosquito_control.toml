@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GEM_mosquito_control\n"
+repo = "https://www.appropedia.org/GEM_mosquito_control"
+version = "114"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Chris Waterguy"
+image = ["https://www.appropedia.org/w/images/9/99/GEM_Tech_PrepareTrap.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This method of mosquito control involves the use of water containers inside/outside households as well as other buildings, regularly replaced to kill mosquito larvae. It is well known that mosquitoes lay eggs in water where ever it be. It is also equally true that they visit human dwellings as well as cattle/bird sheds for feeding usually from dusk to dawn and they cannot complete their reproductive cycle without animal protein. Exploiting these weaknesses one could achieve mosquito control. For that provide a few micro water bodies around the building using household utensils."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL013 - Wrist Brace (small) \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl013"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/d1698764702c8bc13717ce4f8cd52062/61bd5bf8/HL013_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "For wearing around wrist for injury rehabilitation process in health posts\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

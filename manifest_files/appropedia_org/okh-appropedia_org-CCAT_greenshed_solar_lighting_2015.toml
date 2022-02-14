@@ -1,9 +1,0 @@
-name = "CCAT_greenshed_solar_lighting_2015"
-repo = "https://www.appropedia.org/CCAT_greenshed_solar_lighting_2015"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "Jdr384", "Valerie",]
-image = "https://www.appropedia.org/w/images/7/74/Rooftop.jpg"
-function = "ccat, greenshed, photovoltaic, shed, solar"
-documentation-language = "en"
-technology-readiness-level = "OTRL-5"

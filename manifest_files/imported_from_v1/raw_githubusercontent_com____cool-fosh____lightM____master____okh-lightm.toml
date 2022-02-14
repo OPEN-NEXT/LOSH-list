@@ -1,0 +1,11 @@
+okhv = "OKH-LOSHv1.0"
+name = "LightM\n"
+repo = "https://github.com/vektorious/lightM"
+version = "0.1.0"
+license = "MIT"
+licensor = "Alexander Kutschera <alexander.kutschera@gmail.com>"
+image = ["https://raw.githubusercontent.com/vektorious/lightm/master/img/lightM_logo_v1.png"]
+timestamp = "1643287968"
+function = "Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

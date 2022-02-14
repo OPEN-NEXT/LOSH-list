@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GN017 - Set Square\n"
+repo = "https://field-ready-projects.openknowhow.org/gn017"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/ca8cb0920e1e016b9abbe35db7937001/c3525919/GN017_Image_Catalogue.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Provides a straightedge at a 90 or 45 angles to a baseline\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

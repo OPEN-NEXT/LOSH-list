@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rancho_Mastatal_manure_biodigester\n"
+repo = "https://www.appropedia.org/Rancho_Mastatal_manure_biodigester"
+version = "15"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Justine Cook"
+image = ["https://www.appropedia.org/w/images/thumb/0/06/RMBioDManure.JPG/1000px-RMBioDManure.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Biodigester"
+function = "The manure biodigester at Rancho Mastatal converts animal waste into fertilizer and cooking fuel. It also provides extra waste material to the nearby floating drum biodigester toilets if the biodigester toilet use is not frequent enough to keep the drum functioning.   == Components == The table below describes the various components of the manure biodigester."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Finite_Difference_Heat_Exchanger_Model:_Flow_Maldistribution_with_Thermal_Coupling\n"
+repo = "https://www.appropedia.org/Finite_Difference_Heat_Exchanger_Model:_Flow_Maldistribution_with_Thermal_Coupling"
+version = "11"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/thumb/6/69/Hot-coldhx.PNG/1000px-Hot-coldhx.PNG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Channels not receiving the same amount of flow (flow maldistribution) is an important effectiveness loss for high effectiveness heat exchangers. This paper develops a finite difference model of a counter flow heat exchanger. For modeled scenarios very good agreement with previous studies and analytical calculations was achieved. For independent pairs of hot and cold channels, as flow rate is reduced, the effectiveness asymptotically approaches the irregularity parameter (a measure of channel flow maldistribution). With thermal coupling between pairs of channels (measured by an equivalent Peclet number), effectiveness continues to increase with decreasing flow rate."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

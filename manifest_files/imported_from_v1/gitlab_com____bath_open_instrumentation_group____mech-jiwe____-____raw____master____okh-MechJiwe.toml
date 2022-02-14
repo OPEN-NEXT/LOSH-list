@@ -1,0 +1,20 @@
+okhv = "OKH-LOSHv1.0"
+name = "Mech-Jiwe\n"
+repo = "https://gitlab.com/bath_open_instrumentation_group/mech-jiwe"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN OHL"
+licensor = "Julian Stirling <j.stirling@bath.ac.uk>"
+image = ["https://gitlab.com/bath_open_instrumentation_group/mech-jiwe/-/raw/master/mech-jiwe.jpg"]
+documentationLanguage = "EN-GB"
+timestamp = "1643287968"
+function = "A mechanical tester which uses a welded frame, a number of 3D-printed parts, an Arduino, and a few other simple components. The tester is for low force stress testing.\n\nWe hope to use the tester to test the mechanical properties of 3D printer filament and 3D printed parts.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"
+
+[[software]]
+label = "Python control software"
+release = "https://gitlab.com/bath_open_instrumentation_group/mech-jiwe/-/tree/master/lib"
+
+[[software]]
+label = "Arduino software"
+release = "https://gitlab.com/bath_open_instrumentation_group/mech-jiwe/-/tree/master/src"

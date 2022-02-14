@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Grey_Water_Recycling_System\n"
+repo = "https://www.appropedia.org/Grey_Water_Recycling_System"
+version = "28"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = "Vigyan Ashram"
+image = ["https://www.appropedia.org/w/images/a/af/Grey_Water_System_Model_.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Greywater_system"
+function = "Vigyan Ashram has designed & developed a \"1000 L Modular Grey Water System\" for schools / small houses/ bungalows. Users of the manual will be able to build their own grey water system using this manual. All the Bills of Materials (BOM) and dimensions of the systems are given in the design. We have provided designs files drawn using Solid works along with this manual. Users are suggested to read the manual carefully along and assess the site conditions before fabrication of the unit.\nWater Recycling"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL006 - Otoscope Specula \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl006"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/32f9e358de91fb77795891560e54d997/9e00de12/HL006_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "For examining the external canal and tympanic membrane of the ear\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

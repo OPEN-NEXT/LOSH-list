@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"WA016 - Make-Fit Pipe Fitting \"\n"
+repo = "https://field-ready-projects.openknowhow.org/wa016"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/7710aeb0206fc5522230f0dd6d7c2efc/7747b4cf/wa016_image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Using Make-Fit app a range of 3DP pipe fitting can be produced\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

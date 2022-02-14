@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Composting_greenhouse_provides_hot_water\n"
+repo = "https://www.appropedia.org/Composting_greenhouse_provides_hot_water"
+version = "11"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Curt Beckmann"
+image = ["https://www.appropedia.org/w/images/1/16/Erssons_bales.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Compost_heater"
+function = "Our household of 2 adults and three children obtained all our household hot water from a composting greenhouse we constructed in Portland, Oregon in 1994. It provided hot water at a temperature of 90-130 degrees (Fahrenheit) continuously until it was dismantled 18 months later. We used the space to grow several species of mushrooms and to house plants from our garden during winter.  The greenhouse design was similar to inexpensive \"tube\" greenhouses. Outer dimensions were 16x30 feet."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

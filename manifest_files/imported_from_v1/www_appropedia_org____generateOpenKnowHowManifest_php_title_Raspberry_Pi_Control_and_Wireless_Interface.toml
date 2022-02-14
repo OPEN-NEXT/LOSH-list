@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Raspberry_Pi_Control_and_Wireless_Interface\n"
+repo = "https://www.appropedia.org/Raspberry_Pi_Control_and_Wireless_Interface"
+version = "54"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tobias Mahan"
+image = ["https://www.appropedia.org/w/images/d/d7/TheBigPicture.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The Raspberry Pi is an affordable computing solution, with the Raspberry Pi 3 Model B, power supply, and MicroSD card for OS costing a total of $60. The Pi is able to connect to the Melzi Board through the ethernet port. Since the Pi has wi-fi and blue tooth enabled, there are two available connections for reaching the Pi wirelessly. By enabling VNC Server on the Pi, you can reach and control the Pi from any device running RealVNC Viewer. By enabling a DNS Service such as no-ip at startup, the Pi can be reached outside a local network even if the router the Pi is connected to is working on a Dynamic IP address."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

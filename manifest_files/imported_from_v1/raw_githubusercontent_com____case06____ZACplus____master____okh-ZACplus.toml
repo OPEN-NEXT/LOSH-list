@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "ZACplus\n"
+repo = "https://wiki.opensourceecology.de/Zn/O-Brennstoffzelle"
+version = "0.9"
+license = "LicenseRef-CC-BY-SA 4.0"
+licensor = "Oliver Schlüter <case06@opensourceecology.de>"
+image = ["https://wiki.opensourceecology.de/images/c/c1/ZACplus_Proto1.jpg"]
+documentationLanguage = "DE-Western-Europe"
+timestamp = "1643287968"
+function = "Zink-Luft Brennstoffzelle plus Recycler\n\nSaisonale Langzeit-Eenergiespeicherung\n\nvalue\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

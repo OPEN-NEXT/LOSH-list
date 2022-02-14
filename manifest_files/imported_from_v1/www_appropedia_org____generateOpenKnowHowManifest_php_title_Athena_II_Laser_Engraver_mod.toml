@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Athena II Laser Engraver mod\n"
+repo = "https://www.appropedia.org/Athena_II_Laser_Engraver_mod"
+version = "67"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Shubham Jain"
+image = ["https://www.appropedia.org/w/images/thumb/6/6e/LaserEngraverModForAthenaII.jpeg/750px-LaserEngraverModForAthenaII.jpeg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Engraver"
+function = "This Laser Engraver mod on the Athena II printer will allow you to engrave various designs on cardboard and/or wooden surfaces (acrylic material yet to be tested). You could also use the same setup for cutting sheets accurately enough upto 4mm. There are different steps involved to successfully install the DIY Laser Engraver on the Athena II. Detailed procedure and steps are listed below.   == Printing == Download this stl file [1] for the modified end effector that will be used to mount the laser. Print the end effector   === Print Settings === Material used = PETG Layer Height = 0.2mm no.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA013 - Jerry Can Roller\n"
+repo = "https://field-ready-projects.openknowhow.org/wa013"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/9a65b622187097e2f27733a8a147f14c/b498a863/WA013_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Transports 80 litres of drinking water\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

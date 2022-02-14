@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL040 - Incubator Door Lock (Small)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl040"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/0fc775295e66c2caba302dbddf9c9eae/d56bbe95/HL040_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Used to lock the door\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

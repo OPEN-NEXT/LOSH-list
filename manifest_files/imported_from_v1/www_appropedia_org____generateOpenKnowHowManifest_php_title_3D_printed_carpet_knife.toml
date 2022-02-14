@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "3D printed carpet knife\n"
+repo = "https://www.appropedia.org/3D_printed_carpet_knife"
+version = "73"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Anthony Sharp"
+image = ["https://www.appropedia.org/w/images/thumb/c/c2/Knife.jpeg/1000px-Knife.jpeg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/3D_carpept_knife"
+function = "== Bill of Materials ==\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

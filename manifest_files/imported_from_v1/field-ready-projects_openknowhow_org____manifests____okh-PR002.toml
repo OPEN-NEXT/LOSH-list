@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"PR002 - Whistle \"\n"
+repo = "https://field-ready-projects.openknowhow.org/pr002"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/13b233295ed860a6728ae2f29373651d/7c3d9dc6/PR002_Image_Catalogue.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Personal alarm for protection and creates attention in emergency situations\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

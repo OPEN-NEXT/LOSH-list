@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Locally_manufactured_thermostatic_valve_for_water_pasteurization\n"
+repo = "https://www.appropedia.org/Locally_manufactured_thermostatic_valve_for_water_pasteurization"
+version = "83"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Ryan"
+image = ["https://www.appropedia.org/w/images/e/ee/Wpat.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Solar_water_pasteurizer"
+function = "A thermostatic valve for a solar water pasteurization device. See Adapted thermostatic valve for water pasteurization for final design. For our APSC 100 project we need to design a thermostatic valve for a solar water pasteurization device. This thermostatic valve must be fabricated from materials that would be easily found or purchased by local craftsman.   == Understanding the Market == When considering what materials to use in our designs, the following must be kept in mind:  Is it found locally?\ndevelopment, industry, water, water pasteurization"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

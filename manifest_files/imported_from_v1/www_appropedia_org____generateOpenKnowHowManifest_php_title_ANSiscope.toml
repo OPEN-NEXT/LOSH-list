@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "ANSiscope\n"
+repo = "https://www.appropedia.org/ANSiscope"
+version = "20"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "."
+image = ["https://www.appropedia.org/w/images/6/6f/Ansiscope.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Diabetic autonomic neuropathy (DNS) is a common complication of diabetes that affects between 40 and 60 percent of patients (DyAnsys, n.d.). It is a silent killer, which if left untreated can kill within 5 years. There is very little diagnosis of this disease in the developing world.   == Detailed description of the solution == This device is safe, noninvasive, and uses a portable electrocardiogram (ECG) to measure the activity of the autonomic nervous system (ANS) hence the name ANSiscope.  It detects the percentage of autonomic dysfunction.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

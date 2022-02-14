@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_solar_shower\n"
+repo = "https://www.appropedia.org/CCAT_solar_shower"
+version = "30"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "David Lopez Jr."
+image = ["https://www.appropedia.org/w/images/1/14/Ccat_sshower.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Solar_hot_water_system"
+function = "The idea of a hot shower outside on a cool summer night is very appealing. CCAT developed just the thing for the occasion! Several versions of solar showers are available to build or purchase. Also, several reasons exist as to why one might chose this alternative form of energy for heating water for bathing purposes.  \"Turn your face to the sun and the shadows fall behind you\"."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

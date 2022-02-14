@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Corn_Crusher\n"
+repo = "https://www.appropedia.org/Corn_Crusher"
+version = "63"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/7/76/Corncrusher_finalassembly123.JPG/1000px-Corncrusher_finalassembly123.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "With two small printed parts and two springs, my corn crusher can do what its name implies: crush corn. This device is supposed to replace the mortar & pestle by making it easier and less labor-intensive to grind corn into flour. The contributes to solving OSAT Goal 2: zero hunger   == Bill of Materials == [Openscad files and STL's on Thingiverse] 2 small springs to fit into the circular holes of the housing. Diameter should be no greater than 12 mm. The uncompressed length should not be larger than 35 mm."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

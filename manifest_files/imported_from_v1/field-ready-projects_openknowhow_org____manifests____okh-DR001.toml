@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "DR001 - Rescue Airbag\n"
+repo = "https://field-ready-projects.openknowhow.org/dr001"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/7638abe3cf868982d54efd2664282fca/7f7a956a/DR001_Image_Catalogue.png"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"For first responders to remove large blocks of debris \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

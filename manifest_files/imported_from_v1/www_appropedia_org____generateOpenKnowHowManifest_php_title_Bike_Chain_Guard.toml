@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Bike Chain Guard\n"
+repo = "https://www.appropedia.org/Bike_Chain_Guard"
+version = "71"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Alyssa Knoester"
+image = ["https://www.appropedia.org/w/images/thumb/1/19/Chain_Guard.jpg/1000px-Chain_Guard.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The OSAT piece is a universal chain guard for a bicycle. It improves the safety of a bike for people who may not have access to a new bike or chain guard and is attached simply by string or a zip tie. There hasn't been case studies regarding chain guards however there have been stories and research into the significance of bikes in developing countries. Bikes help alleviate poverty in developing countries.   == Bill of Materials == 1.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

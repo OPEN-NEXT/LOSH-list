@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Underbuttocks_Pouch\n"
+repo = "https://www.appropedia.org/Underbuttocks_Pouch"
+version = "19"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tessa Adzemovic"
+image = ["https://www.appropedia.org/w/images/f/f8/Underbuttocks_Pouch.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Unerbuttocks_pouch"
+function = "== Problem being addressed == Postpartum hemorrhaging is one of the most severe causes of maternal mortality. PPH (Postpartum hemorrhaging) rates in the developed worlds have severely decreased, but they are still a great threat in developing countries. The World Health Organization suggests that there are over 100,000 deaths due to postpartum hemorrhaging every year.   == Detailed description of the solution == This device is classified as one which helps in PPH estimation. This device consists of a single use conical calibrated pouch incorporated into an underbuttocks drape type 3M™ Steri-Drape™ 1084."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

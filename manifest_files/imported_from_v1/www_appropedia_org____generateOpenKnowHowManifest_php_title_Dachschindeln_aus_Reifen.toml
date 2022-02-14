@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Dachschindeln_aus_Reifen\n"
+repo = "https://www.appropedia.org/Dachschindeln_aus_Reifen"
+version = "37"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Courtney Frederick"
+image = ["https://www.appropedia.org/w/images/8/86/Finished.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Tire_shingles"
+function = "Eines Tages, sah ich viele alte Reifen, die wie ein behaltendes Mauer benutzt wurden. Ich dachte an andere gute Verwendungen für alte Reifen. Ich hatte einige Ideen über, was ich machen konnten, aber Dachschindeln aus Reifen war meine Lieblingsidee. Die Formbarkeit den Reifen intrigierte mich. Ich konnte nicht warten, anzufangen."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

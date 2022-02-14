@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Embroidered_Electrical_Resistor_Generation\n"
+repo = "https://www.appropedia.org/Embroidered_Electrical_Resistor_Generation"
+version = "51"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = "Somerset Schrock"
+image = ["https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/1000px-Sunhusky.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "=== Embroidered Electrical Resistor Generation ===   == Background == This is part of a research project to develop flexible wearable electronics. A scholarly article is in the works detailing performance and testing/validation of this novel manufacturing method. I hope to publish my work by Fall 2021.  The objective of this tool is to create flexible resistors with embroidery machines. In current textile wearable devices, most of the components are rigid and must be soldered on.\nWearable electronics"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

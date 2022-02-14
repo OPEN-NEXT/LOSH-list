@@ -1,7 +1,0 @@
-name = "Wireless_Upgrade_for_Typical_Consumer_Power_Meter"
-repo = "https://www.appropedia.org/Wireless_Upgrade_for_Typical_Consumer_Power_Meter"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-image = "https://www.appropedia.org/w/images/7/73/Step11.jpg"
-function = "wireless, consumer power meter"
-documentation-language = "en"

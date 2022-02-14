@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Cell_Phone_Malaria_Detector\n"
+repo = "https://www.appropedia.org/Cell_Phone_Malaria_Detector"
+version = "20"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/d/d4/Malariaphone.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Malaria_detector"
+function = "== Problem being addressed == Diagnosing malaria through blood detection can often times be difficult because not many cells in the blood will contain malaria.   == Detailed description of the solution == Different cells respond to surface acoustic waves in different ways. Response to different frequencies is dependent upon elasticity and shape of the cells. Malaria changes the elasticity and shape of red blood cells. Surface acoustic waves are used to sort out the cells infected by malaria from those that aren't."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

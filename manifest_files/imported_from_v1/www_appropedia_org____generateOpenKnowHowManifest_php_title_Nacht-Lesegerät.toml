@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Nacht-Lesegerät\n"
+repo = "https://www.appropedia.org/Nacht-Leseger%C3%A4t"
+version = "28"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Eleanor ter Horst"
+image = ["https://www.appropedia.org/w/images/0/0a/D044_InUse2d250.gif"]
+documentationLanguage = "de"
+timestamp = "1643287968"
+function = "Warum sollte die Bildung für die Milliarden von verarmten Schülern und Studenten weltweit verbessert werden? Weil der Fortschritt für diese verärmten Studenten von ihrer Bildung abhängig ist. Die Bildung muss verbessert werden, damit sie Erfolg haben. Die Armut ist ein Nachteil, der auf Schüler und Studenten verschieden wirkt, abhängig von ihrer Situation.  Die Armut reduziert die Gelegenheiten für junge Leute, zu Hause zu studieren."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

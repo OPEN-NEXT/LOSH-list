@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_greywater_marsh_(2008)\n"
+repo = "https://www.appropedia.org/CCAT_greywater_marsh_(2008)"
+version = "69"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/3/38/P5090044.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Grey_water_system"
+function = "This page is for historical purposes. Please see CCAT greywater marsh (current) for up to date information on CCAT's greywater marsh.   == Introduction ==   === Greywater Basics === Greywater is treatable household wastewater, usually from bathroom sinks, showers, bathtubs, and washing machines. Wastewater from toilets or water used to wash cloth diapers should be considered blackwater, and must be handled and treated with care and separate from greywater treatment and reuse. Kitchen sinks are also a point of contention, due to the high concentration of organic matter, or food waste."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

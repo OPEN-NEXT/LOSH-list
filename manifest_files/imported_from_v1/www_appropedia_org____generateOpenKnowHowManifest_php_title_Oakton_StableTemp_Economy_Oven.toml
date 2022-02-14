@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Oakton_StableTemp_Economy_Oven\n"
+repo = "https://www.appropedia.org/Oakton_StableTemp_Economy_Oven"
+version = "14"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Nupur Bihari"
+image = ["https://www.appropedia.org/w/images/thumb/c/c2/Sunhusky.png/1000px-Sunhusky.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Warning == This piece of equipment is not meant for flammable, volatile or combustible materials. Maximum humidity for operation is 80% (at 25°C) When annealing polymers always put a metal drip pan underneath your sample.   == Setting temperature == The temperature dial ranges from 1 to 10; corresponding to temperatures 40°C to 200°C. The uncertainty here may be as high as ±10°C. Insert a type K thermocouple through the hole on top of the unit for an accurate reading."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

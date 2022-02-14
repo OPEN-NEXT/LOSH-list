@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"SS001 - Shipping Container Model \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ss001"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/fcf8ca26e0f9f6f507f31239051c710b/ea09632b/SS001_Image.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"1:150 scale model of 20ft container for assessing the design or layout of a facility \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

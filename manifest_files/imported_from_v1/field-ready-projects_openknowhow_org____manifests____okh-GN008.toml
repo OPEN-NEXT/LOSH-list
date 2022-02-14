@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GN008 - Pliers\n"
+repo = "https://field-ready-projects.openknowhow.org/gn008"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/603370ee4e48b74496b53c4c2c7fef95/a09cdbed/GN008_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "3D printed hand tool used to hold objects firmly\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

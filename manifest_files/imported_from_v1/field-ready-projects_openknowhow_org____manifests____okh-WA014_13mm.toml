@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA014_13mm -  BSP Thread 13mm\n"
+repo = "https://field-ready-projects.openknowhow.org/wa014_13mm"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/86feae9a93f4e104dbcbfbaf5bfcc767/10a4d8fd/WA014_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "DIN ISO 228 (DIN 259) BSP Standard Pipe Thread 13mm\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

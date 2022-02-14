@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "GN020 - Fastener Set\n"
+repo = "https://field-ready-projects.openknowhow.org/gn020"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/03d88d8d0925b5819c6ba9897e185ddd/d1bef424/GN020_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"Generate your own nuts, bolts, washers and threaded rod \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"HL023 - Switch handle for Medical Device \"\n"
+repo = "https://field-ready-projects.openknowhow.org/hl023"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/7a894c82801ede03d39a184dfe571813/11385532/HL023_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Replacement plastic switch for medical device\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

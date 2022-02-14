@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "TATA_Swach\n"
+repo = "https://www.appropedia.org/TATA_Swach"
+version = "21"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/c/c5/Tataswach.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Contaminated water sources are often the cause for diarrheal diseases. Inhabitants in low-resource settings often lack ready access to clean water and are most susceptible to diseases caused by contaminated water.   == Detailed description of the solution == The TATA Swach is a standalone unit that purifies water.  The water is poured at the top of the unit and flows through a paddy husk ash filter.  The filter using ash as a matrix kills approximately 80% of the bacteria causing diseases."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

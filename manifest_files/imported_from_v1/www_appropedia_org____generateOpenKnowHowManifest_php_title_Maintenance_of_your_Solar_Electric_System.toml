@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Maintenance_of_your_Solar_Electric_System\n"
+repo = "https://www.appropedia.org/Maintenance_of_your_Solar_Electric_System"
+version = "13"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "phil"
+image = ["https://www.appropedia.org/w/images/8/8c/Crack.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Your photovoltaic system produces electricity from the sun. The battery stores some energy, but if there is no sun, there will be less electricity available. Verify the state of charge each day.\nmaintenance"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

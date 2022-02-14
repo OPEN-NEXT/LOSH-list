@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "NYC-MTA-Next-Train\n"
+repo = "https://michaelweinberg.org/post/171963532565/pi-powered-mta-subway-alerts"
+version = "1.0"
+license = "LicenseRef-CERN-OHL-P"
+licensor = "Michael Weinberg <hello@michaelweinberg.org>"
+image = ["https://michaelweinberg.org/images/2018-03-17-pi-powered-mta-subway-alerts.html2.jpg"]
+documentationLanguage = "EN"
+timestamp = "1643287968"
+function = "A raspberry pi-powered display for tracking NYC subway trains\n\nDeciding when to leave the house to catch a train\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

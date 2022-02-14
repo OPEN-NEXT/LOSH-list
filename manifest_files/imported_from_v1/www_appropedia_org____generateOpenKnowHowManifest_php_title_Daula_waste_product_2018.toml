@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Daula_waste_product_2018\n"
+repo = "https://www.appropedia.org/Daula_waste_product_2018"
+version = "112"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Lonny Grafman"
+image = ["https://www.appropedia.org/w/images/thumb/8/82/TeamReproduct.jpg/1000px-TeamReproduct.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This project worked on social entrepreneurship opportunities in New Delhi through the development and commercialization of products made of recycled waste materials.   == Abstract == Rural Youth Volunteers in India is a paired/ twinning program between Lady Irwin College (LIC), University of Delhi and Humboldt State University (HSU), California, which works in collaboration with different local organizations. This program is been conducted in two villages in 2018. This page explores one of two subgroups, product team.  We aimed to create sustainable social entrepreneurship opportunities, spread awareness about environmental issues and solutions, and encourage a sustainable community in terms of solid waste management."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

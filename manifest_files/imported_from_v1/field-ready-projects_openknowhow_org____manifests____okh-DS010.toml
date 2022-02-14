@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"DS010 - Wheelchair Cushion \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ds010"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/24658332015297101a3da303db2359e3/0de6e8d9/DS010_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Provided additional storge and comfort\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

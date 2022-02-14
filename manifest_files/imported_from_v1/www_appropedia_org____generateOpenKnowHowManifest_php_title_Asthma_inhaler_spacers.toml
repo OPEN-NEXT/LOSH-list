@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Asthma inhaler spacers\n"
+repo = "https://www.appropedia.org/Asthma_inhaler_spacers"
+version = "46"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Steve McCrosky"
+image = ["https://www.appropedia.org/w/images/0/0d/Asthma.spacer.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Asthma_inhaler"
+function = "Asthma is one of the fastest growing urban health problems throughout the world. It affects children in low income areas more than others and can contribute to early mortality and delayed development. Inhaled medications are the mainstay of asthma therapy. Plastic tubes, called “spacers” are used to make delivery of the medication more efficient by allowing more of the medication to go where it is needed. This also makes the inhaler to be more cost effective.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

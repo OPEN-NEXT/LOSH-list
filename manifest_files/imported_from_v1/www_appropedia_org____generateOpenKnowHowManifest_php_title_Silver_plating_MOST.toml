@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Silver_plating:MOST\n"
+repo = "https://www.appropedia.org/Silver_plating:MOST"
+version = "18"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/thumb/5/54/SliverPlating_Glass_2.jpg/1000px-SliverPlating_Glass_2.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Sliver plating standard operation procedure Silver metal plating has long been used for conductive coating, decoration and anti-corrosive coating and thus widely used in electronics, optics and furniture industry. Electro-deposition of silver is often involved of using high toxic cyanide solutions hence highly dangerous. Electroless deposition avoid of using such toxic solutions and is clean and energy saving. This is an improved method for electroless-deposition of silver.   == Solution preparation ==   === Ag Solution === 5.0g silver nitrade diluted in 50.0ml DI water 2.5g NaOH diluted in 50.0ml DI water, let it cool to room temperature Carefully drop 25%-28% ammonia hydroxide solution to silver nitrade solution until all the precipitants just disappear to give a transparent solution, stir 1 min."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

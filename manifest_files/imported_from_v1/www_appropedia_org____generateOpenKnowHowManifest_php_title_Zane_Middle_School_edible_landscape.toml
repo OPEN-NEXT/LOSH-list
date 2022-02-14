@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Zane_Middle_School_edible_landscape\n"
+repo = "https://www.appropedia.org/Zane_Middle_School_edible_landscape"
+version = "378"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tanya Garcia"
+image = ["https://www.appropedia.org/w/images/thumb/0/07/Applying_Mulch.JPG/1000px-Applying_Mulch.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The purpose of the project is to create an edible landscaping that will help incorporate the STEAM (Science, Technology, Engineering, Art, and Math) program that Zane Middle School focuses their curriculum around. The edible landscaping will be an example of the engineering process necessary to create an edible landscape as well as a space for educating students about plants and their care.   == Background == Team Seedling is composed of four Humboldt State University students: Tanya Garcia, Jax Gill, Jared Goebel and Danielle Holter. They are currently enrolled in the spring semester of 2014 Engr215 Introduction to Design taught by Lonny Grafman. The group is collaborating with Zane Middle School to create an edible landscape on campus that will be utilized by students and community members through out the year."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

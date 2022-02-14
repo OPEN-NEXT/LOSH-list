@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Microlife_3BTO-A\n"
+repo = "https://www.appropedia.org/Microlife_3BTO-A"
+version = "23"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Tessa Adzemovic"
+image = ["https://www.appropedia.org/w/images/b/bf/Pro_bp3bto-ap_f.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Many women in underdeveloped countries suffer from preeclampsia. Preeclampsia is a condition that typically starts after the 20th week of pregnancy and is related to increased blood pressure and protein in the mother's urine (as a result of kidney problems). Preeclampsia affects the placenta, and it can affect the mother's kidney, liver, and brain. When preeclampsia causes seizures, the condition is known as eclampsia--the second leading cause of maternal death in the U.S. Preeclampsia is also a leading cause of fetal complications, which include low birth weight, premature birth, and stillbirth.   == Detailed description of the solution == It is a blood pressure monitor."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

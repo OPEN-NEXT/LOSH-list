@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Changeable_Garden_Tool_Heads\n"
+repo = "https://www.appropedia.org/Changeable_Garden_Tool_Heads"
+version = "78"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Sierra Lunsford"
+image = ["https://www.appropedia.org/w/images/thumb/b/b4/GardenToolParts.jpg/1000px-GardenToolParts.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Garden Tool With Variable Heads. In third world countries it is necessary for people to cultivate their own food. Tools of good quality could be hard to come by, and/or expensive in terms of the developing country's currency to purchase. This set reduces the cost of such tools not only by using cheap material, but also because it is only necessary to have one handle as the different heads can be interchanged. Only a few head designs are posted on this page, but virtually any tool head could be designed to fit this model set."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

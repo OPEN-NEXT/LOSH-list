@@ -1,9 +1,0 @@
-name = "CCAT_Bubble_Box"
-repo = "https://www.appropedia.org/CCAT_Bubble_Box"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "user:Cts21", "Team Jumanji",]
-image = "https://www.appropedia.org/w/images/1/18/Wlid.JPG"
-function = "ccat, game, kids"
-documentation-language = "en"
-technology-readiness-level = "OTRL-5"

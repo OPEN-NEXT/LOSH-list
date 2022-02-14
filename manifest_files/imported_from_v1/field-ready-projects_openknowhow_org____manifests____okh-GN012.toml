@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "'GN012 - ¼\" BSP Male Airline Connector '\n"
+repo = "https://field-ready-projects.openknowhow.org/gn012"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/313bf37b7aaf0c5e8758371e25890959/f3ff5133/GN012_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Connects a ¼\" BSP female thread to a female quick release\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

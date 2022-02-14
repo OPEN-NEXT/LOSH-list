@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "WA003 - Pipe Grip\n"
+repo = "https://field-ready-projects.openknowhow.org/wa003"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/0f5d7f70dc1f4b760f088f4e073772b2/37259756/WA003_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"Tightens interlocking threaded collars onto a a water input hose for a compressor \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Open_source_hoe\n"
+repo = "https://www.appropedia.org/Open_source_hoe"
+version = "63"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Anthony Chartrand"
+image = ["https://www.appropedia.org/w/images/thumb/d/dc/OShoe.jpg/1000px-OShoe.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "One of the most important farm tools is the hoe. It has the ability to cultivate and aerate soil. This tool can also dig out weeds in farms. Up until now options of very low cost hoes was very limited. This hoe is very customizable, especially with the handle, which means it has the ability to fit any need you could possibly have."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

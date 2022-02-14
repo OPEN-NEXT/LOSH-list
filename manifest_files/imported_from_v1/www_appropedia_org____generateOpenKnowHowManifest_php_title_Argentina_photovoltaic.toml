@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Argentina photovoltaic\n"
+repo = "https://www.appropedia.org/Argentina_photovoltaic"
+version = "169"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". jessica lotak"
+image = ["https://www.appropedia.org/w/images/thumb/2/2c/IMG_6520.JPG/1000px-IMG_6520.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Photovoltaics"
+function = "This photovoltaic project was designed to provide electricity to light a home at a natural building institute in Central Argentina. There will be six lightbulbs used, four inside the home and 2 outside of the home. This home will be constructed by Kleiwerks and the lighting will provide an example for the community to see how photovoltaic systems work, focusing on how energy is drawn from sunlight and converted into electricity to power their homes. This will be the first of many photovoltaic systems in this community. This system is to operate loads at night or during cloudy weather.\n\nProvide electricity"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

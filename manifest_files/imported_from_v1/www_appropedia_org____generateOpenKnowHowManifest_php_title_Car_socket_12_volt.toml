@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Car socket 12 volt\n"
+repo = "https://www.appropedia.org/Car_socket_12_volt"
+version = "40"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". stef breukel"
+image = ["https://www.appropedia.org/w/images/e/eb/Car_Cigar_Lighter_Socket_female_.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Many different types of vehicles, including boats, cars, vans, and campers have a world-standard power socket on the dashboard. It is possible to connect a specially designed cigarette lighter to a car socket. WARNING: Do not use this type of cigarette lighter for car socket extension cords, because most cords cannot handle the heat.   == Other names for the car socket == Other names for car sockets include car adapter, cigarette lighter socket, cigar lighter receptacle, DC power connector, DC outlet, and car outlet.   == What to connect == What can you connect to this socket?\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

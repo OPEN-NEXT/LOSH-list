@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL028 - Nebuliser fitting (barb)\n"
+repo = "https://field-ready-projects.openknowhow.org/hl028"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/2560eefc6f9abcc6015ea6cee50b2239/19f38521/HL028_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Allows other gases to be mixed into a nebuliser supply\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

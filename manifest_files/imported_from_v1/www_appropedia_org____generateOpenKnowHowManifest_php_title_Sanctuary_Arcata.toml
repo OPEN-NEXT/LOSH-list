@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Sanctuary_Arcata\n"
+repo = "https://www.appropedia.org/Sanctuary_Arcata"
+version = "11"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Lonny Grafman"
+image = ["https://www.appropedia.org/w/images/c/c0/The_arcata_sanctuary_anniversary_photo.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The Sanctuary Arcata is project of Creative Sanctuary, a 501(c)3 non-profit in Arcata, CA. It is community space of art, music, food, and making. They hold workshops, events, performances, and more. The Arcata Sanctuary is located at 1301 J Street Arcata, CA 95521 • 707-822-0898 The mission of Creative Sanctuary is to \"inspire creative growth through the arts. We encourage people to teach, inspire and know each other\"."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

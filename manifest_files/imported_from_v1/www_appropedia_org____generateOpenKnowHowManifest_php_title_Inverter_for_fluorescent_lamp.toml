@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Inverter_for_fluorescent_lamp\n"
+repo = "https://www.appropedia.org/Inverter_for_fluorescent_lamp"
+version = "27"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "stef breukel"
+image = ["https://www.appropedia.org/w/images/4/4f/CCFL_inverter_schema.PNG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The CCFL (Cold Cathode Fluorescent Lamp) inverter works in general the same as other converter systems in a much smaler scale."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

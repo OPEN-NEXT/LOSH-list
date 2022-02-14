@@ -1,8 +1,0 @@
-name = "Parabolic_basket_and_tin_can_solar_cooker"
-repo = "https://www.appropedia.org/Parabolic_basket_and_tin_can_solar_cooker"
-license = "CC-BY-SA 4.0"
-okhv = "2.0"
-licensor = [ "Ana", "Ginger", "Bart2",]
-image = "https://www.appropedia.org/w/images/f/f5/Finished_basket_solarcooker.jpg"
-function = "oven, recycle, solar, solar cooker, waste, solar water pasteurization"
-technology-readiness-level = "OTRL-5"

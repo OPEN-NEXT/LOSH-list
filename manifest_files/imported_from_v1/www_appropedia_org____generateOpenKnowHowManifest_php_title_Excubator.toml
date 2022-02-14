@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Excubator\n"
+repo = "https://www.appropedia.org/Excubator"
+version = "17"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "LucasG"
+image = ["https://www.appropedia.org/w/images/b/b7/Excubator-sketch.png"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Personal_protective_equipment"
+function = "First of all, please make sure you've read the Ebola page. This is a tiny part of a bigger process: we look at needs, think of ideas, prototype them, document them, show them to external validators, refine them ... and finally we tell it like it is: you tie your own shoes with your own hands. Don't make anyone else responsible. You've been warned."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

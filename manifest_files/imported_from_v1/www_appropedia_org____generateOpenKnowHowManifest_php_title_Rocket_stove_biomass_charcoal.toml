@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rocket_stove_biomass_charcoal\n"
+repo = "https://www.appropedia.org/Rocket_stove_biomass_charcoal"
+version = "171"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Mitch Girard"
+image = ["https://www.appropedia.org/w/images/c/cf/Drumbottom_4529.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Rocket_stove"
+function = "Wood, charcoal , coal and other biomass are used by about 2.4 billion people worldwide as their primary cooking fuel. In 'developing' countries, these fuels are often burned in open fires or poorly functioning stoves. Several factors from these cooking processes have been shown to be damaging to human health, especially attributing to respiratory related illness. Indoor smoke given off by these fuels contains constituents including small soot or dust particles that are able to penetrate deep into the lungs. Every year, indoor air pollution is responsible for the death of 1.6 million people - that's one death every 20 seconds.\nproducing charcoal"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

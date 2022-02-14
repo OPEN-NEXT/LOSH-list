@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Kelly's_Pad\n"
+repo = "https://www.appropedia.org/Kelly's_Pad"
+version = "23"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/1/19/Kelly.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Problem being addressed == Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in resource-poor settings. Diagnosing PPH requires the ability to measure blood loss of 500 mL or more. The problem is that it is often difficult to take accurate measurements, especially when this process is conducted visually.   == Detailed description of the solution == The patient sits on this device, which will indicate if the patient is experiencing postpartum hemorrhage. The pad funnels the blood into a collection container which has a marked line at 500 mL of blood, indicating postpartum hemorrhage."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT greenhouse\n"
+repo = "https://www.appropedia.org/CCAT_greenhouse"
+version = "40"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Matthew Collins"
+image = ["https://www.appropedia.org/w/images/thumb/2/29/CCAT_greenhouse.jpg/750px-CCAT_greenhouse.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Greenhouses"
+function = "The CCAT greenhouse is a prefabricated model from Sturdi-Built which is a greenhouse manufacturer based in Portland, Oregon. The CCAT greenhouse is a lean-to Garden Sun Room model frame and glazing. It is supported by a freestanding beach grass and clay slip wall. The frame of the greenhouse is made from Clear All Heart grade redwood that is resistant to decay. The glazing in the greenhouse is of various types.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

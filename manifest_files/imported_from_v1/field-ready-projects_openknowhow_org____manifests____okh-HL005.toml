@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL005 - Finger Brace\n"
+repo = "https://field-ready-projects.openknowhow.org/hl005"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/c2365f36c3b994123e26333afd771fda/0d27281b/HL005_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "In order to keep a injured index finger immobile\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

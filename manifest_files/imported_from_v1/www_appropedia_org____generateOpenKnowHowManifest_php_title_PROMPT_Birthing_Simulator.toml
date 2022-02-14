@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "PROMPT_Birthing_Simulator\n"
+repo = "https://www.appropedia.org/PROMPT_Birthing_Simulator"
+version = "28"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/3/39/PROMPT.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Birthing_simulator"
+function = "== Problem being addressed == Obstructed labor is a leading cause of maternal and infant mortality and morbidity throughout the world. The most common causes of obstructed labor are cephalopelvic disproportion (64.9%) and malpresentations (26.2%). Those who are shorter than 150 cm or younger than 18 are twice as likely to experience obstructed labor. Having staff trained in techniques to deal with various types of obstructed labor is critical to improving mortality and morbidity rates. Fetal shoulder dystocia is a common form of obstructed labor."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

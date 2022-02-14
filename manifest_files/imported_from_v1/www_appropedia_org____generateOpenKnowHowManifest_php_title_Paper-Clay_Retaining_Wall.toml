@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Paper-Clay_Retaining_Wall\n"
+repo = "https://www.appropedia.org/Paper-Clay_Retaining_Wall"
+version = "28"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "JennieRose Saunders"
+image = ["https://www.appropedia.org/w/images/thumb/3/33/CCAT_Wall_2.JPG/1000px-CCAT_Wall_2.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Using local materials such as clay, recycled paper, river sand and straw a series of test brick were made by the Green Building class at CCAT in the spring of 2013. There were multiple different percent combinations of these various materials used. Given that the final bricks where to construct a wall that would retain soil durability was the #1 desired trait in deciding the final brick composition. After they were given a week to dry is was established that too much sand and/or straw made the bricks crumble and that in the most climate of the Pacific north west,water used for mixing was going to want to be kept to a minimum in order for the brick to dry in a reasonable amount of time. It was decided that the best combination to construct the bricks was 40% paper 30% clay and 30% sand."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

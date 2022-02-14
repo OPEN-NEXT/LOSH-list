@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "PathoScreen\n"
+repo = "https://www.appropedia.org/PathoScreen"
+version = "21"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/e/e4/Pathoscreen.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Water_teter"
+function = "== Problem being addressed == Coliforms in water have been found to be associated with hydrogen sulphide (H2S)-producing organisms, or bacteria. Water tests in developing countries need to be low-cost and involve minimal equipment.   == Detailed description of the solution == The H2S test is used to test drinking water for fecal contamination. The test uses common laboratory chemicals and is performed by adding a specified amount of \"boiled\" water in addition to a common liquid detergent to an H2S paper strip. After drying in a low-heat oven, the test water is collected and stored in a dark room for three days."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

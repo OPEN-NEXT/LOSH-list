@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"SS005 - Flooring Bricks \"\n"
+repo = "https://field-ready-projects.openknowhow.org/ss005"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/2a544a384d47d3fd7c8ad536cf7d084e/7f119816/SS005.PNG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"Melted waste plastic & aggregate as cement replacement  \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

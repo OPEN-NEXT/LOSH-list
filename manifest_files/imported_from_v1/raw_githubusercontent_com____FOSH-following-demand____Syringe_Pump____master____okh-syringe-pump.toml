@@ -1,0 +1,11 @@
+okhv = "OKH-LOSHv1.0"
+name = "Syringe Pump\n"
+repo = "https://github.com/FOSH-following-demand/Syringe_Pump"
+version = "UNVERSIONED"
+license = "LicenseRef-GNU GPL v3.0"
+licensor = "ANONYMOUS"
+image = ["https://raw.githubusercontent.com/FOSH-following-demand/Syringe_Pump/master/Photos/IMG_6256.JPG"]
+timestamp = "1643287968"
+function = "We created a large volume open source DIY syringe pump from commonly available and 3D printed parts that allows for high accuracy and repeatability. We also want to make this project as simple as possible so that no specialized skills are required.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

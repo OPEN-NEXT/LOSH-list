@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Photovoltaic_vaccine_refrigeration_at_Centro_De_Salud\n"
+repo = "https://www.appropedia.org/Photovoltaic_vaccine_refrigeration_at_Centro_De_Salud"
+version = "102"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Daniel"
+image = ["https://www.appropedia.org/w/images/e/e1/EmptyFridge.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Photovoltaic_system"
+function = "This photovoltaic system was designed to power a DC Vaccine Refrigerator at the hospital Centro De Salud in Parras, Mexico. Centro De Salud had a list of items that needed to be purchased at their hospital. Among these was a new vaccine refrigerator. After learning of this, the project group members set out to design a PV system for the hospital that could fulfill this need. PV systems are well suited for vaccine refrigeration for a few reasons.\nrefrigeration"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

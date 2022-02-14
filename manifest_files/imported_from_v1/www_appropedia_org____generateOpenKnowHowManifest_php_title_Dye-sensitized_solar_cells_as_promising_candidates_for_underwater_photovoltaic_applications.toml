@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Dye-sensitized solar cells as promising candidates for underwater photovoltaic applications\n"
+repo = "https://www.appropedia.org/Dye-sensitized_solar_cells_as_promising_candidates_for_underwater_photovoltaic_applications"
+version = "5"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/9/9b/Underwaterpv.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "Harvesting solar energy using photovoltaic (PV) cells is the simplest, efficient, and reliable approach to power marine electronics. Installing PV above or under water provides cooling and cleaning to sustain the power conversion efficiency. Previous work on commercially available silicon-based PV quantified the performance of PV with different submerged environments and showed promising results in harvesting available underwater solar energy. Subsequent, theoretical studies point to enormous potential of using wide-band-gap PV in underwater conditions. With this motivation, herein for the first time, a dye-sensitized solar cells (DSSCs) employing wide-bandgap ruthenium sensitizers (1.8 eV) have been tested under submerged conditions.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

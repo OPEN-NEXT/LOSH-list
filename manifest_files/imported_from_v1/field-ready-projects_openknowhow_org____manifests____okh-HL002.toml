@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL002 - Oxygen Supply Fitting\n"
+repo = "https://field-ready-projects.openknowhow.org/hl002"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/37514c9194ec4fa2f77d62505ec36cee/21cbd0b3/HL002_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Adapter that connects oxygen supply tubing to standard oxygen systems\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

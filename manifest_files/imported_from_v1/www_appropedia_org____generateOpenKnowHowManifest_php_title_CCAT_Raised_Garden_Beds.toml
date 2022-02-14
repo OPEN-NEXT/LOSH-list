@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "CCAT_Raised_Garden_Beds\n"
+repo = "https://www.appropedia.org/CCAT_Raised_Garden_Beds"
+version = "120"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Chelsea Gazillo"
+image = ["https://www.appropedia.org/w/images/f/fe/They_are_done%21.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Sustainable_garden"
+function = "The (Campus Center for Appropriate Technology) CCAT recently changed houses, moving from the Jenkins House (which was temporary housing given to CCAT by Humboldt State University)to the Buck House. CCAT was forced to destroy the Jenkins house, thus leaving CCAT with a huge empty plot of land. CCAT has allocated this land for appropriate technologies to be constructed. Unfortunately, since the foundation of the Buck house was destroyed, the soil is not suitable for garden use, due to the high percentage of toxic chemical residue left over by the Buck house. This meant that to turn the space into a garden would be impossible, unless they found a sustainable way to build garden beds."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

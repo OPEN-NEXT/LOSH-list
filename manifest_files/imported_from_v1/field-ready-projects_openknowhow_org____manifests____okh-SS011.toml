@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "SS011 - Privacy Screen\n"
+repo = "https://field-ready-projects.openknowhow.org/ss011"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/068d0edb6a749d9436b930a53faba592/32211af4/SS011_Image.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "To divde an open area creating privacy and personal space\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

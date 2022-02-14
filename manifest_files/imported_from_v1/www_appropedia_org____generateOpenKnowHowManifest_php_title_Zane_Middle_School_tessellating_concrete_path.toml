@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Zane_Middle_School_tessellating_concrete_path\n"
+repo = "https://www.appropedia.org/Zane_Middle_School_tessellating_concrete_path"
+version = "72"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Katelyn Brady"
+image = ["https://www.appropedia.org/w/images/thumb/f/f8/CheckeredTriangularPath.jpg/1000px-CheckeredTriangularPath.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "== Abstract ==  The goal of this project is to design and create designated concrete stepping stone pathways to replace a preexisting rectangle shaped area filled with mulch in front of the school for the students at Zane Middle School in Eureka, California. Pathways will incorporate school spirit and educational value by having falconhead imprints on each concrete square that makes up the path. The falconhead imprints are interlocking in an MC Escher style. The stepping stones incorporated are grey and red ones which will be placed in an alternating fashion. Most will be made, but the red and a few grey will be bought in order to speed the process."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

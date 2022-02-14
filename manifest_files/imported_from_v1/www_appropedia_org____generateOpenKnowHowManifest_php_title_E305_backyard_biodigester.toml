@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "E305_backyard_biodigester\n"
+repo = "https://www.appropedia.org/E305_backyard_biodigester"
+version = "145"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/thumb/9/9b/DoggieDooDigester.JPG/669px-DoggieDooDigester.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The objective of our project is to take organic waste including dog, cow, and horse excrement, as well as kitchen waste and recycle it. Methane is a harmful greenhouse gas that can potentially be harnessed as a clean-burning renewable fuel. Convert organic household waste and feces into methane. This project was started with cow manure and biodigested sludge from our local municipality's anaerobic digester to create a small-scale anaerobic digester for the backyard. The process by which organic materials breakdown creates a flammable gas."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "RCEA_Climate_Crusaders\n"
+repo = "https://www.appropedia.org/RCEA_Climate_Crusaders"
+version = "49"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Daniel Breazeale"
+image = ["https://www.appropedia.org/w/images/a/a4/Box%27s.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This webpage is about the Redwood Coast Energy Authority (RCEA) Educational Box project. The purpose of this project was to create an educational box with teaching material for high school teachers in Humboldt County. The teaching material provided is about the cause and effects of climate change.   == Background == As stated by the EPA, climate change refers to any significant change in measures of climate such as temperature, precipitation, or wind lasting for an extended period, decades or longer. The Climate Connection incorporates a set of teaching materials."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

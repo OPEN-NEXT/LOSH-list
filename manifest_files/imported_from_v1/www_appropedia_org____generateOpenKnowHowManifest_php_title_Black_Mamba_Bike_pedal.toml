@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Black Mamba Bike pedal\n"
+repo = "https://www.appropedia.org/Black_Mamba_Bike_pedal"
+version = "73"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = ". Rachael McFarland"
+image = ["https://www.appropedia.org/w/images/thumb/0/0e/IMG_1480.JPG/1000px-IMG_1480.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "The Black Mamba bicycle is commonly found in Africa.  The overall goal of this project is to make open source models of as many bicycle parts as possible. This will hopefully allow someone to set up and print many of the parts of the bike at a lower cost then it would typically be. This page is the design of the black mamba bicycle pedal. The following picture shows the completed pedal.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

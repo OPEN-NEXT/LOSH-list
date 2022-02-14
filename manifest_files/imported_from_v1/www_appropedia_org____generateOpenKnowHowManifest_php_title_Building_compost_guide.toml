@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Building compost guide\n"
+repo = "https://www.appropedia.org/Building_compost_guide"
+version = "32"
+license = "LicenseRef-CC-BY-SA-4.0"
+licensor = ". C Foster"
+image = ["https://www.appropedia.org/w/images/0/04/Compost.gif"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Compost_pile"
+function = "There are many ways to build a good compost. This page shows a method that comes from a rural, developing world perspective, although it could easily be used or adapted elsewhere. The aim is to build a quick decomposing hot compost that is made from locally available materials, which can easily be gathered and built in a rural setting. The work in building a large compost is often shared amongst a number of people, with the final compost being used by each one when appropriate   == Ways of building compost == The method of building compost can be different depending on the amount of compost required, materials available, type of compost and particularly the climate of the region.   === Pit Compost === Pit compost is ideal for areas with medium to low rainfall.\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

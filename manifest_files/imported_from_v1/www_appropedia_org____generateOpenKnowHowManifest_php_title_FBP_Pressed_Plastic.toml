@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "FBP_Pressed_Plastic\n"
+repo = "https://www.appropedia.org/FBP_Pressed_Plastic"
+version = "77"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Solomon Homicz"
+image = ["https://www.appropedia.org/w/images/5/5d/FBP_pressed_plastic.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Pressed_plastic"
+function = "The Full Belly Project is a nonprofit organization based in Wilmington, North Carolina. Founded by Jock Brandis in November of 2003, The Full Belly Project designs and distributes income-generating agricultural devices to improve life in developing countries. These devices are simple and inexpensive in their design, and are intended to be build on location for the people using them. In August of 2004, Brandis traveled to Haiti to work with Peace Corps. volunteers."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

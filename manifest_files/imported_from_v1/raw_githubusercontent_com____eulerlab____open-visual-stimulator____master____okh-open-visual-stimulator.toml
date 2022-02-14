@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Open Visual Stimulator\n"
+repo = "https://github.com/eulerlab/open-visual-stimulator"
+version = "1.0"
+license = "LicenseRef-CERN OHL v1.2"
+licensor = "Andre Maia Chagas <a.maia-chagas@sussex.ac.uk>"
+image = ["https://raw.githubusercontent.com/eulerlab/open-visual-stimulator/master/pics/Zebrafish_Cinema.png"]
+documentationLanguage = "English-UK"
+bom = "https://elifesciences.org/articles/48779#table2"
+timestamp = "1643287968"
+function = "The open visual stimulator is a projector system that can take up to six different leds with any chosen wavelength and project images, videos, patterns.\n\nThis system was developed for neuroscience research and to be used for experiments in vision.\n"
+documentationReadinessLevel = "Full"
+technologyReadinessLevel = "TechnicalDesign"

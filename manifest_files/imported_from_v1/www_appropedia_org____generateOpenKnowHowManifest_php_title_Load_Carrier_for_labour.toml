@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Load_Carrier_for_labour\n"
+repo = "https://www.appropedia.org/Load_Carrier_for_labour"
+version = "56"
+license = "LicenseRef-CC-BY-SA-3.0"
+licensor = "Dhwani Trivedi"
+image = ["https://www.appropedia.org/w/images/thumb/a/a3/Load_Carrier_as_a_Trolley.JPG/1000px-Load_Carrier_as_a_Trolley.JPG"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "In the undeveloped countries , there are large number in people who are engaged in labour work. They carry tonnes of weight everyday for wages. This project , has been designed to help such people. The load carrier is designed in such a way that the weight of is evenly distributed and the laborer would not get tired. It is 3 Way load carrier which functions as a trolley, as a overhead load carrier and also as a backpack."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

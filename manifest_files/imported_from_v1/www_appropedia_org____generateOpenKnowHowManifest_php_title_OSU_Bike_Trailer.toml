@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "OSU_Bike_Trailer\n"
+repo = "https://www.appropedia.org/OSU_Bike_Trailer"
+version = "13"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "ANONYMOUS"
+image = ["https://www.appropedia.org/w/images/b/be/Osu_bike_trailer_curb_test.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Bike_trailer"
+function = "The project is complete and a success."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

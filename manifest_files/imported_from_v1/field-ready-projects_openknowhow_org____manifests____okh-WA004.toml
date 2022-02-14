@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"WA004 - 2” Tri-Clamp \"\n"
+repo = "https://field-ready-projects.openknowhow.org/wa004"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/dc05f82878c0e8873bdbea1457e3bebc/a23208c1/WA004_Catalog.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "\"Joins flanged pipe (not pressurized) \"\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

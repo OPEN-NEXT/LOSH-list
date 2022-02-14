@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "\"GN011 - IEC 309 Connector \"\n"
+repo = "https://field-ready-projects.openknowhow.org/gn011"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/7be4afd0eb14f142ece11b1d6e5adc61/16abc201/GN011_Image_Catalogue.JPG"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "90 degree connector to hold IEC 309 plug socket \n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

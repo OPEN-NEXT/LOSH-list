@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "Open-source_colorimeter\n"
+repo = "https://www.appropedia.org/Open-source_colorimeter"
+version = "43"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Joshua M. Pearce"
+image = ["https://www.appropedia.org/w/images/f/fb/Colorimeter.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+function = "This project details an open-source colorimeter, which is made from open source electronics and 3-D printable components. This is part of a larger project to reduce the cost of scientific equipment using open-source hardware. Source Anzalone GC, Glover AG, Pearce JM. Open-Source Colorimeter. Sensors. 2013; 13(4):5338-5346."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

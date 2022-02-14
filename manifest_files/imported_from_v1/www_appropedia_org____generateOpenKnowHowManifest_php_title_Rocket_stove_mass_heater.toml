@@ -1,0 +1,13 @@
+okhv = "OKH-LOSHv1.0"
+name = "Rocket_stove_mass_heater\n"
+repo = "https://www.appropedia.org/Rocket_stove_mass_heater"
+version = "32"
+license = "LicenseRef-CC BY-SA-4.0"
+licensor = "Leigh Blackall"
+image = ["https://www.appropedia.org/w/images/b/b7/Organicarts-2870436279.jpg"]
+documentationLanguage = "en"
+timestamp = "1643287968"
+forkOf = "https://www.appropedia.org/Rocket_stove"
+function = "Building a rocket stove mass heater (including research).   == Advantages == Heat your home with much less wood than an open fire (it has been claimed 5 to 10 times less). Exhaust is mainly steam and CO2, with much less of the impurities normally contained in smoke. (A little smoke is emitted at the beginning.) The heat from one fire can last for days thanks to the thermal mass. You can build one in a day and half."
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "Ideation"

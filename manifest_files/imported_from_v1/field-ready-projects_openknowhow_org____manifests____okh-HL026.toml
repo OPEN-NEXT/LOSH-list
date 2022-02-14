@@ -1,0 +1,12 @@
+okhv = "OKH-LOSHv1.0"
+name = "HL026 - Fluid Warmer\n"
+repo = "https://field-ready-projects.openknowhow.org/hl026"
+version = "UNVERSIONED"
+license = "LicenseRef-CERN"
+licensor = "Field Ready"
+image = ["https://dl.airtable.com/.attachments/f490f1a6d6b171e5240ecc0deff47ffa/10fcdf6e/3_Doctorhookingupfluidwarmeratannapurnahospital.jpg"]
+documentationLanguage = "En-US"
+timestamp = "1643287968"
+function = "Ensures blood entering the body is at the correct temp to prevent hypothermia\n"
+documentationReadinessLevel = "Started"
+technologyReadinessLevel = "TechnicalDesign"

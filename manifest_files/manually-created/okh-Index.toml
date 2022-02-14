@@ -6,8 +6,8 @@ release = "https://github.com/index-machines/index/releases/tag/v1.2.2"
 license = "GPL-3.0-only"
 licensor = "Stephen Hawes"
 organisation = "Index Machines"
-readme = "https://github.com/index-machines/index#readme"
-image = "https://github.com/index-machines/index/blob/master/img/index-hero.jpg"
+readme = "README.md"
+image = "img/index-hero.jpg"
 documentation-language = "en-GB"
 function = "The Index Pick and Place is an open source pick and place machine to aid in Mid-Scale Manufacturing."
 technology-readiness-level = "OTRL-4"
@@ -18,6 +18,6 @@ tsdc = [
 	"STD",
 	"ASM"
 	]
-bom = "https://github.com/index-machines/index/blob/master/parts.csv"
+bom = "parts.csv"
 manufacturing-instructions = "https://github.com/index-machines/index/wiki"
 user-manual = "https://github.com/index-machines/index/wiki"

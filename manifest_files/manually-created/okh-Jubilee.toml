@@ -21,4 +21,7 @@ tsdc = [
 bom = "https://docs.google.com/spreadsheets/d/1pRzBQxVzL9c4T9b1RrKvSjlSwJJhJ7NcbSV6iJUv0X0/edit#gid=0"
 manufacturing-instructions = "https://jubilee3d.com/index.php?title=Main_Page"
 user-manual = "https://github.com/machineagency/jubilee#top-level-specs"
-outer-dimensions-mm = "cube(size = [560,480,610])"
+[outer-dimensions]
+openSCAD = "cube(size = [560,480,610])"
+unit = "mm"
+

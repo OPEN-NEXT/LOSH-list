@@ -20,7 +20,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/2/2e/Cta_bmc_brick_making_machine_ceta-ram_for_soil_bricks_1.0.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/d/d9/Ceta_bbmcr_CAD-files.zip"
 user-manual = "https://cdata.oho.wiki/images/2/2e/Cta_bmc_brick_making_machine_ceta-ram_for_soil_bricks_1.0.pdf"
-outer-dimensions-mm = "cube(size = [2000,470,400])"
+[outer-dimensions]
+openSCAD = "cube(size = [2000,470,400])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/d/d9/Ceta_bbmcr_CAD-files.zip",
 	"https://cdata.oho.wiki/images/c/c9/Ceta_bbmcr_DWG-files.zip",

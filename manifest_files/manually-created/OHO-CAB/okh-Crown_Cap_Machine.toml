@@ -21,7 +21,10 @@ tsdc = [
 bom = "https://en.oho.wiki/wiki/Crown_Cap_Machine"
 manufacturing-instructions = "https://cdata.oho.wiki/images/4/46/Oseg_ccm_crown-cap-machine.pdf"
 user-manual = "https://cdata.oho.wiki/images/4/46/Oseg_ccm_crown-cap-machine.pdf"
-outer-dimensions-mm = "cube(size = [520,200,300])"
+[outer-dimensions]
+openSCAD = "cube(size = [520,200,300])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/4/46/Oseg_ccm_crown-cap-machine.pdf",
 	"https://cdata.oho.wiki/images/5/50/Oseg_ccm_Crown_cap_machine.zip",

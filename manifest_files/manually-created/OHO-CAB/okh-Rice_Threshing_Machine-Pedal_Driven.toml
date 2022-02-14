@@ -20,7 +20,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/d/d0/Vit_rt_rice-thresher-machine_1.0.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/8/87/Vit_rt_CAD-files_.zip"
 user-manual = "https://cdata.oho.wiki/images/d/d0/Vit_rt_rice-thresher-machine_1.0.pdf"
-outer-dimensions-mm = "cube(size = [800,650,700])"
+[outer-dimensions]
+openSCAD = "cube(size = [800,650,700])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/8/87/Vit_rt_CAD-files_.zip"
 	"https://cdata.oho.wiki/images/6/6e/Vit_rt_DWG-files._.zip"

@@ -27,7 +27,7 @@ export = [
 ]
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [1084,140,10]"
 unit = "mm"
 
@@ -38,7 +38,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate3.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate3.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [110,100,10]"
 unit = "mm"
 
@@ -49,7 +49,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate4FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate4.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [200,110,10]"
 unit = "mm"
 
@@ -60,7 +60,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate5.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate5.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [190,145,10]"
 unit = "mm"
 
@@ -71,7 +71,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate6.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate6.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [190,132,10]"
 unit = "mm"
 
@@ -82,7 +82,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate7.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate7.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [190,75,10]"
 unit = "mm"
 
@@ -93,7 +93,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate8.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate8.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [190,50,10]"
 unit = "mm"
 
@@ -104,7 +104,7 @@ source = "/Mechanical%20System/Aluplates/FreeCAD/plate9.FCStd"
 export = "/Mechanical%20System/Aluplates/FreeCAD/Technical%20Drawings/2018-08-02_COSImeasure_mechanical_plate9.pdf"
 material = "EN AW-2017A"
 
-[[part.outer-dimensions]]
+[part.outer-dimensions]
 openSCAD = "cube(size = [190,100,10]"
 unit = "mm"
 

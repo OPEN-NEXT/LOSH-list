@@ -21,7 +21,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/e/eb/Uga_sss_safe-and-sturdy-shelter_1.01.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/e/ee/Uga_sss_CAD-files.zip"
 user-manual = "https://cdata.oho.wiki/images/e/eb/Uga_sss_safe-and-sturdy-shelter_1.01.pdf"
-outer-dimensions-mm = "cube(size = [1420,240,1450])"
+[outer-dimensions]
+openSCAD = "cube(size = [1420,240,1450])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/e/ee/Uga_sss_CAD-files.zip"
 	"https://cdata.oho.wiki/images/5/56/Uga_sss_STP-files.zip"

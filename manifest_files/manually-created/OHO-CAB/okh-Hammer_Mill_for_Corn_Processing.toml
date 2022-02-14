@@ -20,7 +20,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"
 user-manual = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
-outer-dimensions-mm = "cube(size = [1800,780,600])"
+[outer-dimensions]
+openSCAD = "cube(size = [1800,780,600])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf",
 	"https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"

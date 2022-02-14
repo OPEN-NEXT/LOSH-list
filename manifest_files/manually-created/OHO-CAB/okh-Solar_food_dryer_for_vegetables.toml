@@ -20,7 +20,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/8/81/Amv_bsfd_building-solar-food-dryer_1.0.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/8/8c/Wl_lacb_STP-files.zip"
 user-manual = "https://cdata.oho.wiki/images/8/81/Amv_bsfd_building-solar-food-dryer_1.0.pdf"
-outer-dimensions-mm = "cube(size = [1570,1850,660])"
+[outer-dimensions]
+openSCAD = "cube(size = [1570,1850,660])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/2/2f/Amv_bsfd_CAD-files.zip"
 	"https://cdata.oho.wiki/images/3/33/Amv_bsfd_STP-files.zip"

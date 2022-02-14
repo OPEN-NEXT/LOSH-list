@@ -20,7 +20,10 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/9/97/Oseg_wmp_wind-mill-pump3.0.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/2/29/Oseg_wmp_CAD-files.zip"
 user-manual = "https://cdata.oho.wiki/images/9/97/Oseg_wmp_wind-mill-pump3.0.pdf"
-outer-dimensions-mm = "cube(size = [4820,3000,1200])"
+[outer-dimensions]
+openSCAD = "cube(size = [4820,3000,1200])"
+unit = "mm"
+
 export = [
 	"https://cdata.oho.wiki/images/9/97/Oseg_wmp_wind-mill-pump3.0.pdf",
 	"https://cdata.oho.wiki/images/b/bb/Oseg_wmp_STP-Files.zip",

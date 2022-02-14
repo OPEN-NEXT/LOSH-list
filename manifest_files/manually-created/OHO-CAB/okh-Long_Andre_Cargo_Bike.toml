@@ -21,4 +21,7 @@ tsdc = [
 bom = "https://cdata.oho.wiki/images/2/26/Wl_lacb_Long_Andr%C3%A9_Cargo_Bike_A.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/8/8c/Wl_lacb_STP-files.zip"
 user-manual = "https://cdata.oho.wiki/images/2/26/Wl_lacb_Long_Andr%C3%A9_Cargo_Bike_A.pdf"
-outer-dimensions-mm = "cube(size = [3000,1250,650])"
+[outer-dimensions]
+openSCAD = "cube(size = [3000,1250,650])"
+unit = "mm"
+

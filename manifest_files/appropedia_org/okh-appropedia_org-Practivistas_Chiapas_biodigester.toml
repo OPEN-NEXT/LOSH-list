@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Julialibrera", "Gge2", "Annie.bartholomew", "Ginalabar",]
 image = "https://www.appropedia.org/w/images/f/f1/Biodigester_diagramed_copy.jpg"
 function = "biodigester, biogas - Demonstration Biodigester in San Cristóbal de las Casas, Chiapas, Mexico"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

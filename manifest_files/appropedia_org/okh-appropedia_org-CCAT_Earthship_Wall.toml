@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "Thallia Bird", "Jghoul", "Spescitelli", "DanielHughes", "Krystal Ocean",]
 image = "https://www.appropedia.org/w/images/8/8c/Tires.JPG"
 function = "ccat, garden, gardening, Tire Retaining Walls, Earthship construction"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

@@ -6,4 +6,4 @@ licensor = [ "user:Cts21", "Team Jumanji",]
 image = "https://www.appropedia.org/w/images/1/18/Wlid.JPG"
 function = "ccat, game, kids"
 documentation-language = "en"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

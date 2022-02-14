@@ -5,4 +5,4 @@ okhv = "2.0"
 licensor = [ "user:Sarahcooper", "user:Wponting",]
 image = "https://www.appropedia.org/w/images/d/d5/Earthbag_chickenwire.JPG"
 function = "ccat, earthbag, garden, gardening, green construction, terrace"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

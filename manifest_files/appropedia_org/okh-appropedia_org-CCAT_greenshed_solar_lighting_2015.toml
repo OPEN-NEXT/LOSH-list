@@ -6,4 +6,4 @@ licensor = [ "Jdr384", "Valerie",]
 image = "https://www.appropedia.org/w/images/7/74/Rooftop.jpg"
 function = "ccat, greenshed, photovoltaic, shed, solar"
 documentation-language = "en"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

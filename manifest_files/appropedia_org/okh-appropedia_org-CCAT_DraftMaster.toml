@@ -6,4 +6,4 @@ licensor = [ "user:Jcc562", "Radical Earth Solutions (RES)",]
 image = "https://www.appropedia.org/w/images/d/d8/IMG_7804.JPG"
 function = "ccat, clothes, drying, laundry"
 documentation-language = "en"
-technology-readiness-level = "OTLR-5"
+technology-readiness-level = "OTRL-5"

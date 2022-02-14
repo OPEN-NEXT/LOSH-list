@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "OpenPCR"
 repo = "https://openpcr.org"
 version = "1.0.0"

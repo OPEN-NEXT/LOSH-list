@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "OpenROV"
 repo = "https://github.com/OpenROV/"
 version = "2.8.0"

@@ -1,4 +1,4 @@
-okhv = "2.0"
+okhv = "OKH-LOSHv1.0"
 name = "Opentrons"
 repo = "https://github.com/Opentrons"
 version = "1.0.0"

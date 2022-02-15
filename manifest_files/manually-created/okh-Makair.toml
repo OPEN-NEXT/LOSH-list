@@ -20,3 +20,11 @@ cpc-patent-class = "A61M16/00"
 tsdc = "ASM"
 bom = "Readme.md#Components"
 manufacturing-instructions = "Readme.md#how-to-build"
+
+[[software]]
+release = "https://github.com/makers-for-life/makair-firmware/releases/tag/v4.1.0"
+installation-guide = "https://github.com/makers-for-life/makair-firmware/tree/v4.1.0#how-to-flash"
+
+[[software]]
+release = "https://github.com/makers-for-life/makair-control-ui/releases/tag/v2.3.0"
+installation-guide = "https://github.com/makers-for-life/makair-control-ui/tree/v2.3.0#how-to-build"

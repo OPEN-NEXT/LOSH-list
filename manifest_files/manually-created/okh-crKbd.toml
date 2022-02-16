@@ -16,11 +16,9 @@ tsdc = "PCB"
 bom = "https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md"
 manufacturing-instructions = "/corne-*/doc/**/*.md"
 
-#ToDo add source files!
+# TODO add source files!
 
-#user-manual = "/manual/"
-
-# ToDo: functional-metadata:
+# TODO functional-metadata:
 #  - 2 * (Arduino) Pro Micro microcontrollers
 #  - QMK Firmware
 #  - split

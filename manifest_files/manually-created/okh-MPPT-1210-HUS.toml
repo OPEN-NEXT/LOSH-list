@@ -16,8 +16,8 @@ bom = "https://libre.solar/mppt-1210-hus/bom.html"
 manufacturing-instructions = "/manual/"
 user-manual = "/manual/"
 
-# ToDo: production metadata
-# ToDo: functional metadata
+# TODO: production metadata
+# TODO: functional metadata
 #  - 12V battery voltage
 #  - 40V max. solar input (36 to 48-cell panels, ideally so-called 12V panels with 36 cells)
 #  - 10A max. charge current

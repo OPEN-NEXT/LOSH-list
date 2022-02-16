@@ -3,7 +3,7 @@ name = "Flipper Zero 3D models"
 repo = "https://github.com/flipperdevices/flipperzero-3d-models"
 version = "B9C6"
 release = "https://github.com/flipperdevices/flipperzero-3d-models/releases/tag/B9C6"
-
+license = "GPL-3.0-only"
 licensor = "Anna Prosvetova, Pavel Zhovner"
 organization = "Flipper Devices Inc."
 readme = "README.md"

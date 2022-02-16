@@ -14,4 +14,4 @@ documentation-readiness-level = "ODRL-3"
 function = "A fully programmable, impeccably built, open source, split mechanical keyboard designed for extreme productivity and ergonomics."
 cpc-patent-class = "H01H"
 tsdc = "STD"
-bom = "https://github.com/UltimateHackingKeyboard/uhk60v1-electronics/tree/master/bom"
+bom = "bom/README.md" # TODO PROJECT This is the README of a dir containig a script that can generate the BoM for only the the electronics

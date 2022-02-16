@@ -4,7 +4,7 @@ repo = "https://en.oho.wiki/wiki/Wind_Mill_Pump"
 version = "44512"
 release = "https://en.oho.wiki/index.php?title=Wind_Mill_Pump&oldid=44512"
 license = "CC-BY-SA-4.0"
-licensor = "Inddigital"
+licensor = "Inddigital" # FIXME This is very ambigous; no way to contact
 organisation = "Brace Research Institute"
 readme = "https://cdata.oho.wiki/images/9/97/Oseg_wmp_wind-mill-pump3.0.pdf"
 image = "https://en.oho.wiki/wiki/Wind_Mill_Pump#/media/File:Wind_mill.png"

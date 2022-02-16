@@ -4,7 +4,7 @@ repo = "https://en.oho.wiki/wiki/Crown_Cap_Machine"
 version = "43333"
 release = "https://en.oho.wiki/index.php?title=Crown_Cap_Machine&oldid=43333"
 license = "CERN-OHL-1.2"
-licensor = "Aquilesmorillo"
+licensor = "Aquilesmorillo" # FIXME Maybe we can do a bit better
 organisation = "Practical Action"
 readme = "https://cdata.oho.wiki/images/4/46/Oseg_ccm_crown-cap-machine.pdf"
 image = "https://en.oho.wiki/wiki/Crown_Cap_Machine#/media/File:Crow.png"

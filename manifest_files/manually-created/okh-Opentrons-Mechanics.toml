@@ -1,5 +1,5 @@
 okhv = "OKH-LOSHv1.0"
-name = "Opentrons"
+name = "Opentrons Mechanics"
 repo = "https://github.com/Opentrons/otone_hardware"
 version = "1.0.0"
 release = "https://github.com/Opentrons/otone_hardware/tree/5488af883a50c170301a0c1845abd50a51b9dfb3"

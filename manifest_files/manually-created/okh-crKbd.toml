@@ -13,8 +13,27 @@ documentation-readiness-level = "ODRL-3"
 function = "The Corne is a 40% split mechanical USB general purpose keyboard. It is made up of two halves with 3x6 column staggered keys and 3 thumb keys. It has full RGB backlighting, and is fully programmable using the popular Open Source QMK firmware. The basic design principles are, to have a minimal, ergonomically arranged set of keys that are all reachable by moving a finger by at most a distance of one key in diagonal."
 cpc-patent-class = "G06C 7/02"
 tsdc = "PCB"
-bom = "https://github.com/foostan/crkbd/blob/master/corne-classic/doc/buildguide_en.md"
-manufacturing-instructions = "/corne-*/doc/**/*.md"
+bom = "corne-cherry/doc/v3/buildguide_en.md#parts" # There are more BoMs (for all the other versions), but OKH currently (Feb. 2022) does not support multiple BoMs
+manufacturing-instructions = [
+  "corne-cherry/doc/buildguide_en.md",
+  "corne-cherry/doc/buildguide_jp.md",
+  "corne-cherry/doc/v2/buildguide_en.md",
+  "corne-cherry/doc/v2/buildguide_jp.md",
+  "corne-cherry/doc/v2/buildguide_tilting_tenting_plate_en.md",
+  "corne-cherry/doc/v2/buildguide_tilting_tenting_plate_jp.md",
+  "corne-cherry/doc/v3/buildguide_en.md",
+  "corne-cherry/doc/v3/buildguide_jp.md",
+  "corne-chocolate/doc/buildguide_en.md",
+  "corne-chocolate/doc/buildguide_jp.md",
+  "corne-classic/doc/buildguide_en.md",
+  "corne-classic/doc/buildguide_jp.md",
+  "corne-light/doc/buildguide_en.md",
+  "corne-light/doc/buildguide_jp.md",
+  "corne-light/doc/v1/buildguide_en.md",
+  "corne-light/doc/v1/buildguide_jp.md",
+  "corne-light/doc/v2/buildguide_low_edition_en.md",
+  "corne-light/doc/v2/buildguide_low_edition_jp.md"
+  ]
 
 # TODO add source files!
 

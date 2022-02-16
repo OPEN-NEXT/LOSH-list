@@ -1,6 +1,6 @@
 okhv = "OKH-LOSHv1.0"
 name = "OpenPCR"
-repo = "https://openpcr.org"
+repo = "https://github.com/jperfetto/OpenPCR"
 version = "1.0.0"
 release = "https://openpcr.org/downloads/design/OpenPCR-CAD-1.0.zip"
 license = "GPL-3.0-only"

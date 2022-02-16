@@ -5,7 +5,7 @@ version = "1.5.4"
 release = "https://github.com/makers-for-life/makair/releases/tag/v1.5.4"
 license = "Unlicense"
 licensor = [
-	"Valerian Saliou", 
+	"Valerian Saliou",
 	"Baptiste Jamin",
 	"Quentin ADAM"
 	]

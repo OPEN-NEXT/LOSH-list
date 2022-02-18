@@ -1,6 +1,5 @@
 okhv = "OKH-LOSHv1.0"
 name = "Brick Making Machine CETA-RAM - for soil bricks"
-function = "manual device to make soil bricks"
 repo = "https://en.oho.wiki/wiki/Brick_Making_Machine_CETA-RAM_-_for_soil_bricks"
 version = "43513"
 release = "https://en.oho.wiki/index.php?title=Brick_Making_Machine_CETA-RAM_-_for_soil_bricks&oldid=43513"

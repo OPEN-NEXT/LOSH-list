@@ -6,25 +6,18 @@ release = "https://en.oho.wiki/index.php?title=Hammer_Mill_for_Corn_Processing&o
 license = "CC-BY-SA 4.0"
 licensor = "Yule.ar"
 organisation = "Apt Abatec"
-readme = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+readme = "https://en.oho.wiki/index.php?title=Hammer_Mill_for_Corn_Processing&oldid=44028"
 image = "https://en.oho.wiki/wiki/Hammer_Mill_for_Corn_Processing#/media/File:Hammer.png"
 documentation-language = "en-GB"
 technology-readiness-level = "OTRL-4"
-documentation-readiness-level = "ODRL-3"
+documentation-readiness-level = "ODRL-2"
 cpc-patent-class = "A23P"
-tsdc = [
-	"BUY",
-	"STD",
-	"ASM"
-	]
+tsdc = "MEC"
 bom = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
-manufacturing-instructions = "https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"
-user-manual = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+manufacturing-instructions = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"
+
 [outer-dimensions]
 openSCAD = "cube(size = [1800,780,600])"
 unit = "mm"
 
-export = [
-	"https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf",
-	"https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"
-	]
+source = "https://cdata.oho.wiki/images/a/a9/Oho_hm_DWG-files.zip"

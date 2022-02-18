@@ -9,24 +9,19 @@ readme = "https://en.oho.wiki/index.php?title=Workshop_Crane_powered_by_drill&ol
 image = "https://cdata.oho.wiki/images/5/5c/Workshop_Crane_powered_.png"
 documentation-language = "en-GB"
 technology-readiness-level = "OTRL-4"
-documentation-readiness-level = "ODRL-4"
+documentation-readiness-level = "ODRL-3*"
 attestation = "https://en.oho.wiki/index.php?title=Workshop_Crane_powered_by_drill&oldid=43358"
 function = "Workshop crane powered by a hand drill Based on a video, the necessary parameters were determined to build the equipment in a professional way. Several tools were used such as perspective photo adjustment, anthropometric data to process images where people interact, mechanical resistance analysis, among others."
 cpc-patent-class = "B66C2700/01"
-tsdc = [
-	"MEC",
-	"STD",
-	"ASM",
-	"BUY"
-	]
-bom = "https://en.oho.wiki/index.php?title=Workshop_Crane_powered_by_drill&oldid=43358"
+tsdc = "MEC"
+bom = "https://cdata.oho.wiki/images/5/54/Oseg_wc_workshop-crane_1-02.pdf"
 manufacturing-instructions = "https://cdata.oho.wiki/images/5/54/Oseg_wc_workshop-crane_1-02.pdf"
-outer-dimension-dim = "mm"
-outer-dimension = "cube(size = [1581,1201,1400])"
 source = "https://cdata.oho.wiki/images/1/1d/Oseg_wc_CAD-files_1-01.zip"
 export = [
-	"https://cdata.oho.wiki/images/1/1d/Oseg_wc_CAD-files_1-01.zip",
 	"https://cdata.oho.wiki/images/c/c9/Oseg_wc_step.zip",
-	"https://cdata.oho.wiki/images/5/54/Oseg_wc_workshop-crane_1-02.pdf",
 	"https://cdata.oho.wiki/images/f/f2/Workshop_crane_Frame_Analysis_Report.pdf"
 	]
+
+[outer-dimensions]
+openSCAD = "cube(size = [1581,1201,1400])"
+unit = "mm"

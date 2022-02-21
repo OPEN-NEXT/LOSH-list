@@ -11,6 +11,7 @@ image = "https://en.oho.wiki/wiki/Hammer_Mill_for_Corn_Processing#/media/File:Ha
 documentation-language = "en-GB"
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-2"
+function = "Hammer Mill for Corn Processing"
 cpc-patent-class = "A23P"
 tsdc = "MEC"
 bom = "https://cdata.oho.wiki/images/f/fc/Oho_hm_hammer-mill-for-corn-processing_1.0.pdf"

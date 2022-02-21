@@ -11,6 +11,7 @@ image = "https://en.oho.wiki/wiki/Rice_Threshing_Machine_-_Pedal_Driven#/media/F
 documentation-language = "en-GB"
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-3"
+function = "Rice Threshing Machine - Pedal Driven"
 cpc-patent-class = "A01F7/00"
 tsdc = "MEC"
 bom = "https://cdata.oho.wiki/images/d/d0/Vit_rt_rice-thresher-machine_1.0.pdf"

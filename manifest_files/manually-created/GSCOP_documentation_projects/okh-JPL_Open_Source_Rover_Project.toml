@@ -1,10 +1,14 @@
 okhv = "OKH-LOSHv1.0"
 name = "JPL Open Source Rover Project"
 repo = "https://github.com/nasa-jpl/open-source-rover"
-version = "1.0.0"
+version = "3.0.0"
 release = "https://github.com/nasa-jpl/open-source-rover/releases/tag/v3.0.0"
 license = "Apache-2.0"
-licensor = "Michael Cox, Eric Junkins, Olivia Lofaro"
+licensor = [
+    "Michael Cox",
+    "Eric Junkins",
+    "Olivia Lofaro"
+]
 organisation = "NASA Jet Propulsion Laboratory"
 readme = "README.md"
 image = "images/rover.png"
@@ -16,3 +20,7 @@ cpc-patent-class = "G05D"
 tsdc = "MEC"
 bom = "parts_list/master_parts_list_raw.csv"
 manufacturing-instructions = "mechanical/body_assembly/README.md"
+
+[[software]]
+release = "https://github.com/nasa-jpl/open-source-rover/tree/ec4c9c37a0da45f785d59a562263f96f33f77ed3/software"
+installation-guide = "https://github.com/nasa-jpl/open-source-rover/blob/ec4c9c37a0da45f785d59a562263f96f33f77ed3/software/README.md"

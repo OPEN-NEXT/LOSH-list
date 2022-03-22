@@ -4,10 +4,18 @@ repo = "https://github.com/foostan/crkbd/"
 version = "3.0.1"
 release = "https://github.com/foostan/crkbd/releases/tag/corne-cherry-v3.0.1"
 license = "MIT"
-licensor = "Kosuke Adachi"
+licensor = [
+  "Kosuke Adachi"
+]
 readme = "README.md"
-image = ["https://user-images.githubusercontent.com/736191/49698496-0c3c0c80-fc08-11e8-87bc-4fd2aa7f3f78.jpg", "corne-cherry/doc/v3/assets/build_diode_overview.jpg"]
-documentation-language = ["en-US", "jp-JP"]
+image = [
+  "https://user-images.githubusercontent.com/736191/49698496-0c3c0c80-fc08-11e8-87bc-4fd2aa7f3f78.jpg",
+  "corne-cherry/doc/v3/assets/build_diode_overview.jpg"
+]
+documentation-language = [
+  "en-US",
+  "jp-JP"
+]
 technology-readiness-level = "OTRL-4"
 documentation-readiness-level = "ODRL-3"
 function = "The Corne is a 40% split mechanical USB general purpose keyboard. It is made up of two halves with 3x6 column staggered keys and 3 thumb keys. It has full RGB backlighting, and is fully programmable using the popular Open Source QMK firmware. The basic design principles are, to have a minimal, ergonomically arranged set of keys that are all reachable by moving a finger by at most a distance of one key in diagonal."

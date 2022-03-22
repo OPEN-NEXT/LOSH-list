@@ -3,7 +3,10 @@ name = "GliaX-Faceshield"
 repo = "https://github.com/GliaX/faceshield"
 version = "3.2.0"
 license = "GPL-3.0-or-later"
-licensor = "Jake Bender, Mike Doell"
+licensor = [
+    "Jake Bender",
+    "Mike Doell"
+]
 organisation = "Glia equal care"
 readme = "README.md"
 documentation-language = "en-GB"
